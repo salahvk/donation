@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "category": "Polity",
+  "questions": [
+    {
+      "id": "pol_1",
+      "category": "Polity",
+      "question": "The Constitution of India came into force on?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Constitution_of_India.jpg/330px-Constitution_of_India.jpg",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "1 January 1950"
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "id": "pol_2",
+      "category": "Polity",
+      "question": "How many fundamental rights are in the Indian Constitution?",
+      "imageUrl": null,
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "pol_3",
+      "category": "Polity",
+      "question": "The Lok Sabha can have a maximum of how many members?",
+      "imageUrl": null,
+      "options": [
+        "545",
+        "552",
+        "560",
+        "500"
+      ],
+      "answer": "552"
+    },
+    {
+      "id": "pol_4",
+      "category": "Polity",
+      "question": "Who is the head of the State Government in India?",
+      "imageUrl": null,
+      "options": [
+        "President",
+        "Governor",
+        "Chief Minister",
+        "Prime Minister"
+      ],
+      "answer": "Chief Minister"
+    },
+    {
+      "id": "pol_5",
+      "category": "Polity",
+      "question": "Article 370 was related to which state/UT?",
+      "imageUrl": null,
+      "options": [
+        "Jammu and Kashmir",
+        "Ladakh",
+        "Punjab",
+        "Assam"
+      ],
+      "answer": "Jammu and Kashmir"
+    },
+    {
+      "id": "pol_6",
+      "category": "Polity",
+      "question": "The Panchayati Raj system was constitutionalized by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "73rd"
+    },
+    {
+      "id": "pol_7",
+      "category": "Polity",
+      "question": "The President of India is elected for a term of?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/330px-Emblem_of_India.svg.png",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "id": "pol_8",
+      "category": "Polity",
+      "question": "Which body conducts elections in India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Election_Commission_of_India_Logo.svg/330px-Election_Commission_of_India_Logo.svg.png",
+      "options": [
+        "Supreme Court",
+        "Election Commission",
+        "Parliament",
+        "Cabinet"
+      ],
+      "answer": "Election Commission"
+    },
+    {
+      "id": "pol_9",
+      "category": "Polity",
+      "question": "The Rajya Sabha is also called the?",
+      "imageUrl": null,
+      "options": [
+        "Lower House",
+        "Upper House",
+        "People's House",
+        "State House"
+      ],
+      "answer": "Upper House"
+    },
+    {
+      "id": "pol_10",
+      "category": "Polity",
+      "question": "Fundamental Duties were added by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "42nd"
+    },
+    {
+      "id": "pol_11",
+      "category": "Polity",
+      "question": "The minimum age to vote in India is?",
+      "imageUrl": null,
+      "options": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "16 years"
+      ],
+      "answer": "18 years"
+    },
+    {
+      "id": "pol_12",
+      "category": "Polity",
+      "question": "Who is the guardian of the Constitution?",
+      "imageUrl": null,
+      "options": [
+        "Parliament",
+        "Supreme Court",
+        "President",
+        "Prime Minister"
+      ],
+      "answer": "Supreme Court"
+    },
+    {
+      "id": "pol_13",
+      "category": "Polity",
+      "question": "The Directive Principles are in which part of the Constitution?",
+      "imageUrl": null,
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part II"
+      ],
+      "answer": "Part IV"
+    },
+    {
+      "id": "pol_14",
+      "category": "Polity",
+      "question": "How many schedules are in the Indian Constitution?",
+      "imageUrl": null,
+      "options": [
+        "10",
+        "12",
+        "14",
+        "8"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": "pol_15",
+      "category": "Polity",
+      "question": "The Vice President is the ex-officio Chairman of?",
+      "imageUrl": null,
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Planning Commission",
+        "NITI Aayog"
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "id": "pol_16",
+      "category": "Polity",
+      "question": "Article 21 deals with?",
+      "imageUrl": null,
+      "options": [
+        "Right to Equality",
+        "Right to Life",
+        "Right to Religion",
+        "Right to Property"
+      ],
+      "answer": "Right to Life"
+    },
+    {
+      "id": "pol_17",
+      "category": "Polity",
+      "question": "The Finance Commission is appointed every?",
+      "imageUrl": null,
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "10 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "id": "pol_18",
+      "category": "Polity",
+      "question": "Who appoints the Chief Justice of India?",
+      "imageUrl": null,
+      "options": [
+        "Prime Minister",
+        "President",
+        "Parliament",
+        "Collegium alone"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_19",
+      "category": "Polity",
+      "question": "The 74th Amendment is related to?",
+      "imageUrl": null,
+      "options": [
+        "Panchayats",
+        "Municipalities",
+        "States",
+        "Centre-State relations"
+      ],
+      "answer": "Municipalities"
+    },
+    {
+      "id": "pol_20",
+      "category": "Polity",
+      "question": "The Parliament of India consists of?",
+      "imageUrl": null,
+      "options": [
+        "Lok Sabha only",
+        "Rajya Sabha only",
+        "President, Lok Sabha and Rajya Sabha",
+        "Lok Sabha and Rajya Sabha"
+      ],
+      "answer": "President, Lok Sabha and Rajya Sabha"
+    },
+    {
+      "id": "pol_21",
+      "category": "Polity",
+      "question": "Which article abolishes untouchability?",
+      "imageUrl": null,
+      "options": [
+        "Article 15",
+        "Article 17",
+        "Article 19",
+        "Article 21"
+      ],
+      "answer": "Article 17"
+    },
+    {
+      "id": "pol_22",
+      "category": "Polity",
+      "question": "The Comptroller and Auditor General is appointed by?",
+      "imageUrl": null,
+      "options": [
+        "Prime Minister",
+        "President",
+        "Finance Minister",
+        "Parliament"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_23",
+      "category": "Polity",
+      "question": "The National Emergency is proclaimed under Article?",
+      "imageUrl": null,
+      "options": [
+        "352",
+        "356",
+        "360",
+        "370"
+      ],
+      "answer": "352"
+    },
+    {
+      "id": "pol_24",
+      "category": "Polity",
+      "question": "Who was the Chairman of the Drafting Committee?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dr._Bhimrao_Ambedkar.jpg/330px-Dr._Bhimrao_Ambedkar.jpg",
+      "options": [
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": "B.R. Ambedkar"
+    },
+    {
+      "id": "pol_25",
+      "category": "Polity",
+      "question": "The minimum age to become President is?",
+      "imageUrl": null,
+      "options": [
+        "30 years",
+        "35 years",
+        "40 years",
+        "25 years"
+      ],
+      "answer": "35 years"
+    },
+    {
+      "id": "pol_26",
+      "category": "Polity",
+      "question": "Which amendment lowered the voting age to 18?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "61st",
+        "73rd"
+      ],
+      "answer": "61st"
+    },
+    {
+      "id": "pol_27",
+      "category": "Polity",
+      "question": "The Union List is in which schedule?",
+      "imageUrl": null,
+      "options": [
+        "Seventh Schedule",
+        "Eighth Schedule",
+        "Ninth Schedule",
+        "Tenth Schedule"
+      ],
+      "answer": "Seventh Schedule"
+    },
+    {
+      "id": "pol_28",
+      "category": "Polity",
+      "question": "The Attorney General is appointed by?",
+      "imageUrl": null,
+      "options": [
+        "Chief Justice",
+        "President",
+        "Prime Minister",
+        "Parliament"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_29",
+      "category": "Polity",
+      "question": "How many languages are in the Eighth Schedule?",
+      "imageUrl": null,
+      "options": [
+        "18",
+        "22",
+        "24",
+        "15"
+      ],
+      "answer": "22"
+    },
+    {
+      "id": "pol_30",
+      "category": "Polity",
+      "question": "The Lok Sabha Speaker is elected by?",
+      "imageUrl": null,
+      "options": [
+        "President",
+        "Members of Lok Sabha",
+        "Prime Minister",
+        "Rajya Sabha"
+      ],
+      "answer": "Members of Lok Sabha"
+    },
+    {
+      "id": "pol_31",
+      "category": "Polity",
+      "question": "Article {} deals with Right to Equality.",
+      "imageUrl": null,
+      "options": [
+        "14",
+        "19",
+        "21",
+        "32"
+      ],
+      "answer": "14"
+    },
+    {
+      "id": "pol_32",
+      "category": "Polity",
+      "question": "The {} House is elected directly by people.",
+      "imageUrl": null,
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Legislative Council",
+        "None"
+      ],
+      "answer": "Lok Sabha"
+    },
+    {
+      "id": "pol_33",
+      "category": "Polity",
+      "question": "{} can dissolve the Lok Sabha.",
+      "imageUrl": null,
+      "options": [
+        "President",
+        "Prime Minister",
+        "Speaker",
+        "CJI"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_34",
+      "category": "Polity",
+      "question": "The {} List has subjects like defence.",
+      "imageUrl": null,
+      "options": [
+        "Union",
+        "State",
+        "Concurrent",
+        "Residuary"
+      ],
+      "answer": "Union"
+    },
+    {
+      "id": "pol_35",
+      "category": "Polity",
+      "question": "{} amendment is called Mini Constitution.",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "42nd"
+    },
+    {
+      "id": "pol_36",
+      "category": "Polity",
+      "question": "[Set 2] The Panchayati Raj system was constitutionalized by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "73rd"
+    },
+    {
+      "id": "pol_37",
+      "category": "Polity",
+      "question": "[Set 2] The President of India is elected for a term of?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/330px-Emblem_of_India.svg.png",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "id": "pol_38",
+      "category": "Polity",
+      "question": "[Set 2] Which body conducts elections in India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Election_Commission_of_India_Logo.svg/330px-Election_Commission_of_India_Logo.svg.png",
+      "options": [
+        "Supreme Court",
+        "Election Commission",
+        "Parliament",
+        "Cabinet"
+      ],
+      "answer": "Election Commission"
+    },
+    {
+      "id": "pol_39",
+      "category": "Polity",
+      "question": "[Set 2] The Rajya Sabha is also called the?",
+      "imageUrl": null,
+      "options": [
+        "Lower House",
+        "Upper House",
+        "People's House",
+        "State House"
+      ],
+      "answer": "Upper House"
+    },
+    {
+      "id": "pol_40",
+      "category": "Polity",
+      "question": "[Set 2] Fundamental Duties were added by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "42nd"
+    },
+    {
+      "id": "pol_41",
+      "category": "Polity",
+      "question": "[Set 2] The minimum age to vote in India is?",
+      "imageUrl": null,
+      "options": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "16 years"
+      ],
+      "answer": "18 years"
+    },
+    {
+      "id": "pol_42",
+      "category": "Polity",
+      "question": "[Set 2] Who is the guardian of the Constitution?",
+      "imageUrl": null,
+      "options": [
+        "Parliament",
+        "Supreme Court",
+        "President",
+        "Prime Minister"
+      ],
+      "answer": "Supreme Court"
+    },
+    {
+      "id": "pol_43",
+      "category": "Polity",
+      "question": "[Set 2] The Directive Principles are in which part of the Constitution?",
+      "imageUrl": null,
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part II"
+      ],
+      "answer": "Part IV"
+    },
+    {
+      "id": "pol_44",
+      "category": "Polity",
+      "question": "[Set 2] How many schedules are in the Indian Constitution?",
+      "imageUrl": null,
+      "options": [
+        "10",
+        "12",
+        "14",
+        "8"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": "pol_45",
+      "category": "Polity",
+      "question": "[Set 2] The Vice President is the ex-officio Chairman of?",
+      "imageUrl": null,
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Planning Commission",
+        "NITI Aayog"
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "id": "pol_46",
+      "category": "Polity",
+      "question": "[Set 2] Article 21 deals with?",
+      "imageUrl": null,
+      "options": [
+        "Right to Equality",
+        "Right to Life",
+        "Right to Religion",
+        "Right to Property"
+      ],
+      "answer": "Right to Life"
+    },
+    {
+      "id": "pol_47",
+      "category": "Polity",
+      "question": "[Set 2] The Finance Commission is appointed every?",
+      "imageUrl": null,
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "10 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "id": "pol_48",
+      "category": "Polity",
+      "question": "[Set 2] Who appoints the Chief Justice of India?",
+      "imageUrl": null,
+      "options": [
+        "Prime Minister",
+        "President",
+        "Parliament",
+        "Collegium alone"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_49",
+      "category": "Polity",
+      "question": "[Set 2] The 74th Amendment is related to?",
+      "imageUrl": null,
+      "options": [
+        "Panchayats",
+        "Municipalities",
+        "States",
+        "Centre-State relations"
+      ],
+      "answer": "Municipalities"
+    },
+    {
+      "id": "pol_50",
+      "category": "Polity",
+      "question": "[Set 2] The Parliament of India consists of?",
+      "imageUrl": null,
+      "options": [
+        "Lok Sabha only",
+        "Rajya Sabha only",
+        "President, Lok Sabha and Rajya Sabha",
+        "Lok Sabha and Rajya Sabha"
+      ],
+      "answer": "President, Lok Sabha and Rajya Sabha"
+    },
+    {
+      "id": "pol_51",
+      "category": "Polity",
+      "question": "[Set 2] Which article abolishes untouchability?",
+      "imageUrl": null,
+      "options": [
+        "Article 15",
+        "Article 17",
+        "Article 19",
+        "Article 21"
+      ],
+      "answer": "Article 17"
+    },
+    {
+      "id": "pol_52",
+      "category": "Polity",
+      "question": "[Set 2] The Comptroller and Auditor General is appointed by?",
+      "imageUrl": null,
+      "options": [
+        "Prime Minister",
+        "President",
+        "Finance Minister",
+        "Parliament"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_53",
+      "category": "Polity",
+      "question": "[Set 2] The National Emergency is proclaimed under Article?",
+      "imageUrl": null,
+      "options": [
+        "352",
+        "356",
+        "360",
+        "370"
+      ],
+      "answer": "352"
+    },
+    {
+      "id": "pol_54",
+      "category": "Polity",
+      "question": "[Set 2] Who was the Chairman of the Drafting Committee?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dr._Bhimrao_Ambedkar.jpg/330px-Dr._Bhimrao_Ambedkar.jpg",
+      "options": [
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": "B.R. Ambedkar"
+    },
+    {
+      "id": "pol_55",
+      "category": "Polity",
+      "question": "[Set 2] The minimum age to become President is?",
+      "imageUrl": null,
+      "options": [
+        "30 years",
+        "35 years",
+        "40 years",
+        "25 years"
+      ],
+      "answer": "35 years"
+    },
+    {
+      "id": "pol_56",
+      "category": "Polity",
+      "question": "[Set 2] Which amendment lowered the voting age to 18?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "61st",
+        "73rd"
+      ],
+      "answer": "61st"
+    },
+    {
+      "id": "pol_57",
+      "category": "Polity",
+      "question": "[Set 2] The Union List is in which schedule?",
+      "imageUrl": null,
+      "options": [
+        "Seventh Schedule",
+        "Eighth Schedule",
+        "Ninth Schedule",
+        "Tenth Schedule"
+      ],
+      "answer": "Seventh Schedule"
+    },
+    {
+      "id": "pol_58",
+      "category": "Polity",
+      "question": "[Set 2] The Attorney General is appointed by?",
+      "imageUrl": null,
+      "options": [
+        "Chief Justice",
+        "President",
+        "Prime Minister",
+        "Parliament"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_59",
+      "category": "Polity",
+      "question": "[Set 2] How many languages are in the Eighth Schedule?",
+      "imageUrl": null,
+      "options": [
+        "18",
+        "22",
+        "24",
+        "15"
+      ],
+      "answer": "22"
+    },
+    {
+      "id": "pol_60",
+      "category": "Polity",
+      "question": "[Set 2] The Lok Sabha Speaker is elected by?",
+      "imageUrl": null,
+      "options": [
+        "President",
+        "Members of Lok Sabha",
+        "Prime Minister",
+        "Rajya Sabha"
+      ],
+      "answer": "Members of Lok Sabha"
+    },
+    {
+      "id": "pol_61",
+      "category": "Polity",
+      "question": "[Set 3] The Constitution of India came into force on?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Constitution_of_India.jpg/330px-Constitution_of_India.jpg",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "1 January 1950"
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "id": "pol_62",
+      "category": "Polity",
+      "question": "[Set 3] How many fundamental rights are in the Indian Constitution?",
+      "imageUrl": null,
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "pol_63",
+      "category": "Polity",
+      "question": "[Set 3] The Lok Sabha can have a maximum of how many members?",
+      "imageUrl": null,
+      "options": [
+        "545",
+        "552",
+        "560",
+        "500"
+      ],
+      "answer": "552"
+    },
+    {
+      "id": "pol_64",
+      "category": "Polity",
+      "question": "[Set 3] Who is the head of the State Government in India?",
+      "imageUrl": null,
+      "options": [
+        "President",
+        "Governor",
+        "Chief Minister",
+        "Prime Minister"
+      ],
+      "answer": "Chief Minister"
+    },
+    {
+      "id": "pol_65",
+      "category": "Polity",
+      "question": "[Set 3] Article 370 was related to which state/UT?",
+      "imageUrl": null,
+      "options": [
+        "Jammu and Kashmir",
+        "Ladakh",
+        "Punjab",
+        "Assam"
+      ],
+      "answer": "Jammu and Kashmir"
+    },
+    {
+      "id": "pol_66",
+      "category": "Polity",
+      "question": "[Set 3] The Panchayati Raj system was constitutionalized by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "73rd"
+    },
+    {
+      "id": "pol_67",
+      "category": "Polity",
+      "question": "[Set 3] The President of India is elected for a term of?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/330px-Emblem_of_India.svg.png",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "id": "pol_68",
+      "category": "Polity",
+      "question": "[Set 3] Which body conducts elections in India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Election_Commission_of_India_Logo.svg/330px-Election_Commission_of_India_Logo.svg.png",
+      "options": [
+        "Supreme Court",
+        "Election Commission",
+        "Parliament",
+        "Cabinet"
+      ],
+      "answer": "Election Commission"
+    },
+    {
+      "id": "pol_69",
+      "category": "Polity",
+      "question": "[Set 3] The Rajya Sabha is also called the?",
+      "imageUrl": null,
+      "options": [
+        "Lower House",
+        "Upper House",
+        "People's House",
+        "State House"
+      ],
+      "answer": "Upper House"
+    },
+    {
+      "id": "pol_70",
+      "category": "Polity",
+      "question": "[Set 3] Fundamental Duties were added by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "42nd"
+    },
+    {
+      "id": "pol_71",
+      "category": "Polity",
+      "question": "[Set 3] The minimum age to vote in India is?",
+      "imageUrl": null,
+      "options": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "16 years"
+      ],
+      "answer": "18 years"
+    },
+    {
+      "id": "pol_72",
+      "category": "Polity",
+      "question": "[Set 3] Who is the guardian of the Constitution?",
+      "imageUrl": null,
+      "options": [
+        "Parliament",
+        "Supreme Court",
+        "President",
+        "Prime Minister"
+      ],
+      "answer": "Supreme Court"
+    },
+    {
+      "id": "pol_73",
+      "category": "Polity",
+      "question": "[Set 3] The Directive Principles are in which part of the Constitution?",
+      "imageUrl": null,
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part II"
+      ],
+      "answer": "Part IV"
+    },
+    {
+      "id": "pol_74",
+      "category": "Polity",
+      "question": "[Set 3] How many schedules are in the Indian Constitution?",
+      "imageUrl": null,
+      "options": [
+        "10",
+        "12",
+        "14",
+        "8"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": "pol_75",
+      "category": "Polity",
+      "question": "[Set 3] The Vice President is the ex-officio Chairman of?",
+      "imageUrl": null,
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Planning Commission",
+        "NITI Aayog"
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "id": "pol_76",
+      "category": "Polity",
+      "question": "[Set 3] Article 21 deals with?",
+      "imageUrl": null,
+      "options": [
+        "Right to Equality",
+        "Right to Life",
+        "Right to Religion",
+        "Right to Property"
+      ],
+      "answer": "Right to Life"
+    },
+    {
+      "id": "pol_77",
+      "category": "Polity",
+      "question": "[Set 3] The Finance Commission is appointed every?",
+      "imageUrl": null,
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "10 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "id": "pol_78",
+      "category": "Polity",
+      "question": "[Set 3] Who appoints the Chief Justice of India?",
+      "imageUrl": null,
+      "options": [
+        "Prime Minister",
+        "President",
+        "Parliament",
+        "Collegium alone"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_79",
+      "category": "Polity",
+      "question": "[Set 3] The 74th Amendment is related to?",
+      "imageUrl": null,
+      "options": [
+        "Panchayats",
+        "Municipalities",
+        "States",
+        "Centre-State relations"
+      ],
+      "answer": "Municipalities"
+    },
+    {
+      "id": "pol_80",
+      "category": "Polity",
+      "question": "[Set 3] The Parliament of India consists of?",
+      "imageUrl": null,
+      "options": [
+        "Lok Sabha only",
+        "Rajya Sabha only",
+        "President, Lok Sabha and Rajya Sabha",
+        "Lok Sabha and Rajya Sabha"
+      ],
+      "answer": "President, Lok Sabha and Rajya Sabha"
+    },
+    {
+      "id": "pol_81",
+      "category": "Polity",
+      "question": "[Set 3] Which article abolishes untouchability?",
+      "imageUrl": null,
+      "options": [
+        "Article 15",
+        "Article 17",
+        "Article 19",
+        "Article 21"
+      ],
+      "answer": "Article 17"
+    },
+    {
+      "id": "pol_82",
+      "category": "Polity",
+      "question": "[Set 3] The Comptroller and Auditor General is appointed by?",
+      "imageUrl": null,
+      "options": [
+        "Prime Minister",
+        "President",
+        "Finance Minister",
+        "Parliament"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_83",
+      "category": "Polity",
+      "question": "[Set 3] The National Emergency is proclaimed under Article?",
+      "imageUrl": null,
+      "options": [
+        "352",
+        "356",
+        "360",
+        "370"
+      ],
+      "answer": "352"
+    },
+    {
+      "id": "pol_84",
+      "category": "Polity",
+      "question": "[Set 3] Who was the Chairman of the Drafting Committee?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dr._Bhimrao_Ambedkar.jpg/330px-Dr._Bhimrao_Ambedkar.jpg",
+      "options": [
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": "B.R. Ambedkar"
+    },
+    {
+      "id": "pol_85",
+      "category": "Polity",
+      "question": "[Set 3] The minimum age to become President is?",
+      "imageUrl": null,
+      "options": [
+        "30 years",
+        "35 years",
+        "40 years",
+        "25 years"
+      ],
+      "answer": "35 years"
+    },
+    {
+      "id": "pol_86",
+      "category": "Polity",
+      "question": "[Set 3] Which amendment lowered the voting age to 18?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "61st",
+        "73rd"
+      ],
+      "answer": "61st"
+    },
+    {
+      "id": "pol_87",
+      "category": "Polity",
+      "question": "[Set 3] The Union List is in which schedule?",
+      "imageUrl": null,
+      "options": [
+        "Seventh Schedule",
+        "Eighth Schedule",
+        "Ninth Schedule",
+        "Tenth Schedule"
+      ],
+      "answer": "Seventh Schedule"
+    },
+    {
+      "id": "pol_88",
+      "category": "Polity",
+      "question": "[Set 3] The Attorney General is appointed by?",
+      "imageUrl": null,
+      "options": [
+        "Chief Justice",
+        "President",
+        "Prime Minister",
+        "Parliament"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": "pol_89",
+      "category": "Polity",
+      "question": "[Set 3] How many languages are in the Eighth Schedule?",
+      "imageUrl": null,
+      "options": [
+        "18",
+        "22",
+        "24",
+        "15"
+      ],
+      "answer": "22"
+    },
+    {
+      "id": "pol_90",
+      "category": "Polity",
+      "question": "[Set 3] The Lok Sabha Speaker is elected by?",
+      "imageUrl": null,
+      "options": [
+        "President",
+        "Members of Lok Sabha",
+        "Prime Minister",
+        "Rajya Sabha"
+      ],
+      "answer": "Members of Lok Sabha"
+    },
+    {
+      "id": "pol_91",
+      "category": "Polity",
+      "question": "[Set 4] The Constitution of India came into force on?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Constitution_of_India.jpg/330px-Constitution_of_India.jpg",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "1 January 1950"
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "id": "pol_92",
+      "category": "Polity",
+      "question": "[Set 4] How many fundamental rights are in the Indian Constitution?",
+      "imageUrl": null,
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "pol_93",
+      "category": "Polity",
+      "question": "[Set 4] The Lok Sabha can have a maximum of how many members?",
+      "imageUrl": null,
+      "options": [
+        "545",
+        "552",
+        "560",
+        "500"
+      ],
+      "answer": "552"
+    },
+    {
+      "id": "pol_94",
+      "category": "Polity",
+      "question": "[Set 4] Who is the head of the State Government in India?",
+      "imageUrl": null,
+      "options": [
+        "President",
+        "Governor",
+        "Chief Minister",
+        "Prime Minister"
+      ],
+      "answer": "Chief Minister"
+    },
+    {
+      "id": "pol_95",
+      "category": "Polity",
+      "question": "[Set 4] Article 370 was related to which state/UT?",
+      "imageUrl": null,
+      "options": [
+        "Jammu and Kashmir",
+        "Ladakh",
+        "Punjab",
+        "Assam"
+      ],
+      "answer": "Jammu and Kashmir"
+    },
+    {
+      "id": "pol_96",
+      "category": "Polity",
+      "question": "[Set 4] The Panchayati Raj system was constitutionalized by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "73rd"
+    },
+    {
+      "id": "pol_97",
+      "category": "Polity",
+      "question": "[Set 4] The President of India is elected for a term of?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/330px-Emblem_of_India.svg.png",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "id": "pol_98",
+      "category": "Polity",
+      "question": "[Set 4] Which body conducts elections in India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Election_Commission_of_India_Logo.svg/330px-Election_Commission_of_India_Logo.svg.png",
+      "options": [
+        "Supreme Court",
+        "Election Commission",
+        "Parliament",
+        "Cabinet"
+      ],
+      "answer": "Election Commission"
+    },
+    {
+      "id": "pol_99",
+      "category": "Polity",
+      "question": "[Set 4] The Rajya Sabha is also called the?",
+      "imageUrl": null,
+      "options": [
+        "Lower House",
+        "Upper House",
+        "People's House",
+        "State House"
+      ],
+      "answer": "Upper House"
+    },
+    {
+      "id": "pol_100",
+      "category": "Polity",
+      "question": "[Set 4] Fundamental Duties were added by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "42nd"
+    }
+  ]
+}

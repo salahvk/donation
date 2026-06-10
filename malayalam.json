@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "category": "Malayalam",
+  "questions": [
+    {
+      "id": "ml_1",
+      "category": "Malayalam",
+      "question": "Who wrote 'Randamoozham'?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi",
+        "OV Vijayan"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_2",
+      "category": "Malayalam",
+      "question": "The author of 'Chemmeen' is?",
+      "imageUrl": null,
+      "options": [
+        "Thakazhi Sivasankara Pillai",
+        "Basheer",
+        "Kamala Surayya",
+        "Madhavikutty"
+      ],
+      "answer": "Thakazhi Sivasankara Pillai"
+    },
+    {
+      "id": "ml_3",
+      "category": "Malayalam",
+      "question": "Who is known as 'Beypore Sultan'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Kunjan Nambiar",
+        "Ezhuthachan",
+        "Kumaran Asan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_4",
+      "category": "Malayalam",
+      "question": "The first novel in Malayalam is?",
+      "imageUrl": null,
+      "options": [
+        "Indulekha",
+        "Chemmeen",
+        "Randamoozham",
+        "Khasakkinte Ithihasam"
+      ],
+      "answer": "Indulekha"
+    },
+    {
+      "id": "ml_5",
+      "category": "Malayalam",
+      "question": "Who wrote 'Khasakkinte Ithihasam'?",
+      "imageUrl": null,
+      "options": [
+        "OV Vijayan",
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi"
+      ],
+      "answer": "OV Vijayan"
+    },
+    {
+      "id": "ml_6",
+      "category": "Malayalam",
+      "question": "The father of Malayalam language development is considered?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Malayalam_Aksharamala.png/330px-Malayalam_Aksharamala.png",
+      "options": [
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_7",
+      "category": "Malayalam",
+      "question": "'Oru Desathinte Katha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "S.K. Pottekkatt",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "S.K. Pottekkatt"
+    },
+    {
+      "id": "ml_8",
+      "category": "Malayalam",
+      "question": "The literary form 'Kilippattu' was popularized by?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kumaran Asan"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "ml_9",
+      "category": "Malayalam",
+      "question": "Who won the first Jnanpith Award in Malayalam?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "M.T. Vasudevan Nair",
+        "ONV Kurup",
+        "Sugathakumari"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_10",
+      "category": "Malayalam",
+      "question": "The poem 'Karuna' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "ml_11",
+      "category": "Malayalam",
+      "question": "Who wrote 'Pathummayude Aadu'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair",
+        "OV Vijayan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_12",
+      "category": "Malayalam",
+      "question": "The author of 'Kayar' is?",
+      "imageUrl": null,
+      "options": [
+        "Thakazhi Sivasankara Pillai",
+        "Basheer",
+        "Pottekkatt",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "Thakazhi Sivasankara Pillai"
+    },
+    {
+      "id": "ml_13",
+      "category": "Malayalam",
+      "question": "Who wrote 'Agnisakshi'?",
+      "imageUrl": null,
+      "options": [
+        "Lalithambika Antharjanam",
+        "Kamala Surayya",
+        "Sugathakumari",
+        "Madhavikutty"
+      ],
+      "answer": "Lalithambika Antharjanam"
+    },
+    {
+      "id": "ml_14",
+      "category": "Malayalam",
+      "question": "The epic 'Krishnagatha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Cherusseri Namboothiri",
+        "Ezhuthachan",
+        "Kunchan Nambiar",
+        "Kumaran Asan"
+      ],
+      "answer": "Cherusseri Namboothiri"
+    },
+    {
+      "id": "ml_15",
+      "category": "Malayalam",
+      "question": "Who wrote 'Adhyatma Ramayanam'?",
+      "imageUrl": null,
+      "options": [
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_16",
+      "category": "Malayalam",
+      "question": "The author of 'Naalukettu' is?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi",
+        "OV Vijayan"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_17",
+      "category": "Malayalam",
+      "question": "Who wrote 'Balyakalasakhi'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Thakazhi",
+        "Pottekkatt",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_18",
+      "category": "Malayalam",
+      "question": "The poem 'Ente Bhasha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_19",
+      "category": "Malayalam",
+      "question": "Who wrote 'Mayyazhippuzhayude Theerangalil'?",
+      "imageUrl": null,
+      "options": [
+        "M. Mukundan",
+        "Basheer",
+        "OV Vijayan",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "M. Mukundan"
+    },
+    {
+      "id": "ml_20",
+      "category": "Malayalam",
+      "question": "The author of 'Pandavapuram' is?",
+      "imageUrl": null,
+      "options": [
+        "Sethu",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "Sethu"
+    },
+    {
+      "id": "ml_21",
+      "category": "Malayalam",
+      "question": "Who wrote 'Pralayam'?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_22",
+      "category": "Malayalam",
+      "question": "The play 'Ningalenne Communistakki' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Thoppil Bhasi",
+        "V.T. Bhattathiripad",
+        "C.J. Thomas",
+        "N. Krishna Pillai"
+      ],
+      "answer": "Thoppil Bhasi"
+    },
+    {
+      "id": "ml_23",
+      "category": "Malayalam",
+      "question": "Who wrote 'Iruttinte Athmavu'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair",
+        "OV Vijayan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_24",
+      "category": "Malayalam",
+      "question": "The author of 'Smarakasilakal' is?",
+      "imageUrl": null,
+      "options": [
+        "Punathil Kunhabdulla",
+        "Basheer",
+        "Mukundan",
+        "Vijayan"
+      ],
+      "answer": "Punathil Kunhabdulla"
+    },
+    {
+      "id": "ml_25",
+      "category": "Malayalam",
+      "question": "Who wrote 'Muthassi'?",
+      "imageUrl": null,
+      "options": [
+        "Sugathakumari",
+        "Kamala Surayya",
+        "Madhusoodanan Nair",
+        "ONV Kurup"
+      ],
+      "answer": "Sugathakumari"
+    },
+    {
+      "id": "ml_26",
+      "category": "Malayalam",
+      "question": "The poem 'Kurukshethram' was written by?",
+      "imageUrl": null,
+      "options": [
+        "ONV Kurup",
+        "Sugathakumari",
+        "Vayalar",
+        "P. Bhaskaran"
+      ],
+      "answer": "ONV Kurup"
+    },
+    {
+      "id": "ml_27",
+      "category": "Malayalam",
+      "question": "Who wrote 'Aarachaar'?",
+      "imageUrl": null,
+      "options": [
+        "K.R. Meera",
+        "Madhavikutty",
+        "Anita Nair",
+        "Sarah Joseph"
+      ],
+      "answer": "K.R. Meera"
+    },
+    {
+      "id": "ml_28",
+      "category": "Malayalam",
+      "question": "The author of 'Kotayunna Pattu' is?",
+      "imageUrl": null,
+      "options": [
+        "M. Govindan",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "M. Govindan"
+    },
+    {
+      "id": "ml_29",
+      "category": "Malayalam",
+      "question": "Who wrote 'Yakshi'?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "OV Vijayan",
+        "Thakazhi"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_30",
+      "category": "Malayalam",
+      "question": "The literary award 'Ezhuthachan Puraskaram' is named after?",
+      "imageUrl": null,
+      "options": [
+        "Ezhuthachan",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_31",
+      "category": "Malayalam",
+      "question": "{} wrote 'Premalekhanam'.",
+      "imageUrl": null,
+      "options": [
+        "Basheer",
+        "Thakazhi",
+        "M.T.",
+        "OV Vijayan"
+      ],
+      "answer": "Basheer"
+    },
+    {
+      "id": "ml_32",
+      "category": "Malayalam",
+      "question": "{} is known as 'Surrender Singh' in literature.",
+      "imageUrl": null,
+      "options": [
+        "Basheer",
+        "Thakazhi",
+        "Pottekkatt",
+        "Mukundan"
+      ],
+      "answer": "Basheer"
+    },
+    {
+      "id": "ml_33",
+      "category": "Malayalam",
+      "question": "Poet {} wrote 'Oru Kudayum Kunjupengalum'.",
+      "imageUrl": null,
+      "options": [
+        "Sugathakumari",
+        "ONV",
+        "Vayalar",
+        "Kamala"
+      ],
+      "answer": "Sugathakumari"
+    },
+    {
+      "id": "ml_34",
+      "category": "Malayalam",
+      "question": "{} translated the Ramayana to Malayalam.",
+      "imageUrl": null,
+      "options": [
+        "Ezhuthachan",
+        "Cherusseri",
+        "Ulloor",
+        "Kumaran Asan"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_35",
+      "category": "Malayalam",
+      "question": "Novelist {} wrote 'Randidangazhi'.",
+      "imageUrl": null,
+      "options": [
+        "Thakazhi",
+        "Basheer",
+        "M.T.",
+        "Vijayan"
+      ],
+      "answer": "Thakazhi"
+    },
+    {
+      "id": "ml_36",
+      "category": "Malayalam",
+      "question": "[Set 2] The father of Malayalam language development is considered?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Malayalam_Aksharamala.png/330px-Malayalam_Aksharamala.png",
+      "options": [
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_37",
+      "category": "Malayalam",
+      "question": "[Set 2] 'Oru Desathinte Katha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "S.K. Pottekkatt",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "S.K. Pottekkatt"
+    },
+    {
+      "id": "ml_38",
+      "category": "Malayalam",
+      "question": "[Set 2] The literary form 'Kilippattu' was popularized by?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kumaran Asan"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "ml_39",
+      "category": "Malayalam",
+      "question": "[Set 2] Who won the first Jnanpith Award in Malayalam?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "M.T. Vasudevan Nair",
+        "ONV Kurup",
+        "Sugathakumari"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_40",
+      "category": "Malayalam",
+      "question": "[Set 2] The poem 'Karuna' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "ml_41",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Pathummayude Aadu'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair",
+        "OV Vijayan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_42",
+      "category": "Malayalam",
+      "question": "[Set 2] The author of 'Kayar' is?",
+      "imageUrl": null,
+      "options": [
+        "Thakazhi Sivasankara Pillai",
+        "Basheer",
+        "Pottekkatt",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "Thakazhi Sivasankara Pillai"
+    },
+    {
+      "id": "ml_43",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Agnisakshi'?",
+      "imageUrl": null,
+      "options": [
+        "Lalithambika Antharjanam",
+        "Kamala Surayya",
+        "Sugathakumari",
+        "Madhavikutty"
+      ],
+      "answer": "Lalithambika Antharjanam"
+    },
+    {
+      "id": "ml_44",
+      "category": "Malayalam",
+      "question": "[Set 2] The epic 'Krishnagatha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Cherusseri Namboothiri",
+        "Ezhuthachan",
+        "Kunchan Nambiar",
+        "Kumaran Asan"
+      ],
+      "answer": "Cherusseri Namboothiri"
+    },
+    {
+      "id": "ml_45",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Adhyatma Ramayanam'?",
+      "imageUrl": null,
+      "options": [
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_46",
+      "category": "Malayalam",
+      "question": "[Set 2] The author of 'Naalukettu' is?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi",
+        "OV Vijayan"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_47",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Balyakalasakhi'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Thakazhi",
+        "Pottekkatt",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_48",
+      "category": "Malayalam",
+      "question": "[Set 2] The poem 'Ente Bhasha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_49",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Mayyazhippuzhayude Theerangalil'?",
+      "imageUrl": null,
+      "options": [
+        "M. Mukundan",
+        "Basheer",
+        "OV Vijayan",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "M. Mukundan"
+    },
+    {
+      "id": "ml_50",
+      "category": "Malayalam",
+      "question": "[Set 2] The author of 'Pandavapuram' is?",
+      "imageUrl": null,
+      "options": [
+        "Sethu",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "Sethu"
+    },
+    {
+      "id": "ml_51",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Pralayam'?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_52",
+      "category": "Malayalam",
+      "question": "[Set 2] The play 'Ningalenne Communistakki' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Thoppil Bhasi",
+        "V.T. Bhattathiripad",
+        "C.J. Thomas",
+        "N. Krishna Pillai"
+      ],
+      "answer": "Thoppil Bhasi"
+    },
+    {
+      "id": "ml_53",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Iruttinte Athmavu'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair",
+        "OV Vijayan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_54",
+      "category": "Malayalam",
+      "question": "[Set 2] The author of 'Smarakasilakal' is?",
+      "imageUrl": null,
+      "options": [
+        "Punathil Kunhabdulla",
+        "Basheer",
+        "Mukundan",
+        "Vijayan"
+      ],
+      "answer": "Punathil Kunhabdulla"
+    },
+    {
+      "id": "ml_55",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Muthassi'?",
+      "imageUrl": null,
+      "options": [
+        "Sugathakumari",
+        "Kamala Surayya",
+        "Madhusoodanan Nair",
+        "ONV Kurup"
+      ],
+      "answer": "Sugathakumari"
+    },
+    {
+      "id": "ml_56",
+      "category": "Malayalam",
+      "question": "[Set 2] The poem 'Kurukshethram' was written by?",
+      "imageUrl": null,
+      "options": [
+        "ONV Kurup",
+        "Sugathakumari",
+        "Vayalar",
+        "P. Bhaskaran"
+      ],
+      "answer": "ONV Kurup"
+    },
+    {
+      "id": "ml_57",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Aarachaar'?",
+      "imageUrl": null,
+      "options": [
+        "K.R. Meera",
+        "Madhavikutty",
+        "Anita Nair",
+        "Sarah Joseph"
+      ],
+      "answer": "K.R. Meera"
+    },
+    {
+      "id": "ml_58",
+      "category": "Malayalam",
+      "question": "[Set 2] The author of 'Kotayunna Pattu' is?",
+      "imageUrl": null,
+      "options": [
+        "M. Govindan",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "M. Govindan"
+    },
+    {
+      "id": "ml_59",
+      "category": "Malayalam",
+      "question": "[Set 2] Who wrote 'Yakshi'?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "OV Vijayan",
+        "Thakazhi"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_60",
+      "category": "Malayalam",
+      "question": "[Set 2] The literary award 'Ezhuthachan Puraskaram' is named after?",
+      "imageUrl": null,
+      "options": [
+        "Ezhuthachan",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_61",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Randamoozham'?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi",
+        "OV Vijayan"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_62",
+      "category": "Malayalam",
+      "question": "[Set 3] The author of 'Chemmeen' is?",
+      "imageUrl": null,
+      "options": [
+        "Thakazhi Sivasankara Pillai",
+        "Basheer",
+        "Kamala Surayya",
+        "Madhavikutty"
+      ],
+      "answer": "Thakazhi Sivasankara Pillai"
+    },
+    {
+      "id": "ml_63",
+      "category": "Malayalam",
+      "question": "[Set 3] Who is known as 'Beypore Sultan'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Kunjan Nambiar",
+        "Ezhuthachan",
+        "Kumaran Asan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_64",
+      "category": "Malayalam",
+      "question": "[Set 3] The first novel in Malayalam is?",
+      "imageUrl": null,
+      "options": [
+        "Indulekha",
+        "Chemmeen",
+        "Randamoozham",
+        "Khasakkinte Ithihasam"
+      ],
+      "answer": "Indulekha"
+    },
+    {
+      "id": "ml_65",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Khasakkinte Ithihasam'?",
+      "imageUrl": null,
+      "options": [
+        "OV Vijayan",
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi"
+      ],
+      "answer": "OV Vijayan"
+    },
+    {
+      "id": "ml_66",
+      "category": "Malayalam",
+      "question": "[Set 3] The father of Malayalam language development is considered?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Malayalam_Aksharamala.png/330px-Malayalam_Aksharamala.png",
+      "options": [
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_67",
+      "category": "Malayalam",
+      "question": "[Set 3] 'Oru Desathinte Katha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "S.K. Pottekkatt",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "S.K. Pottekkatt"
+    },
+    {
+      "id": "ml_68",
+      "category": "Malayalam",
+      "question": "[Set 3] The literary form 'Kilippattu' was popularized by?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kumaran Asan"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "ml_69",
+      "category": "Malayalam",
+      "question": "[Set 3] Who won the first Jnanpith Award in Malayalam?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "M.T. Vasudevan Nair",
+        "ONV Kurup",
+        "Sugathakumari"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_70",
+      "category": "Malayalam",
+      "question": "[Set 3] The poem 'Karuna' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "ml_71",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Pathummayude Aadu'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair",
+        "OV Vijayan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_72",
+      "category": "Malayalam",
+      "question": "[Set 3] The author of 'Kayar' is?",
+      "imageUrl": null,
+      "options": [
+        "Thakazhi Sivasankara Pillai",
+        "Basheer",
+        "Pottekkatt",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "Thakazhi Sivasankara Pillai"
+    },
+    {
+      "id": "ml_73",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Agnisakshi'?",
+      "imageUrl": null,
+      "options": [
+        "Lalithambika Antharjanam",
+        "Kamala Surayya",
+        "Sugathakumari",
+        "Madhavikutty"
+      ],
+      "answer": "Lalithambika Antharjanam"
+    },
+    {
+      "id": "ml_74",
+      "category": "Malayalam",
+      "question": "[Set 3] The epic 'Krishnagatha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Cherusseri Namboothiri",
+        "Ezhuthachan",
+        "Kunchan Nambiar",
+        "Kumaran Asan"
+      ],
+      "answer": "Cherusseri Namboothiri"
+    },
+    {
+      "id": "ml_75",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Adhyatma Ramayanam'?",
+      "imageUrl": null,
+      "options": [
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_76",
+      "category": "Malayalam",
+      "question": "[Set 3] The author of 'Naalukettu' is?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi",
+        "OV Vijayan"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_77",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Balyakalasakhi'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Thakazhi",
+        "Pottekkatt",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_78",
+      "category": "Malayalam",
+      "question": "[Set 3] The poem 'Ente Bhasha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_79",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Mayyazhippuzhayude Theerangalil'?",
+      "imageUrl": null,
+      "options": [
+        "M. Mukundan",
+        "Basheer",
+        "OV Vijayan",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "M. Mukundan"
+    },
+    {
+      "id": "ml_80",
+      "category": "Malayalam",
+      "question": "[Set 3] The author of 'Pandavapuram' is?",
+      "imageUrl": null,
+      "options": [
+        "Sethu",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "Sethu"
+    },
+    {
+      "id": "ml_81",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Pralayam'?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_82",
+      "category": "Malayalam",
+      "question": "[Set 3] The play 'Ningalenne Communistakki' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Thoppil Bhasi",
+        "V.T. Bhattathiripad",
+        "C.J. Thomas",
+        "N. Krishna Pillai"
+      ],
+      "answer": "Thoppil Bhasi"
+    },
+    {
+      "id": "ml_83",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Iruttinte Athmavu'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair",
+        "OV Vijayan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_84",
+      "category": "Malayalam",
+      "question": "[Set 3] The author of 'Smarakasilakal' is?",
+      "imageUrl": null,
+      "options": [
+        "Punathil Kunhabdulla",
+        "Basheer",
+        "Mukundan",
+        "Vijayan"
+      ],
+      "answer": "Punathil Kunhabdulla"
+    },
+    {
+      "id": "ml_85",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Muthassi'?",
+      "imageUrl": null,
+      "options": [
+        "Sugathakumari",
+        "Kamala Surayya",
+        "Madhusoodanan Nair",
+        "ONV Kurup"
+      ],
+      "answer": "Sugathakumari"
+    },
+    {
+      "id": "ml_86",
+      "category": "Malayalam",
+      "question": "[Set 3] The poem 'Kurukshethram' was written by?",
+      "imageUrl": null,
+      "options": [
+        "ONV Kurup",
+        "Sugathakumari",
+        "Vayalar",
+        "P. Bhaskaran"
+      ],
+      "answer": "ONV Kurup"
+    },
+    {
+      "id": "ml_87",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Aarachaar'?",
+      "imageUrl": null,
+      "options": [
+        "K.R. Meera",
+        "Madhavikutty",
+        "Anita Nair",
+        "Sarah Joseph"
+      ],
+      "answer": "K.R. Meera"
+    },
+    {
+      "id": "ml_88",
+      "category": "Malayalam",
+      "question": "[Set 3] The author of 'Kotayunna Pattu' is?",
+      "imageUrl": null,
+      "options": [
+        "M. Govindan",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "M. Govindan"
+    },
+    {
+      "id": "ml_89",
+      "category": "Malayalam",
+      "question": "[Set 3] Who wrote 'Yakshi'?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "OV Vijayan",
+        "Thakazhi"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_90",
+      "category": "Malayalam",
+      "question": "[Set 3] The literary award 'Ezhuthachan Puraskaram' is named after?",
+      "imageUrl": null,
+      "options": [
+        "Ezhuthachan",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_91",
+      "category": "Malayalam",
+      "question": "[Set 4] Who wrote 'Randamoozham'?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi",
+        "OV Vijayan"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_92",
+      "category": "Malayalam",
+      "question": "[Set 4] The author of 'Chemmeen' is?",
+      "imageUrl": null,
+      "options": [
+        "Thakazhi Sivasankara Pillai",
+        "Basheer",
+        "Kamala Surayya",
+        "Madhavikutty"
+      ],
+      "answer": "Thakazhi Sivasankara Pillai"
+    },
+    {
+      "id": "ml_93",
+      "category": "Malayalam",
+      "question": "[Set 4] Who is known as 'Beypore Sultan'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Kunjan Nambiar",
+        "Ezhuthachan",
+        "Kumaran Asan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_94",
+      "category": "Malayalam",
+      "question": "[Set 4] The first novel in Malayalam is?",
+      "imageUrl": null,
+      "options": [
+        "Indulekha",
+        "Chemmeen",
+        "Randamoozham",
+        "Khasakkinte Ithihasam"
+      ],
+      "answer": "Indulekha"
+    },
+    {
+      "id": "ml_95",
+      "category": "Malayalam",
+      "question": "[Set 4] Who wrote 'Khasakkinte Ithihasam'?",
+      "imageUrl": null,
+      "options": [
+        "OV Vijayan",
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi"
+      ],
+      "answer": "OV Vijayan"
+    },
+    {
+      "id": "ml_96",
+      "category": "Malayalam",
+      "question": "[Set 4] The father of Malayalam language development is considered?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Malayalam_Aksharamala.png/330px-Malayalam_Aksharamala.png",
+      "options": [
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_97",
+      "category": "Malayalam",
+      "question": "[Set 4] 'Oru Desathinte Katha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "S.K. Pottekkatt",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "S.K. Pottekkatt"
+    },
+    {
+      "id": "ml_98",
+      "category": "Malayalam",
+      "question": "[Set 4] The literary form 'Kilippattu' was popularized by?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kumaran Asan"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "ml_99",
+      "category": "Malayalam",
+      "question": "[Set 4] Who won the first Jnanpith Award in Malayalam?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "M.T. Vasudevan Nair",
+        "ONV Kurup",
+        "Sugathakumari"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_100",
+      "category": "Malayalam",
+      "question": "[Set 4] The poem 'Karuna' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    }
+  ]
+}

@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "category": "Reasoning",
+  "questions": [
+    {
+      "id": "rs_1",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 4, 8, 16, ?",
+      "imageUrl": null,
+      "options": [
+        "20",
+        "24",
+        "32",
+        "18"
+      ],
+      "answer": "32"
+    },
+    {
+      "id": "rs_2",
+      "category": "Reasoning",
+      "question": "If CAT is coded as 3120, how is DOG coded?",
+      "imageUrl": null,
+      "options": [
+        "4157",
+        "4156",
+        "4158",
+        "4159"
+      ],
+      "answer": "4157"
+    },
+    {
+      "id": "rs_3",
+      "category": "Reasoning",
+      "question": "A is B's brother. B is C's sister. C is D's father. How is A related to D?",
+      "imageUrl": null,
+      "options": [
+        "Uncle",
+        "Father",
+        "Brother",
+        "Cousin"
+      ],
+      "answer": "Uncle"
+    },
+    {
+      "id": "rs_4",
+      "category": "Reasoning",
+      "question": "Which does not belong: Apple, Mango, Potato, Orange?",
+      "imageUrl": null,
+      "options": [
+        "Apple",
+        "Mango",
+        "Potato",
+        "Orange"
+      ],
+      "answer": "Potato"
+    },
+    {
+      "id": "rs_5",
+      "category": "Reasoning",
+      "question": "Complete the series: AZ, BY, CX, ?",
+      "imageUrl": null,
+      "options": [
+        "DW",
+        "DU",
+        "DV",
+        "DX"
+      ],
+      "answer": "DW"
+    },
+    {
+      "id": "rs_6",
+      "category": "Reasoning",
+      "question": "If 5 workers complete a job in 10 days, 10 workers will take?",
+      "imageUrl": null,
+      "options": [
+        "5 days",
+        "10 days",
+        "20 days",
+        "15 days"
+      ],
+      "answer": "5 days"
+    },
+    {
+      "id": "rs_7",
+      "category": "Reasoning",
+      "question": "Find the odd one: Square, Circle, Triangle, Cube?",
+      "imageUrl": null,
+      "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Cube"
+      ],
+      "answer": "Cube"
+    },
+    {
+      "id": "rs_8",
+      "category": "Reasoning",
+      "question": "Ram is taller than Shyam. Shyam is taller than Mohan. Who is shortest?",
+      "imageUrl": null,
+      "options": [
+        "Ram",
+        "Shyam",
+        "Mohan",
+        "Cannot say"
+      ],
+      "answer": "Mohan"
+    },
+    {
+      "id": "rs_9",
+      "category": "Reasoning",
+      "question": "What comes next: J, F, M, A, M, ?",
+      "imageUrl": null,
+      "options": [
+        "J",
+        "A",
+        "S",
+        "O"
+      ],
+      "answer": "J"
+    },
+    {
+      "id": "rs_10",
+      "category": "Reasoning",
+      "question": "If North is to your left, which direction are you facing?",
+      "imageUrl": null,
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "answer": "West"
+    },
+    {
+      "id": "rs_11",
+      "category": "Reasoning",
+      "question": "Find the next: 1, 4, 9, 16, ?",
+      "imageUrl": null,
+      "options": [
+        "20",
+        "25",
+        "24",
+        "36"
+      ],
+      "answer": "25"
+    },
+    {
+      "id": "rs_12",
+      "category": "Reasoning",
+      "question": "If BOOK is coded as 21315, DOOR is?",
+      "imageUrl": null,
+      "options": [
+        "4151520",
+        "41515",
+        "415152",
+        "41520"
+      ],
+      "answer": "4151520"
+    },
+    {
+      "id": "rs_13",
+      "category": "Reasoning",
+      "question": "A's father is B's son. How is A related to B?",
+      "imageUrl": null,
+      "options": [
+        "Grandson",
+        "Son",
+        "Father",
+        "Grandfather"
+      ],
+      "answer": "Grandfather"
+    },
+    {
+      "id": "rs_14",
+      "category": "Reasoning",
+      "question": "Odd one: Dog, Cat, Lion, Table?",
+      "imageUrl": null,
+      "options": [
+        "Dog",
+        "Cat",
+        "Lion",
+        "Table"
+      ],
+      "answer": "Table"
+    },
+    {
+      "id": "rs_15",
+      "category": "Reasoning",
+      "question": "Series: 5, 10, 20, 40, ?",
+      "imageUrl": null,
+      "options": [
+        "60",
+        "80",
+        "70",
+        "50"
+      ],
+      "answer": "80"
+    },
+    {
+      "id": "rs_16",
+      "category": "Reasoning",
+      "question": "If today is Monday, what day after 25 days?",
+      "imageUrl": null,
+      "options": [
+        "Tuesday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "answer": "Friday"
+    },
+    {
+      "id": "rs_17",
+      "category": "Reasoning",
+      "question": "Find odd: January, May, June, July?",
+      "imageUrl": null,
+      "options": [
+        "January",
+        "May",
+        "June",
+        "July"
+      ],
+      "answer": "May"
+    },
+    {
+      "id": "rs_18",
+      "category": "Reasoning",
+      "question": "3 cats catch 3 rats in 3 minutes. 100 cats catch 100 rats in?",
+      "imageUrl": null,
+      "options": [
+        "3 minutes",
+        "100 minutes",
+        "1 minute",
+        "30 minutes"
+      ],
+      "answer": "3 minutes"
+    },
+    {
+      "id": "rs_19",
+      "category": "Reasoning",
+      "question": "Complete: ACE, BDF, CEG, ?",
+      "imageUrl": null,
+      "options": [
+        "DFH",
+        "DEF",
+        "DEG",
+        "EFH"
+      ],
+      "answer": "DFH"
+    },
+    {
+      "id": "rs_20",
+      "category": "Reasoning",
+      "question": "If MADRAS is coded as NBESBT, BOMBAY is?",
+      "imageUrl": null,
+      "options": [
+        "CPNCBZ",
+        "CPNCBX",
+        "CPNCBY",
+        "CPNCBW"
+      ],
+      "answer": "CPNCBZ"
+    },
+    {
+      "id": "rs_21",
+      "category": "Reasoning",
+      "question": "Pointing to a man, a woman said 'His mother is my mother's only daughter'. How is man related?",
+      "imageUrl": null,
+      "options": [
+        "Brother",
+        "Son",
+        "Nephew",
+        "Uncle"
+      ],
+      "answer": "Brother"
+    },
+    {
+      "id": "rs_22",
+      "category": "Reasoning",
+      "question": "Find next: Z, X, V, T, ?",
+      "imageUrl": null,
+      "options": [
+        "R",
+        "S",
+        "Q",
+        "P"
+      ],
+      "answer": "R"
+    },
+    {
+      "id": "rs_23",
+      "category": "Reasoning",
+      "question": "If 2x + 3 = 11, x equals?",
+      "imageUrl": null,
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": "rs_24",
+      "category": "Reasoning",
+      "question": "Odd one: Copper, Silver, Gold, Water?",
+      "imageUrl": null,
+      "options": [
+        "Copper",
+        "Silver",
+        "Gold",
+        "Water"
+      ],
+      "answer": "Water"
+    },
+    {
+      "id": "rs_25",
+      "category": "Reasoning",
+      "question": "A clock shows 3:00. Angle between hands?",
+      "imageUrl": null,
+      "options": [
+        "90°",
+        "60°",
+        "120°",
+        "180°"
+      ],
+      "answer": "90°"
+    },
+    {
+      "id": "rs_26",
+      "category": "Reasoning",
+      "question": "Series: A, C, F, J, ?",
+      "imageUrl": null,
+      "options": [
+        "O",
+        "N",
+        "P",
+        "M"
+      ],
+      "answer": "O"
+    },
+    {
+      "id": "rs_27",
+      "category": "Reasoning",
+      "question": "If SOUTH-EAST becomes NORTH, WEST becomes?",
+      "imageUrl": null,
+      "options": [
+        "South",
+        "East",
+        "North-East",
+        "South-West"
+      ],
+      "answer": "South"
+    },
+    {
+      "id": "rs_28",
+      "category": "Reasoning",
+      "question": "12 men finish work in 8 days. 8 men need?",
+      "imageUrl": null,
+      "options": [
+        "12 days",
+        "10 days",
+        "14 days",
+        "16 days"
+      ],
+      "answer": "12 days"
+    },
+    {
+      "id": "rs_29",
+      "category": "Reasoning",
+      "question": "Find missing: 3, 6, 11, 18, ?",
+      "imageUrl": null,
+      "options": [
+        "25",
+        "27",
+        "26",
+        "24"
+      ],
+      "answer": "27"
+    },
+    {
+      "id": "rs_30",
+      "category": "Reasoning",
+      "question": "If RED is 27, BLUE is?",
+      "imageUrl": null,
+      "options": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "answer": "42"
+    },
+    {
+      "id": "rs_31",
+      "category": "Reasoning",
+      "question": "Find the next number: 1, 2, 4, 8, ?",
+      "imageUrl": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "answer": "16"
+    },
+    {
+      "id": "rs_32",
+      "category": "Reasoning",
+      "question": "Find the next number: 3, 6, 12, 24, ?",
+      "imageUrl": null,
+      "options": [
+        "48",
+        "49",
+        "47",
+        "50"
+      ],
+      "answer": "48"
+    },
+    {
+      "id": "rs_33",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 6, 18, 54, ?",
+      "imageUrl": null,
+      "options": [
+        "162",
+        "163",
+        "161",
+        "164"
+      ],
+      "answer": "162"
+    },
+    {
+      "id": "rs_34",
+      "category": "Reasoning",
+      "question": "Find the next number: 5, 10, 15, 20, ?",
+      "imageUrl": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "answer": "25"
+    },
+    {
+      "id": "rs_35",
+      "category": "Reasoning",
+      "question": "Find the next number: 1, 3, 6, 10, ?",
+      "imageUrl": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "answer": "15"
+    },
+    {
+      "id": "rs_36",
+      "category": "Reasoning",
+      "question": "Find the next number: 4, 8, 16, 32, ?",
+      "imageUrl": null,
+      "options": [
+        "64",
+        "65",
+        "63",
+        "66"
+      ],
+      "answer": "64"
+    },
+    {
+      "id": "rs_37",
+      "category": "Reasoning",
+      "question": "Find the next number: 7, 14, 21, 28, ?",
+      "imageUrl": null,
+      "options": [
+        "35",
+        "36",
+        "34",
+        "37"
+      ],
+      "answer": "35"
+    },
+    {
+      "id": "rs_38",
+      "category": "Reasoning",
+      "question": "Find the next number: 10, 20, 30, 40, ?",
+      "imageUrl": null,
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "answer": "50"
+    },
+    {
+      "id": "rs_39",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 5, 10, 17, ?",
+      "imageUrl": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "answer": "26"
+    },
+    {
+      "id": "rs_40",
+      "category": "Reasoning",
+      "question": "Find the next number: 1, 4, 9, 16, ?",
+      "imageUrl": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "answer": "25"
+    },
+    {
+      "id": "rs_41",
+      "category": "Reasoning",
+      "question": "Find the next number: 6, 12, 18, 24, ?",
+      "imageUrl": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": "rs_42",
+      "category": "Reasoning",
+      "question": "Find the next number: 3, 9, 27, 81, ?",
+      "imageUrl": null,
+      "options": [
+        "243",
+        "244",
+        "242",
+        "245"
+      ],
+      "answer": "243"
+    },
+    {
+      "id": "rs_43",
+      "category": "Reasoning",
+      "question": "Find the next number: 11, 22, 33, 44, ?",
+      "imageUrl": null,
+      "options": [
+        "55",
+        "56",
+        "54",
+        "57"
+      ],
+      "answer": "55"
+    },
+    {
+      "id": "rs_44",
+      "category": "Reasoning",
+      "question": "Find the next number: 8, 16, 24, 32, ?",
+      "imageUrl": null,
+      "options": [
+        "40",
+        "41",
+        "39",
+        "42"
+      ],
+      "answer": "40"
+    },
+    {
+      "id": "rs_45",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 3, 5, 8, ?",
+      "imageUrl": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "answer": "13"
+    },
+    {
+      "id": "rs_46",
+      "category": "Reasoning",
+      "question": "Find the next number: 50, 45, 40, 35, ?",
+      "imageUrl": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": "rs_47",
+      "category": "Reasoning",
+      "question": "Find the next number: 100, 90, 81, 73, ?",
+      "imageUrl": null,
+      "options": [
+        "66",
+        "67",
+        "65",
+        "68"
+      ],
+      "answer": "66"
+    },
+    {
+      "id": "rs_48",
+      "category": "Reasoning",
+      "question": "Find the next number: 1, 2, 6, 24, ?",
+      "imageUrl": null,
+      "options": [
+        "120",
+        "121",
+        "119",
+        "122"
+      ],
+      "answer": "120"
+    },
+    {
+      "id": "rs_49",
+      "category": "Reasoning",
+      "question": "Find the next number: 3, 4, 7, 11, ?",
+      "imageUrl": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "answer": "18"
+    },
+    {
+      "id": "rs_50",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 4, 7, 11, ?",
+      "imageUrl": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "answer": "16"
+    },
+    {
+      "id": "rs_51",
+      "category": "Reasoning",
+      "question": "Find the next number: 5, 6, 8, 11, ?",
+      "imageUrl": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "answer": "15"
+    },
+    {
+      "id": "rs_52",
+      "category": "Reasoning",
+      "question": "Find the next number: 1, 1, 2, 3, ?",
+      "imageUrl": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": "rs_53",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 3, 5, 8, ?",
+      "imageUrl": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "answer": "13"
+    },
+    {
+      "id": "rs_54",
+      "category": "Reasoning",
+      "question": "Find the next number: 4, 5, 9, 14, ?",
+      "imageUrl": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "answer": "23"
+    },
+    {
+      "id": "rs_55",
+      "category": "Reasoning",
+      "question": "Find the next number: 9, 8, 7, 6, ?",
+      "imageUrl": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": "rs_56",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 6, 12, 20, ?",
+      "imageUrl": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": "rs_57",
+      "category": "Reasoning",
+      "question": "Find the next number: 3, 5, 9, 17, ?",
+      "imageUrl": null,
+      "options": [
+        "33",
+        "34",
+        "32",
+        "35"
+      ],
+      "answer": "33"
+    },
+    {
+      "id": "rs_58",
+      "category": "Reasoning",
+      "question": "Find the next number: 1, 8, 27, 64, ?",
+      "imageUrl": null,
+      "options": [
+        "125",
+        "126",
+        "124",
+        "127"
+      ],
+      "answer": "125"
+    },
+    {
+      "id": "rs_59",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 6, 14, 30, ?",
+      "imageUrl": null,
+      "options": [
+        "62",
+        "63",
+        "61",
+        "64"
+      ],
+      "answer": "62"
+    },
+    {
+      "id": "rs_60",
+      "category": "Reasoning",
+      "question": "Find the next number: 4, 9, 19, 39, ?",
+      "imageUrl": null,
+      "options": [
+        "79",
+        "80",
+        "78",
+        "81"
+      ],
+      "answer": "79"
+    },
+    {
+      "id": "rs_61",
+      "category": "Reasoning",
+      "question": "Find the next number: 6, 11, 21, 41, ?",
+      "imageUrl": null,
+      "options": [
+        "81",
+        "82",
+        "80",
+        "83"
+      ],
+      "answer": "81"
+    },
+    {
+      "id": "rs_62",
+      "category": "Reasoning",
+      "question": "Find the next number: 7, 10, 15, 22, ?",
+      "imageUrl": null,
+      "options": [
+        "31",
+        "32",
+        "30",
+        "33"
+      ],
+      "answer": "31"
+    },
+    {
+      "id": "rs_63",
+      "category": "Reasoning",
+      "question": "Find the next number: 3, 7, 15, 31, ?",
+      "imageUrl": null,
+      "options": [
+        "63",
+        "64",
+        "62",
+        "65"
+      ],
+      "answer": "63"
+    },
+    {
+      "id": "rs_64",
+      "category": "Reasoning",
+      "question": "Find the next number: 5, 11, 23, 47, ?",
+      "imageUrl": null,
+      "options": [
+        "95",
+        "96",
+        "94",
+        "97"
+      ],
+      "answer": "95"
+    },
+    {
+      "id": "rs_65",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 8, 18, 32, ?",
+      "imageUrl": null,
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "answer": "50"
+    },
+    {
+      "id": "rs_66",
+      "category": "Reasoning",
+      "question": "Find the next number: 4, 12, 28, 60, ?",
+      "imageUrl": null,
+      "options": [
+        "124",
+        "125",
+        "123",
+        "126"
+      ],
+      "answer": "124"
+    },
+    {
+      "id": "rs_67",
+      "category": "Reasoning",
+      "question": "Find the next number: 1, 5, 13, 29, ?",
+      "imageUrl": null,
+      "options": [
+        "61",
+        "62",
+        "60",
+        "63"
+      ],
+      "answer": "61"
+    },
+    {
+      "id": "rs_68",
+      "category": "Reasoning",
+      "question": "Find the next number: 6, 9, 14, 21, ?",
+      "imageUrl": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": "rs_69",
+      "category": "Reasoning",
+      "question": "Find the next number: 8, 13, 21, 34, ?",
+      "imageUrl": null,
+      "options": [
+        "55",
+        "56",
+        "54",
+        "57"
+      ],
+      "answer": "55"
+    },
+    {
+      "id": "rs_70",
+      "category": "Reasoning",
+      "question": "Find the next number: 10, 15, 25, 40, ?",
+      "imageUrl": null,
+      "options": [
+        "65",
+        "66",
+        "64",
+        "67"
+      ],
+      "answer": "65"
+    },
+    {
+      "id": "rs_71",
+      "category": "Reasoning",
+      "question": "Find the next number: 3, 8, 15, 24, ?",
+      "imageUrl": null,
+      "options": [
+        "35",
+        "36",
+        "34",
+        "37"
+      ],
+      "answer": "35"
+    },
+    {
+      "id": "rs_72",
+      "category": "Reasoning",
+      "question": "Find the next number: 5, 12, 22, 35, ?",
+      "imageUrl": null,
+      "options": [
+        "52",
+        "53",
+        "51",
+        "54"
+      ],
+      "answer": "52"
+    },
+    {
+      "id": "rs_73",
+      "category": "Reasoning",
+      "question": "Find the next number: 7, 16, 27, 40, ?",
+      "imageUrl": null,
+      "options": [
+        "55",
+        "56",
+        "54",
+        "57"
+      ],
+      "answer": "55"
+    },
+    {
+      "id": "rs_74",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 10, 30, 68, ?",
+      "imageUrl": null,
+      "options": [
+        "130",
+        "131",
+        "129",
+        "132"
+      ],
+      "answer": "130"
+    },
+    {
+      "id": "rs_75",
+      "category": "Reasoning",
+      "question": "Find the next number: 4, 7, 12, 19, ?",
+      "imageUrl": null,
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "answer": "28"
+    },
+    {
+      "id": "rs_76",
+      "category": "Reasoning",
+      "question": "Find the next number: 9, 18, 36, 72, ?",
+      "imageUrl": null,
+      "options": [
+        "144",
+        "145",
+        "143",
+        "146"
+      ],
+      "answer": "144"
+    },
+    {
+      "id": "rs_77",
+      "category": "Reasoning",
+      "question": "Find the next number: 11, 13, 17, 23, ?",
+      "imageUrl": null,
+      "options": [
+        "31",
+        "32",
+        "30",
+        "33"
+      ],
+      "answer": "31"
+    },
+    {
+      "id": "rs_78",
+      "category": "Reasoning",
+      "question": "Find the next number: 6, 8, 14, 22, ?",
+      "imageUrl": null,
+      "options": [
+        "32",
+        "33",
+        "31",
+        "34"
+      ],
+      "answer": "32"
+    },
+    {
+      "id": "rs_79",
+      "category": "Reasoning",
+      "question": "Find the next number: 3, 6, 11, 18, ?",
+      "imageUrl": null,
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "answer": "27"
+    },
+    {
+      "id": "rs_80",
+      "category": "Reasoning",
+      "question": "Find the next number: 5, 9, 17, 33, ?",
+      "imageUrl": null,
+      "options": [
+        "65",
+        "66",
+        "64",
+        "67"
+      ],
+      "answer": "65"
+    },
+    {
+      "id": "rs_81",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 5, 12, 27, ?",
+      "imageUrl": null,
+      "options": [
+        "58",
+        "59",
+        "57",
+        "60"
+      ],
+      "answer": "58"
+    },
+    {
+      "id": "rs_82",
+      "category": "Reasoning",
+      "question": "Find the next number: 4, 6, 10, 16, ?",
+      "imageUrl": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "answer": "26"
+    },
+    {
+      "id": "rs_83",
+      "category": "Reasoning",
+      "question": "Find the next number: 8, 12, 20, 32, ?",
+      "imageUrl": null,
+      "options": [
+        "52",
+        "53",
+        "51",
+        "54"
+      ],
+      "answer": "52"
+    },
+    {
+      "id": "rs_84",
+      "category": "Reasoning",
+      "question": "Find the next number: 7, 9, 13, 19, ?",
+      "imageUrl": null,
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "answer": "27"
+    },
+    {
+      "id": "rs_85",
+      "category": "Reasoning",
+      "question": "Find the next number: 1, 6, 15, 28, ?",
+      "imageUrl": null,
+      "options": [
+        "45",
+        "46",
+        "44",
+        "47"
+      ],
+      "answer": "45"
+    },
+    {
+      "id": "rs_86",
+      "category": "Reasoning",
+      "question": "Find the next number: 3, 10, 21, 36, ?",
+      "imageUrl": null,
+      "options": [
+        "55",
+        "56",
+        "54",
+        "57"
+      ],
+      "answer": "55"
+    },
+    {
+      "id": "rs_87",
+      "category": "Reasoning",
+      "question": "Find the next number: 5, 14, 30, 52, ?",
+      "imageUrl": null,
+      "options": [
+        "84",
+        "85",
+        "83",
+        "86"
+      ],
+      "answer": "84"
+    },
+    {
+      "id": "rs_88",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 7, 16, 31, ?",
+      "imageUrl": null,
+      "options": [
+        "56",
+        "57",
+        "55",
+        "58"
+      ],
+      "answer": "56"
+    },
+    {
+      "id": "rs_89",
+      "category": "Reasoning",
+      "question": "Find the next number: 4, 11, 26, 57, ?",
+      "imageUrl": null,
+      "options": [
+        "120",
+        "121",
+        "119",
+        "122"
+      ],
+      "answer": "120"
+    },
+    {
+      "id": "rs_90",
+      "category": "Reasoning",
+      "question": "Find the next number: 6, 13, 28, 57, ?",
+      "imageUrl": null,
+      "options": [
+        "114",
+        "115",
+        "113",
+        "116"
+      ],
+      "answer": "114"
+    },
+    {
+      "id": "rs_91",
+      "category": "Reasoning",
+      "question": "Find the next number: 9, 15, 25, 39, ?",
+      "imageUrl": null,
+      "options": [
+        "58",
+        "59",
+        "57",
+        "60"
+      ],
+      "answer": "58"
+    },
+    {
+      "id": "rs_92",
+      "category": "Reasoning",
+      "question": "Find the next number: 10, 18, 30, 46, ?",
+      "imageUrl": null,
+      "options": [
+        "66",
+        "67",
+        "65",
+        "68"
+      ],
+      "answer": "66"
+    },
+    {
+      "id": "rs_93",
+      "category": "Reasoning",
+      "question": "Find the next number: 3, 9, 21, 45, ?",
+      "imageUrl": null,
+      "options": [
+        "93",
+        "94",
+        "92",
+        "95"
+      ],
+      "answer": "93"
+    },
+    {
+      "id": "rs_94",
+      "category": "Reasoning",
+      "question": "Find the next number: 5, 15, 35, 75, ?",
+      "imageUrl": null,
+      "options": [
+        "155",
+        "156",
+        "154",
+        "157"
+      ],
+      "answer": "155"
+    },
+    {
+      "id": "rs_95",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 9, 28, 65, ?",
+      "imageUrl": null,
+      "options": [
+        "126",
+        "127",
+        "125",
+        "128"
+      ],
+      "answer": "126"
+    },
+    {
+      "id": "rs_96",
+      "category": "Reasoning",
+      "question": "Find the next number: 4, 13, 40, 121, ?",
+      "imageUrl": null,
+      "options": [
+        "364",
+        "365",
+        "363",
+        "366"
+      ],
+      "answer": "364"
+    },
+    {
+      "id": "rs_97",
+      "category": "Reasoning",
+      "question": "Find the next number: 7, 14, 28, 56, ?",
+      "imageUrl": null,
+      "options": [
+        "112",
+        "113",
+        "111",
+        "114"
+      ],
+      "answer": "112"
+    },
+    {
+      "id": "rs_98",
+      "category": "Reasoning",
+      "question": "Find the next number: 8, 17, 35, 71, ?",
+      "imageUrl": null,
+      "options": [
+        "143",
+        "144",
+        "142",
+        "145"
+      ],
+      "answer": "143"
+    },
+    {
+      "id": "rs_99",
+      "category": "Reasoning",
+      "question": "Find the next number: 6, 15, 36, 85, ?",
+      "imageUrl": null,
+      "options": [
+        "198",
+        "199",
+        "197",
+        "200"
+      ],
+      "answer": "198"
+    },
+    {
+      "id": "rs_100",
+      "category": "Reasoning",
+      "question": "Find the next number: 11, 22, 44, 88, ?",
+      "imageUrl": null,
+      "options": [
+        "176",
+        "177",
+        "175",
+        "178"
+      ],
+      "answer": "176"
+    }
+  ]
+}

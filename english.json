@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "category": "English",
+  "questions": [
+    {
+      "id": "en_1",
+      "category": "English",
+      "question": "Choose the correct synonym of 'Abundant'.",
+      "imageUrl": null,
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "answer": "Plentiful"
+    },
+    {
+      "id": "en_2",
+      "category": "English",
+      "question": "The antonym of 'Ancient' is?",
+      "imageUrl": null,
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Aged"
+      ],
+      "answer": "Modern"
+    },
+    {
+      "id": "en_3",
+      "category": "English",
+      "question": "Fill in: She ___ to school every day.",
+      "imageUrl": null,
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": "goes"
+    },
+    {
+      "id": "en_4",
+      "category": "English",
+      "question": "Which is a correct sentence?",
+      "imageUrl": null,
+      "options": [
+        "He don't like tea",
+        "He doesn't like tea",
+        "He not like tea",
+        "He doesn't likes tea"
+      ],
+      "answer": "He doesn't like tea"
+    },
+    {
+      "id": "en_5",
+      "category": "English",
+      "question": "The plural of 'child' is?",
+      "imageUrl": null,
+      "options": [
+        "childs",
+        "children",
+        "childes",
+        "childrens"
+      ],
+      "answer": "children"
+    },
+    {
+      "id": "en_6",
+      "category": "English",
+      "question": "A person who writes books is called a?",
+      "imageUrl": null,
+      "options": [
+        "Author",
+        "Editor",
+        "Publisher",
+        "Printer"
+      ],
+      "answer": "Author"
+    },
+    {
+      "id": "en_7",
+      "category": "English",
+      "question": "Choose the correctly spelled word.",
+      "imageUrl": null,
+      "options": [
+        "Accomodation",
+        "Accommodation",
+        "Acommodation",
+        "Accomadation"
+      ],
+      "answer": "Accommodation"
+    },
+    {
+      "id": "en_8",
+      "category": "English",
+      "question": "The opposite of 'Generous' is?",
+      "imageUrl": null,
+      "options": [
+        "Kind",
+        "Stingy",
+        "Noble",
+        "Helpful"
+      ],
+      "answer": "Stingy"
+    },
+    {
+      "id": "en_9",
+      "category": "English",
+      "question": "Which word is a noun?",
+      "imageUrl": null,
+      "options": [
+        "Quickly",
+        "Happiness",
+        "Run",
+        "Beautiful"
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "id": "en_10",
+      "category": "English",
+      "question": "Fill in: I have lived here ___ 2010.",
+      "imageUrl": null,
+      "options": [
+        "since",
+        "for",
+        "from",
+        "by"
+      ],
+      "answer": "since"
+    },
+    {
+      "id": "en_11",
+      "category": "English",
+      "question": "Synonym of 'Brave' is?",
+      "imageUrl": null,
+      "options": [
+        "Cowardly",
+        "Courageous",
+        "Weak",
+        "Timid"
+      ],
+      "answer": "Courageous"
+    },
+    {
+      "id": "en_12",
+      "category": "English",
+      "question": "Antonym of 'Expand' is?",
+      "imageUrl": null,
+      "options": [
+        "Grow",
+        "Contract",
+        "Increase",
+        "Extend"
+      ],
+      "answer": "Contract"
+    },
+    {
+      "id": "en_13",
+      "category": "English",
+      "question": "Fill in: They ___ playing cricket now.",
+      "imageUrl": null,
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": "are"
+    },
+    {
+      "id": "en_14",
+      "category": "English",
+      "question": "Past tense of 'go' is?",
+      "imageUrl": null,
+      "options": [
+        "goed",
+        "went",
+        "gone",
+        "going"
+      ],
+      "answer": "went"
+    },
+    {
+      "id": "en_15",
+      "category": "English",
+      "question": "Which is an adjective?",
+      "imageUrl": null,
+      "options": [
+        "Beautiful",
+        "Quickly",
+        "Run",
+        "Happiness"
+      ],
+      "answer": "Beautiful"
+    },
+    {
+      "id": "en_16",
+      "category": "English",
+      "question": "Fill in: He is taller ___ his brother.",
+      "imageUrl": null,
+      "options": [
+        "than",
+        "then",
+        "that",
+        "from"
+      ],
+      "answer": "than"
+    },
+    {
+      "id": "en_17",
+      "category": "English",
+      "question": "Synonym of 'Begin' is?",
+      "imageUrl": null,
+      "options": [
+        "End",
+        "Start",
+        "Finish",
+        "Close"
+      ],
+      "answer": "Start"
+    },
+    {
+      "id": "en_18",
+      "category": "English",
+      "question": "Correct plural of 'mouse' is?",
+      "imageUrl": null,
+      "options": [
+        "mouses",
+        "mice",
+        "mouse",
+        "mices"
+      ],
+      "answer": "mice"
+    },
+    {
+      "id": "en_19",
+      "category": "English",
+      "question": "Fill in: She has ___ finished her homework.",
+      "imageUrl": null,
+      "options": [
+        "yet",
+        "already",
+        "since",
+        "for"
+      ],
+      "answer": "already"
+    },
+    {
+      "id": "en_20",
+      "category": "English",
+      "question": "Antonym of 'Artificial' is?",
+      "imageUrl": null,
+      "options": [
+        "Fake",
+        "Natural",
+        "Synthetic",
+        "False"
+      ],
+      "answer": "Natural"
+    },
+    {
+      "id": "en_21",
+      "category": "English",
+      "question": "Which sentence is in passive voice?",
+      "imageUrl": null,
+      "options": [
+        "Ram eats rice",
+        "Rice is eaten by Ram",
+        "Ram is eating",
+        "Ram ate rice"
+      ],
+      "answer": "Rice is eaten by Ram"
+    },
+    {
+      "id": "en_22",
+      "category": "English",
+      "question": "Fill in: Neither of the boys ___ present.",
+      "imageUrl": null,
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": "is"
+    },
+    {
+      "id": "en_23",
+      "category": "English",
+      "question": "Synonym of 'Enormous' is?",
+      "imageUrl": null,
+      "options": [
+        "Tiny",
+        "Huge",
+        "Small",
+        "Little"
+      ],
+      "answer": "Huge"
+    },
+    {
+      "id": "en_24",
+      "category": "English",
+      "question": "Correct spelling?",
+      "imageUrl": null,
+      "options": [
+        "Occurrence",
+        "Occurence",
+        "Ocurrence",
+        "Occurrance"
+      ],
+      "answer": "Occurrence"
+    },
+    {
+      "id": "en_25",
+      "category": "English",
+      "question": "Fill in: I look forward ___ meeting you.",
+      "imageUrl": null,
+      "options": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": "to"
+    },
+    {
+      "id": "en_26",
+      "category": "English",
+      "question": "Antonym of 'Optimist' is?",
+      "imageUrl": null,
+      "options": [
+        "Hopeful",
+        "Pessimist",
+        "Cheerful",
+        "Positive"
+      ],
+      "answer": "Pessimist"
+    },
+    {
+      "id": "en_27",
+      "category": "English",
+      "question": "Which is a conjunction?",
+      "imageUrl": null,
+      "options": [
+        "And",
+        "Run",
+        "Beautiful",
+        "Quickly"
+      ],
+      "answer": "And"
+    },
+    {
+      "id": "en_28",
+      "category": "English",
+      "question": "Fill in: He speaks English ___ fluently.",
+      "imageUrl": null,
+      "options": [
+        "very",
+        "much",
+        "many",
+        "more"
+      ],
+      "answer": "very"
+    },
+    {
+      "id": "en_29",
+      "category": "English",
+      "question": "Synonym of 'Rapid' is?",
+      "imageUrl": null,
+      "options": [
+        "Slow",
+        "Quick",
+        "Lazy",
+        "Late"
+      ],
+      "answer": "Quick"
+    },
+    {
+      "id": "en_30",
+      "category": "English",
+      "question": "Fill in: The news ___ shocking.",
+      "imageUrl": null,
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": "is"
+    },
+    {
+      "id": "en_31",
+      "category": "English",
+      "question": "Synonym of 'Happy' is?",
+      "imageUrl": null,
+      "options": [
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "answer": "Joyful"
+    },
+    {
+      "id": "en_32",
+      "category": "English",
+      "question": "Synonym of 'Big' is?",
+      "imageUrl": null,
+      "options": [
+        "Large",
+        "Small",
+        "Tiny",
+        "Little"
+      ],
+      "answer": "Large"
+    },
+    {
+      "id": "en_33",
+      "category": "English",
+      "question": "Synonym of 'Fast' is?",
+      "imageUrl": null,
+      "options": [
+        "Quick",
+        "Slow",
+        "Late",
+        "Lazy"
+      ],
+      "answer": "Quick"
+    },
+    {
+      "id": "en_34",
+      "category": "English",
+      "question": "Synonym of 'Clever' is?",
+      "imageUrl": null,
+      "options": [
+        "Intelligent",
+        "Foolish",
+        "Dull",
+        "Slow"
+      ],
+      "answer": "Intelligent"
+    },
+    {
+      "id": "en_35",
+      "category": "English",
+      "question": "Synonym of 'Beautiful' is?",
+      "imageUrl": null,
+      "options": [
+        "Pretty",
+        "Ugly",
+        "Plain",
+        "Rough"
+      ],
+      "answer": "Pretty"
+    },
+    {
+      "id": "en_36",
+      "category": "English",
+      "question": "Synonym of 'Difficult' is?",
+      "imageUrl": null,
+      "options": [
+        "Hard",
+        "Easy",
+        "Simple",
+        "Light"
+      ],
+      "answer": "Hard"
+    },
+    {
+      "id": "en_37",
+      "category": "English",
+      "question": "Synonym of 'Correct' is?",
+      "imageUrl": null,
+      "options": [
+        "Right",
+        "Wrong",
+        "False",
+        "Bad"
+      ],
+      "answer": "Right"
+    },
+    {
+      "id": "en_38",
+      "category": "English",
+      "question": "Synonym of 'Silent' is?",
+      "imageUrl": null,
+      "options": [
+        "Quiet",
+        "Loud",
+        "Noisy",
+        "Harsh"
+      ],
+      "answer": "Quiet"
+    },
+    {
+      "id": "en_39",
+      "category": "English",
+      "question": "Synonym of 'Strong' is?",
+      "imageUrl": null,
+      "options": [
+        "Powerful",
+        "Weak",
+        "Frail",
+        "Soft"
+      ],
+      "answer": "Powerful"
+    },
+    {
+      "id": "en_40",
+      "category": "English",
+      "question": "Synonym of 'Rich' is?",
+      "imageUrl": null,
+      "options": [
+        "Wealthy",
+        "Poor",
+        "Needy",
+        "Broke"
+      ],
+      "answer": "Wealthy"
+    },
+    {
+      "id": "en_41",
+      "category": "English",
+      "question": "Synonym of '{}':",
+      "imageUrl": null,
+      "options": [
+        "Happy",
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "answer": "Happy"
+    },
+    {
+      "id": "en_42",
+      "category": "English",
+      "question": "Antonym of '{}':",
+      "imageUrl": null,
+      "options": [
+        "Hot",
+        "Cold",
+        "Warm",
+        "Mild"
+      ],
+      "answer": "Hot"
+    },
+    {
+      "id": "en_43",
+      "category": "English",
+      "question": "Past tense of '{}':",
+      "imageUrl": null,
+      "options": [
+        "write",
+        "wrote",
+        "written",
+        "writing"
+      ],
+      "answer": "write"
+    },
+    {
+      "id": "en_44",
+      "category": "English",
+      "question": "Plural of '{}':",
+      "imageUrl": null,
+      "options": [
+        "box",
+        "boxes",
+        "boxs",
+        "boxen"
+      ],
+      "answer": "box"
+    },
+    {
+      "id": "en_45",
+      "category": "English",
+      "question": "Correct: He {} to work daily.",
+      "imageUrl": null,
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": "go"
+    },
+    {
+      "id": "en_46",
+      "category": "English",
+      "question": "[Set 2] Fill in: He is taller ___ his brother.",
+      "imageUrl": null,
+      "options": [
+        "than",
+        "then",
+        "that",
+        "from"
+      ],
+      "answer": "than"
+    },
+    {
+      "id": "en_47",
+      "category": "English",
+      "question": "[Set 2] Synonym of 'Begin' is?",
+      "imageUrl": null,
+      "options": [
+        "End",
+        "Start",
+        "Finish",
+        "Close"
+      ],
+      "answer": "Start"
+    },
+    {
+      "id": "en_48",
+      "category": "English",
+      "question": "[Set 2] Correct plural of 'mouse' is?",
+      "imageUrl": null,
+      "options": [
+        "mouses",
+        "mice",
+        "mouse",
+        "mices"
+      ],
+      "answer": "mice"
+    },
+    {
+      "id": "en_49",
+      "category": "English",
+      "question": "[Set 2] Fill in: She has ___ finished her homework.",
+      "imageUrl": null,
+      "options": [
+        "yet",
+        "already",
+        "since",
+        "for"
+      ],
+      "answer": "already"
+    },
+    {
+      "id": "en_50",
+      "category": "English",
+      "question": "[Set 2] Antonym of 'Artificial' is?",
+      "imageUrl": null,
+      "options": [
+        "Fake",
+        "Natural",
+        "Synthetic",
+        "False"
+      ],
+      "answer": "Natural"
+    },
+    {
+      "id": "en_51",
+      "category": "English",
+      "question": "[Set 2] Which sentence is in passive voice?",
+      "imageUrl": null,
+      "options": [
+        "Ram eats rice",
+        "Rice is eaten by Ram",
+        "Ram is eating",
+        "Ram ate rice"
+      ],
+      "answer": "Rice is eaten by Ram"
+    },
+    {
+      "id": "en_52",
+      "category": "English",
+      "question": "[Set 2] Fill in: Neither of the boys ___ present.",
+      "imageUrl": null,
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": "is"
+    },
+    {
+      "id": "en_53",
+      "category": "English",
+      "question": "[Set 2] Synonym of 'Enormous' is?",
+      "imageUrl": null,
+      "options": [
+        "Tiny",
+        "Huge",
+        "Small",
+        "Little"
+      ],
+      "answer": "Huge"
+    },
+    {
+      "id": "en_54",
+      "category": "English",
+      "question": "[Set 2] Correct spelling?",
+      "imageUrl": null,
+      "options": [
+        "Occurrence",
+        "Occurence",
+        "Ocurrence",
+        "Occurrance"
+      ],
+      "answer": "Occurrence"
+    },
+    {
+      "id": "en_55",
+      "category": "English",
+      "question": "[Set 2] Fill in: I look forward ___ meeting you.",
+      "imageUrl": null,
+      "options": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": "to"
+    },
+    {
+      "id": "en_56",
+      "category": "English",
+      "question": "[Set 2] Antonym of 'Optimist' is?",
+      "imageUrl": null,
+      "options": [
+        "Hopeful",
+        "Pessimist",
+        "Cheerful",
+        "Positive"
+      ],
+      "answer": "Pessimist"
+    },
+    {
+      "id": "en_57",
+      "category": "English",
+      "question": "[Set 2] Which is a conjunction?",
+      "imageUrl": null,
+      "options": [
+        "And",
+        "Run",
+        "Beautiful",
+        "Quickly"
+      ],
+      "answer": "And"
+    },
+    {
+      "id": "en_58",
+      "category": "English",
+      "question": "[Set 2] Fill in: He speaks English ___ fluently.",
+      "imageUrl": null,
+      "options": [
+        "very",
+        "much",
+        "many",
+        "more"
+      ],
+      "answer": "very"
+    },
+    {
+      "id": "en_59",
+      "category": "English",
+      "question": "[Set 2] Synonym of 'Rapid' is?",
+      "imageUrl": null,
+      "options": [
+        "Slow",
+        "Quick",
+        "Lazy",
+        "Late"
+      ],
+      "answer": "Quick"
+    },
+    {
+      "id": "en_60",
+      "category": "English",
+      "question": "[Set 2] Fill in: The news ___ shocking.",
+      "imageUrl": null,
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": "is"
+    },
+    {
+      "id": "en_61",
+      "category": "English",
+      "question": "[Set 3] Choose the correct synonym of 'Abundant'.",
+      "imageUrl": null,
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "answer": "Plentiful"
+    },
+    {
+      "id": "en_62",
+      "category": "English",
+      "question": "[Set 3] The antonym of 'Ancient' is?",
+      "imageUrl": null,
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Aged"
+      ],
+      "answer": "Modern"
+    },
+    {
+      "id": "en_63",
+      "category": "English",
+      "question": "[Set 3] Fill in: She ___ to school every day.",
+      "imageUrl": null,
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": "goes"
+    },
+    {
+      "id": "en_64",
+      "category": "English",
+      "question": "[Set 3] Which is a correct sentence?",
+      "imageUrl": null,
+      "options": [
+        "He don't like tea",
+        "He doesn't like tea",
+        "He not like tea",
+        "He doesn't likes tea"
+      ],
+      "answer": "He doesn't like tea"
+    },
+    {
+      "id": "en_65",
+      "category": "English",
+      "question": "[Set 3] The plural of 'child' is?",
+      "imageUrl": null,
+      "options": [
+        "childs",
+        "children",
+        "childes",
+        "childrens"
+      ],
+      "answer": "children"
+    },
+    {
+      "id": "en_66",
+      "category": "English",
+      "question": "[Set 3] A person who writes books is called a?",
+      "imageUrl": null,
+      "options": [
+        "Author",
+        "Editor",
+        "Publisher",
+        "Printer"
+      ],
+      "answer": "Author"
+    },
+    {
+      "id": "en_67",
+      "category": "English",
+      "question": "[Set 3] Choose the correctly spelled word.",
+      "imageUrl": null,
+      "options": [
+        "Accomodation",
+        "Accommodation",
+        "Acommodation",
+        "Accomadation"
+      ],
+      "answer": "Accommodation"
+    },
+    {
+      "id": "en_68",
+      "category": "English",
+      "question": "[Set 3] The opposite of 'Generous' is?",
+      "imageUrl": null,
+      "options": [
+        "Kind",
+        "Stingy",
+        "Noble",
+        "Helpful"
+      ],
+      "answer": "Stingy"
+    },
+    {
+      "id": "en_69",
+      "category": "English",
+      "question": "[Set 3] Which word is a noun?",
+      "imageUrl": null,
+      "options": [
+        "Quickly",
+        "Happiness",
+        "Run",
+        "Beautiful"
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "id": "en_70",
+      "category": "English",
+      "question": "[Set 3] Fill in: I have lived here ___ 2010.",
+      "imageUrl": null,
+      "options": [
+        "since",
+        "for",
+        "from",
+        "by"
+      ],
+      "answer": "since"
+    },
+    {
+      "id": "en_71",
+      "category": "English",
+      "question": "[Set 3] Synonym of 'Brave' is?",
+      "imageUrl": null,
+      "options": [
+        "Cowardly",
+        "Courageous",
+        "Weak",
+        "Timid"
+      ],
+      "answer": "Courageous"
+    },
+    {
+      "id": "en_72",
+      "category": "English",
+      "question": "[Set 3] Antonym of 'Expand' is?",
+      "imageUrl": null,
+      "options": [
+        "Grow",
+        "Contract",
+        "Increase",
+        "Extend"
+      ],
+      "answer": "Contract"
+    },
+    {
+      "id": "en_73",
+      "category": "English",
+      "question": "[Set 3] Fill in: They ___ playing cricket now.",
+      "imageUrl": null,
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": "are"
+    },
+    {
+      "id": "en_74",
+      "category": "English",
+      "question": "[Set 3] Past tense of 'go' is?",
+      "imageUrl": null,
+      "options": [
+        "goed",
+        "went",
+        "gone",
+        "going"
+      ],
+      "answer": "went"
+    },
+    {
+      "id": "en_75",
+      "category": "English",
+      "question": "[Set 3] Which is an adjective?",
+      "imageUrl": null,
+      "options": [
+        "Beautiful",
+        "Quickly",
+        "Run",
+        "Happiness"
+      ],
+      "answer": "Beautiful"
+    },
+    {
+      "id": "en_76",
+      "category": "English",
+      "question": "[Set 3] Fill in: He is taller ___ his brother.",
+      "imageUrl": null,
+      "options": [
+        "than",
+        "then",
+        "that",
+        "from"
+      ],
+      "answer": "than"
+    },
+    {
+      "id": "en_77",
+      "category": "English",
+      "question": "[Set 3] Synonym of 'Begin' is?",
+      "imageUrl": null,
+      "options": [
+        "End",
+        "Start",
+        "Finish",
+        "Close"
+      ],
+      "answer": "Start"
+    },
+    {
+      "id": "en_78",
+      "category": "English",
+      "question": "[Set 3] Correct plural of 'mouse' is?",
+      "imageUrl": null,
+      "options": [
+        "mouses",
+        "mice",
+        "mouse",
+        "mices"
+      ],
+      "answer": "mice"
+    },
+    {
+      "id": "en_79",
+      "category": "English",
+      "question": "[Set 3] Fill in: She has ___ finished her homework.",
+      "imageUrl": null,
+      "options": [
+        "yet",
+        "already",
+        "since",
+        "for"
+      ],
+      "answer": "already"
+    },
+    {
+      "id": "en_80",
+      "category": "English",
+      "question": "[Set 3] Antonym of 'Artificial' is?",
+      "imageUrl": null,
+      "options": [
+        "Fake",
+        "Natural",
+        "Synthetic",
+        "False"
+      ],
+      "answer": "Natural"
+    },
+    {
+      "id": "en_81",
+      "category": "English",
+      "question": "[Set 3] Which sentence is in passive voice?",
+      "imageUrl": null,
+      "options": [
+        "Ram eats rice",
+        "Rice is eaten by Ram",
+        "Ram is eating",
+        "Ram ate rice"
+      ],
+      "answer": "Rice is eaten by Ram"
+    },
+    {
+      "id": "en_82",
+      "category": "English",
+      "question": "[Set 3] Fill in: Neither of the boys ___ present.",
+      "imageUrl": null,
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": "is"
+    },
+    {
+      "id": "en_83",
+      "category": "English",
+      "question": "[Set 3] Synonym of 'Enormous' is?",
+      "imageUrl": null,
+      "options": [
+        "Tiny",
+        "Huge",
+        "Small",
+        "Little"
+      ],
+      "answer": "Huge"
+    },
+    {
+      "id": "en_84",
+      "category": "English",
+      "question": "[Set 3] Correct spelling?",
+      "imageUrl": null,
+      "options": [
+        "Occurrence",
+        "Occurence",
+        "Ocurrence",
+        "Occurrance"
+      ],
+      "answer": "Occurrence"
+    },
+    {
+      "id": "en_85",
+      "category": "English",
+      "question": "[Set 3] Fill in: I look forward ___ meeting you.",
+      "imageUrl": null,
+      "options": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": "to"
+    },
+    {
+      "id": "en_86",
+      "category": "English",
+      "question": "[Set 3] Antonym of 'Optimist' is?",
+      "imageUrl": null,
+      "options": [
+        "Hopeful",
+        "Pessimist",
+        "Cheerful",
+        "Positive"
+      ],
+      "answer": "Pessimist"
+    },
+    {
+      "id": "en_87",
+      "category": "English",
+      "question": "[Set 3] Which is a conjunction?",
+      "imageUrl": null,
+      "options": [
+        "And",
+        "Run",
+        "Beautiful",
+        "Quickly"
+      ],
+      "answer": "And"
+    },
+    {
+      "id": "en_88",
+      "category": "English",
+      "question": "[Set 3] Fill in: He speaks English ___ fluently.",
+      "imageUrl": null,
+      "options": [
+        "very",
+        "much",
+        "many",
+        "more"
+      ],
+      "answer": "very"
+    },
+    {
+      "id": "en_89",
+      "category": "English",
+      "question": "[Set 3] Synonym of 'Rapid' is?",
+      "imageUrl": null,
+      "options": [
+        "Slow",
+        "Quick",
+        "Lazy",
+        "Late"
+      ],
+      "answer": "Quick"
+    },
+    {
+      "id": "en_90",
+      "category": "English",
+      "question": "[Set 3] Fill in: The news ___ shocking.",
+      "imageUrl": null,
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": "is"
+    },
+    {
+      "id": "en_91",
+      "category": "English",
+      "question": "[Set 4] Choose the correct synonym of 'Abundant'.",
+      "imageUrl": null,
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "answer": "Plentiful"
+    },
+    {
+      "id": "en_92",
+      "category": "English",
+      "question": "[Set 4] The antonym of 'Ancient' is?",
+      "imageUrl": null,
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Aged"
+      ],
+      "answer": "Modern"
+    },
+    {
+      "id": "en_93",
+      "category": "English",
+      "question": "[Set 4] Fill in: She ___ to school every day.",
+      "imageUrl": null,
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": "goes"
+    },
+    {
+      "id": "en_94",
+      "category": "English",
+      "question": "[Set 4] Which is a correct sentence?",
+      "imageUrl": null,
+      "options": [
+        "He don't like tea",
+        "He doesn't like tea",
+        "He not like tea",
+        "He doesn't likes tea"
+      ],
+      "answer": "He doesn't like tea"
+    },
+    {
+      "id": "en_95",
+      "category": "English",
+      "question": "[Set 4] The plural of 'child' is?",
+      "imageUrl": null,
+      "options": [
+        "childs",
+        "children",
+        "childes",
+        "childrens"
+      ],
+      "answer": "children"
+    },
+    {
+      "id": "en_96",
+      "category": "English",
+      "question": "[Set 4] A person who writes books is called a?",
+      "imageUrl": null,
+      "options": [
+        "Author",
+        "Editor",
+        "Publisher",
+        "Printer"
+      ],
+      "answer": "Author"
+    },
+    {
+      "id": "en_97",
+      "category": "English",
+      "question": "[Set 4] Choose the correctly spelled word.",
+      "imageUrl": null,
+      "options": [
+        "Accomodation",
+        "Accommodation",
+        "Acommodation",
+        "Accomadation"
+      ],
+      "answer": "Accommodation"
+    },
+    {
+      "id": "en_98",
+      "category": "English",
+      "question": "[Set 4] The opposite of 'Generous' is?",
+      "imageUrl": null,
+      "options": [
+        "Kind",
+        "Stingy",
+        "Noble",
+        "Helpful"
+      ],
+      "answer": "Stingy"
+    },
+    {
+      "id": "en_99",
+      "category": "English",
+      "question": "[Set 4] Which word is a noun?",
+      "imageUrl": null,
+      "options": [
+        "Quickly",
+        "Happiness",
+        "Run",
+        "Beautiful"
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "id": "en_100",
+      "category": "English",
+      "question": "[Set 4] Fill in: I have lived here ___ 2010.",
+      "imageUrl": null,
+      "options": [
+        "since",
+        "for",
+        "from",
+        "by"
+      ],
+      "answer": "since"
+    }
+  ]
+}

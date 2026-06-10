@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "category": "Kerala Renaissance",
+  "questions": [
+    {
+      "id": "kr_1",
+      "category": "Kerala Renaissance",
+      "question": "Who wrote 'Daivathinte Pusthakam'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_2",
+      "category": "Kerala Renaissance",
+      "question": "The literary movement led by Kumaran Asan, Vallathol and Ulloor is called?",
+      "imageUrl": null,
+      "options": [
+        "Purogamana Sahithya",
+        "Manipravalam",
+        "Kilippattu",
+        "Kathakali"
+      ],
+      "answer": "Purogamana Sahithya"
+    },
+    {
+      "id": "kr_3",
+      "category": "Kerala Renaissance",
+      "question": "Who founded the Nair Service Society (NSS)?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Mannath Padmanabhan",
+        "Ayyankali",
+        "Chattampi Swamikal"
+      ],
+      "answer": "Mannath Padmanabhan"
+    },
+    {
+      "id": "kr_4",
+      "category": "Kerala Renaissance",
+      "question": "The famous poem 'Veena Poovu' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Changampuzha",
+        "ONV Kurup"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_5",
+      "category": "Kerala Renaissance",
+      "question": "Who is known as 'Mahakavi' of Malayalam?",
+      "imageUrl": null,
+      "options": [
+        "Ulloor",
+        "Vallathol Narayana Menon",
+        "Kumaran Asan",
+        "E.V. Krishna Pillai"
+      ],
+      "answer": "Vallathol Narayana Menon"
+    },
+    {
+      "id": "kr_6",
+      "category": "Kerala Renaissance",
+      "question": "The journal 'Mithavadi' was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "C. Krishnan",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "C. Krishnan"
+    },
+    {
+      "id": "kr_7",
+      "category": "Kerala Renaissance",
+      "question": "Who established the Sadhu Jana Paripalana Sangham?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Chattampi Swamikal",
+        "V.T. Bhattathiripad"
+      ],
+      "answer": "Ayyankali"
+    },
+    {
+      "id": "kr_8",
+      "category": "Kerala Renaissance",
+      "question": "The play 'Adukkalayil Ninnu Arangathekku' was written by?",
+      "imageUrl": null,
+      "options": [
+        "V.T. Bhattathiripad",
+        "Thoppil Bhasi",
+        "C.J. Thomas",
+        "Kavalam Narayana Panicker"
+      ],
+      "answer": "V.T. Bhattathiripad"
+    },
+    {
+      "id": "kr_9",
+      "category": "Kerala Renaissance",
+      "question": "Who wrote 'Keralolpathi'?",
+      "imageUrl": null,
+      "options": [
+        "Unknown traditional",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar"
+      ],
+      "answer": "Unknown traditional"
+    },
+    {
+      "id": "kr_10",
+      "category": "Kerala Renaissance",
+      "question": "The renaissance leader who installed a mirror in a temple to show inequality was?",
+      "imageUrl": null,
+      "options": [
+        "Chattampi Swamikal",
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Chattampi Swamikal"
+    },
+    {
+      "id": "kr_11",
+      "category": "Kerala Renaissance",
+      "question": "Sree Narayana Guru was born at?",
+      "imageUrl": null,
+      "options": [
+        "Chempazhanthy",
+        "Varkala",
+        "Aruvippuram",
+        "Aluva"
+      ],
+      "answer": "Chempazhanthy"
+    },
+    {
+      "id": "kr_12",
+      "category": "Kerala Renaissance",
+      "question": "The Aruvippuram Pratishta was done by?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_13",
+      "category": "Kerala Renaissance",
+      "question": "Who wrote 'Atmopadesa Satakam'?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Kumaran Asan",
+        "Vallathol"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_14",
+      "category": "Kerala Renaissance",
+      "question": "The SNDP Yogam was founded in?",
+      "imageUrl": null,
+      "options": [
+        "1888",
+        "1892",
+        "1903",
+        "1914"
+      ],
+      "answer": "1903"
+    },
+    {
+      "id": "kr_15",
+      "category": "Kerala Renaissance",
+      "question": "Who is known as 'Lincoln of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "A.K. Gopalan",
+        "K. Kelappan",
+        "E.M.S. Namboodiripad",
+        "Pattom Thanu Pillai"
+      ],
+      "answer": "A.K. Gopalan"
+    },
+    {
+      "id": "kr_16",
+      "category": "Kerala Renaissance",
+      "question": "The poem 'Karuna' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_17",
+      "category": "Kerala Renaissance",
+      "question": "Who wrote 'Balakalesham'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Nalappat Narayana Menon"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_18",
+      "category": "Kerala Renaissance",
+      "question": "The magazine 'Vivekodayam' was edited by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "C.V. Kunhiraman",
+        "K.P. Kesava Menon"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_19",
+      "category": "Kerala Renaissance",
+      "question": "Who founded the Yogakshema Sabha?",
+      "imageUrl": null,
+      "options": [
+        "V.T. Bhattathiripad",
+        "Mannath Padmanabhan",
+        "Sree Narayana Guru",
+        "Ayyankali"
+      ],
+      "answer": "V.T. Bhattathiripad"
+    },
+    {
+      "id": "kr_20",
+      "category": "Kerala Renaissance",
+      "question": "The play 'Kootukrishi' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Thoppil Bhasi",
+        "V.T. Bhattathiripad",
+        "C.J. Thomas",
+        "N. Krishna Pillai"
+      ],
+      "answer": "Thoppil Bhasi"
+    },
+    {
+      "id": "kr_21",
+      "category": "Kerala Renaissance",
+      "question": "Who wrote 'Oru Desathinte Katha'?",
+      "imageUrl": null,
+      "options": [
+        "S.K. Pottekkatt",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "S.K. Pottekkatt"
+    },
+    {
+      "id": "kr_22",
+      "category": "Kerala Renaissance",
+      "question": "Vakkom Moulavi published which newspaper?",
+      "imageUrl": null,
+      "options": [
+        "Swadeshabhimani",
+        "Muslim",
+        "Deepika",
+        "Kerala Kaumudi"
+      ],
+      "answer": "Muslim"
+    },
+    {
+      "id": "kr_23",
+      "category": "Kerala Renaissance",
+      "question": "Who is called 'Kunjan' in Kerala renaissance context?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Kumaran Asan",
+        "Kunjan Nambiar",
+        "Kunhiraman"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "kr_24",
+      "category": "Kerala Renaissance",
+      "question": "The literary form 'Thullal' was created by?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kumaran Asan"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "kr_25",
+      "category": "Kerala Renaissance",
+      "question": "Who wrote 'Chinthavishtayaya Sita'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_26",
+      "category": "Kerala Renaissance",
+      "question": "The renaissance leader from Varkala was?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Narayana_Guru.jpg",
+      "options": [
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Ayyankali",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_27",
+      "category": "Kerala Renaissance",
+      "question": "Who wrote 'Duravastha'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_28",
+      "category": "Kerala Renaissance",
+      "question": "The journal 'Kerala Patrika' was associated with?",
+      "imageUrl": null,
+      "options": [
+        "K.P. Kesava Menon",
+        "Swadeshabhimani Ramakrishna Pillai",
+        "C.V. Raman Pillai",
+        "Kumaran Asan"
+      ],
+      "answer": "K.P. Kesava Menon"
+    },
+    {
+      "id": "kr_29",
+      "category": "Kerala Renaissance",
+      "question": "Who led the Vaikom Satyagraha along with K. Kelappan?",
+      "imageUrl": null,
+      "options": [
+        "T.K. Madhavan",
+        "A.K. Gopalan",
+        "E.M.S. Namboodiripad",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "T.K. Madhavan"
+    },
+    {
+      "id": "kr_30",
+      "category": "Kerala Renaissance",
+      "question": "The poem 'Ramanan' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Changampuzha Krishna Pillai",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "Changampuzha Krishna Pillai"
+    },
+    {
+      "id": "kr_31",
+      "category": "Kerala Renaissance",
+      "question": "Renaissance leader {} fought for Dalit rights.",
+      "imageUrl": null,
+      "options": [
+        "Ayyankali",
+        "Gandhi",
+        "Nehru",
+        "Tilak"
+      ],
+      "answer": "Ayyankali"
+    },
+    {
+      "id": "kr_32",
+      "category": "Kerala Renaissance",
+      "question": "The {} Sabha worked for Ezhava community.",
+      "imageUrl": null,
+      "options": [
+        "SNDP",
+        "NSS",
+        "YMCA",
+        "CSI"
+      ],
+      "answer": "SNDP"
+    },
+    {
+      "id": "kr_33",
+      "category": "Kerala Renaissance",
+      "question": "Poet {} wrote 'Leela'.",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Basheer",
+        "Thakazhi",
+        "Mukundan"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_34",
+      "category": "Kerala Renaissance",
+      "question": "{} started the temple entry movement.",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Gandhi",
+        "Nehru",
+        "Patel"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_35",
+      "category": "Kerala Renaissance",
+      "question": "The {} conference promoted social reform.",
+      "imageUrl": null,
+      "options": [
+        "Nair",
+        "Ezhava",
+        "Muslim",
+        "Christian"
+      ],
+      "answer": "Ezhava"
+    },
+    {
+      "id": "kr_36",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The journal 'Mithavadi' was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "C. Krishnan",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "C. Krishnan"
+    },
+    {
+      "id": "kr_37",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who established the Sadhu Jana Paripalana Sangham?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Chattampi Swamikal",
+        "V.T. Bhattathiripad"
+      ],
+      "answer": "Ayyankali"
+    },
+    {
+      "id": "kr_38",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The play 'Adukkalayil Ninnu Arangathekku' was written by?",
+      "imageUrl": null,
+      "options": [
+        "V.T. Bhattathiripad",
+        "Thoppil Bhasi",
+        "C.J. Thomas",
+        "Kavalam Narayana Panicker"
+      ],
+      "answer": "V.T. Bhattathiripad"
+    },
+    {
+      "id": "kr_39",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who wrote 'Keralolpathi'?",
+      "imageUrl": null,
+      "options": [
+        "Unknown traditional",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar"
+      ],
+      "answer": "Unknown traditional"
+    },
+    {
+      "id": "kr_40",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The renaissance leader who installed a mirror in a temple to show inequality was?",
+      "imageUrl": null,
+      "options": [
+        "Chattampi Swamikal",
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Chattampi Swamikal"
+    },
+    {
+      "id": "kr_41",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Sree Narayana Guru was born at?",
+      "imageUrl": null,
+      "options": [
+        "Chempazhanthy",
+        "Varkala",
+        "Aruvippuram",
+        "Aluva"
+      ],
+      "answer": "Chempazhanthy"
+    },
+    {
+      "id": "kr_42",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The Aruvippuram Pratishta was done by?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_43",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who wrote 'Atmopadesa Satakam'?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Kumaran Asan",
+        "Vallathol"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_44",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The SNDP Yogam was founded in?",
+      "imageUrl": null,
+      "options": [
+        "1888",
+        "1892",
+        "1903",
+        "1914"
+      ],
+      "answer": "1903"
+    },
+    {
+      "id": "kr_45",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who is known as 'Lincoln of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "A.K. Gopalan",
+        "K. Kelappan",
+        "E.M.S. Namboodiripad",
+        "Pattom Thanu Pillai"
+      ],
+      "answer": "A.K. Gopalan"
+    },
+    {
+      "id": "kr_46",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The poem 'Karuna' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_47",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who wrote 'Balakalesham'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Nalappat Narayana Menon"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_48",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The magazine 'Vivekodayam' was edited by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "C.V. Kunhiraman",
+        "K.P. Kesava Menon"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_49",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who founded the Yogakshema Sabha?",
+      "imageUrl": null,
+      "options": [
+        "V.T. Bhattathiripad",
+        "Mannath Padmanabhan",
+        "Sree Narayana Guru",
+        "Ayyankali"
+      ],
+      "answer": "V.T. Bhattathiripad"
+    },
+    {
+      "id": "kr_50",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The play 'Kootukrishi' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Thoppil Bhasi",
+        "V.T. Bhattathiripad",
+        "C.J. Thomas",
+        "N. Krishna Pillai"
+      ],
+      "answer": "Thoppil Bhasi"
+    },
+    {
+      "id": "kr_51",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who wrote 'Oru Desathinte Katha'?",
+      "imageUrl": null,
+      "options": [
+        "S.K. Pottekkatt",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "S.K. Pottekkatt"
+    },
+    {
+      "id": "kr_52",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Vakkom Moulavi published which newspaper?",
+      "imageUrl": null,
+      "options": [
+        "Swadeshabhimani",
+        "Muslim",
+        "Deepika",
+        "Kerala Kaumudi"
+      ],
+      "answer": "Muslim"
+    },
+    {
+      "id": "kr_53",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who is called 'Kunjan' in Kerala renaissance context?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Kumaran Asan",
+        "Kunjan Nambiar",
+        "Kunhiraman"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "kr_54",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The literary form 'Thullal' was created by?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kumaran Asan"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "kr_55",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who wrote 'Chinthavishtayaya Sita'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_56",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The renaissance leader from Varkala was?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Narayana_Guru.jpg",
+      "options": [
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Ayyankali",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_57",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who wrote 'Duravastha'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_58",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The journal 'Kerala Patrika' was associated with?",
+      "imageUrl": null,
+      "options": [
+        "K.P. Kesava Menon",
+        "Swadeshabhimani Ramakrishna Pillai",
+        "C.V. Raman Pillai",
+        "Kumaran Asan"
+      ],
+      "answer": "K.P. Kesava Menon"
+    },
+    {
+      "id": "kr_59",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] Who led the Vaikom Satyagraha along with K. Kelappan?",
+      "imageUrl": null,
+      "options": [
+        "T.K. Madhavan",
+        "A.K. Gopalan",
+        "E.M.S. Namboodiripad",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "T.K. Madhavan"
+    },
+    {
+      "id": "kr_60",
+      "category": "Kerala Renaissance",
+      "question": "[Set 2] The poem 'Ramanan' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Changampuzha Krishna Pillai",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "Changampuzha Krishna Pillai"
+    },
+    {
+      "id": "kr_61",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who wrote 'Daivathinte Pusthakam'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_62",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The literary movement led by Kumaran Asan, Vallathol and Ulloor is called?",
+      "imageUrl": null,
+      "options": [
+        "Purogamana Sahithya",
+        "Manipravalam",
+        "Kilippattu",
+        "Kathakali"
+      ],
+      "answer": "Purogamana Sahithya"
+    },
+    {
+      "id": "kr_63",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who founded the Nair Service Society (NSS)?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Mannath Padmanabhan",
+        "Ayyankali",
+        "Chattampi Swamikal"
+      ],
+      "answer": "Mannath Padmanabhan"
+    },
+    {
+      "id": "kr_64",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The famous poem 'Veena Poovu' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Changampuzha",
+        "ONV Kurup"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_65",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who is known as 'Mahakavi' of Malayalam?",
+      "imageUrl": null,
+      "options": [
+        "Ulloor",
+        "Vallathol Narayana Menon",
+        "Kumaran Asan",
+        "E.V. Krishna Pillai"
+      ],
+      "answer": "Vallathol Narayana Menon"
+    },
+    {
+      "id": "kr_66",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The journal 'Mithavadi' was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "C. Krishnan",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "C. Krishnan"
+    },
+    {
+      "id": "kr_67",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who established the Sadhu Jana Paripalana Sangham?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Chattampi Swamikal",
+        "V.T. Bhattathiripad"
+      ],
+      "answer": "Ayyankali"
+    },
+    {
+      "id": "kr_68",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The play 'Adukkalayil Ninnu Arangathekku' was written by?",
+      "imageUrl": null,
+      "options": [
+        "V.T. Bhattathiripad",
+        "Thoppil Bhasi",
+        "C.J. Thomas",
+        "Kavalam Narayana Panicker"
+      ],
+      "answer": "V.T. Bhattathiripad"
+    },
+    {
+      "id": "kr_69",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who wrote 'Keralolpathi'?",
+      "imageUrl": null,
+      "options": [
+        "Unknown traditional",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar"
+      ],
+      "answer": "Unknown traditional"
+    },
+    {
+      "id": "kr_70",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The renaissance leader who installed a mirror in a temple to show inequality was?",
+      "imageUrl": null,
+      "options": [
+        "Chattampi Swamikal",
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Chattampi Swamikal"
+    },
+    {
+      "id": "kr_71",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Sree Narayana Guru was born at?",
+      "imageUrl": null,
+      "options": [
+        "Chempazhanthy",
+        "Varkala",
+        "Aruvippuram",
+        "Aluva"
+      ],
+      "answer": "Chempazhanthy"
+    },
+    {
+      "id": "kr_72",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The Aruvippuram Pratishta was done by?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_73",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who wrote 'Atmopadesa Satakam'?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Kumaran Asan",
+        "Vallathol"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_74",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The SNDP Yogam was founded in?",
+      "imageUrl": null,
+      "options": [
+        "1888",
+        "1892",
+        "1903",
+        "1914"
+      ],
+      "answer": "1903"
+    },
+    {
+      "id": "kr_75",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who is known as 'Lincoln of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "A.K. Gopalan",
+        "K. Kelappan",
+        "E.M.S. Namboodiripad",
+        "Pattom Thanu Pillai"
+      ],
+      "answer": "A.K. Gopalan"
+    },
+    {
+      "id": "kr_76",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The poem 'Karuna' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_77",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who wrote 'Balakalesham'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Nalappat Narayana Menon"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_78",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The magazine 'Vivekodayam' was edited by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "C.V. Kunhiraman",
+        "K.P. Kesava Menon"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_79",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who founded the Yogakshema Sabha?",
+      "imageUrl": null,
+      "options": [
+        "V.T. Bhattathiripad",
+        "Mannath Padmanabhan",
+        "Sree Narayana Guru",
+        "Ayyankali"
+      ],
+      "answer": "V.T. Bhattathiripad"
+    },
+    {
+      "id": "kr_80",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The play 'Kootukrishi' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Thoppil Bhasi",
+        "V.T. Bhattathiripad",
+        "C.J. Thomas",
+        "N. Krishna Pillai"
+      ],
+      "answer": "Thoppil Bhasi"
+    },
+    {
+      "id": "kr_81",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who wrote 'Oru Desathinte Katha'?",
+      "imageUrl": null,
+      "options": [
+        "S.K. Pottekkatt",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "S.K. Pottekkatt"
+    },
+    {
+      "id": "kr_82",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Vakkom Moulavi published which newspaper?",
+      "imageUrl": null,
+      "options": [
+        "Swadeshabhimani",
+        "Muslim",
+        "Deepika",
+        "Kerala Kaumudi"
+      ],
+      "answer": "Muslim"
+    },
+    {
+      "id": "kr_83",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who is called 'Kunjan' in Kerala renaissance context?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Kumaran Asan",
+        "Kunjan Nambiar",
+        "Kunhiraman"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "kr_84",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The literary form 'Thullal' was created by?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kumaran Asan"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "kr_85",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who wrote 'Chinthavishtayaya Sita'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_86",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The renaissance leader from Varkala was?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Narayana_Guru.jpg",
+      "options": [
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Ayyankali",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kr_87",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who wrote 'Duravastha'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_88",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The journal 'Kerala Patrika' was associated with?",
+      "imageUrl": null,
+      "options": [
+        "K.P. Kesava Menon",
+        "Swadeshabhimani Ramakrishna Pillai",
+        "C.V. Raman Pillai",
+        "Kumaran Asan"
+      ],
+      "answer": "K.P. Kesava Menon"
+    },
+    {
+      "id": "kr_89",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] Who led the Vaikom Satyagraha along with K. Kelappan?",
+      "imageUrl": null,
+      "options": [
+        "T.K. Madhavan",
+        "A.K. Gopalan",
+        "E.M.S. Namboodiripad",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "T.K. Madhavan"
+    },
+    {
+      "id": "kr_90",
+      "category": "Kerala Renaissance",
+      "question": "[Set 3] The poem 'Ramanan' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Changampuzha Krishna Pillai",
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor"
+      ],
+      "answer": "Changampuzha Krishna Pillai"
+    },
+    {
+      "id": "kr_91",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] Who wrote 'Daivathinte Pusthakam'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_92",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] The literary movement led by Kumaran Asan, Vallathol and Ulloor is called?",
+      "imageUrl": null,
+      "options": [
+        "Purogamana Sahithya",
+        "Manipravalam",
+        "Kilippattu",
+        "Kathakali"
+      ],
+      "answer": "Purogamana Sahithya"
+    },
+    {
+      "id": "kr_93",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] Who founded the Nair Service Society (NSS)?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Mannath Padmanabhan",
+        "Ayyankali",
+        "Chattampi Swamikal"
+      ],
+      "answer": "Mannath Padmanabhan"
+    },
+    {
+      "id": "kr_94",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] The famous poem 'Veena Poovu' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Changampuzha",
+        "ONV Kurup"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_95",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] Who is known as 'Mahakavi' of Malayalam?",
+      "imageUrl": null,
+      "options": [
+        "Ulloor",
+        "Vallathol Narayana Menon",
+        "Kumaran Asan",
+        "E.V. Krishna Pillai"
+      ],
+      "answer": "Vallathol Narayana Menon"
+    },
+    {
+      "id": "kr_96",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] The journal 'Mithavadi' was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "C. Krishnan",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "C. Krishnan"
+    },
+    {
+      "id": "kr_97",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] Who established the Sadhu Jana Paripalana Sangham?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Chattampi Swamikal",
+        "V.T. Bhattathiripad"
+      ],
+      "answer": "Ayyankali"
+    },
+    {
+      "id": "kr_98",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] The play 'Adukkalayil Ninnu Arangathekku' was written by?",
+      "imageUrl": null,
+      "options": [
+        "V.T. Bhattathiripad",
+        "Thoppil Bhasi",
+        "C.J. Thomas",
+        "Kavalam Narayana Panicker"
+      ],
+      "answer": "V.T. Bhattathiripad"
+    },
+    {
+      "id": "kr_99",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] Who wrote 'Keralolpathi'?",
+      "imageUrl": null,
+      "options": [
+        "Unknown traditional",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar"
+      ],
+      "answer": "Unknown traditional"
+    },
+    {
+      "id": "kr_100",
+      "category": "Kerala Renaissance",
+      "question": "[Set 4] The renaissance leader who installed a mirror in a temple to show inequality was?",
+      "imageUrl": null,
+      "options": [
+        "Chattampi Swamikal",
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Chattampi Swamikal"
+    }
+  ]
+}

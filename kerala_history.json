@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "category": "Kerala History",
+  "questions": [
+    {
+      "id": "kh_1",
+      "category": "Kerala History",
+      "question": "Who founded SNDP Yogam?",
+      "imageUrl": null,
+      "options": [
+        "Ayyankali",
+        "Chattampi Swamikal",
+        "Sree Narayana Guru",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kh_2",
+      "category": "Kerala History",
+      "question": "Which dynasty ruled Travancore before Indian independence?",
+      "imageUrl": null,
+      "options": [
+        "Chola",
+        "Chera",
+        "Pandya",
+        "Hoysala"
+      ],
+      "answer": "Chera"
+    },
+    {
+      "id": "kh_3",
+      "category": "Kerala History",
+      "question": "The Vaikom Satyagraha was launched in which year?",
+      "imageUrl": null,
+      "options": [
+        "1920",
+        "1924",
+        "1930",
+        "1936"
+      ],
+      "answer": "1924"
+    },
+    {
+      "id": "kh_4",
+      "category": "Kerala History",
+      "question": "Who was known as the 'Father of Malayalam Journalism'?",
+      "imageUrl": null,
+      "options": [
+        "Kesava Pillai",
+        "Swadeshabhimani Ramakrishna Pillai",
+        "Vaikunda Swami",
+        "Ayyankali"
+      ],
+      "answer": "Swadeshabhimani Ramakrishna Pillai"
+    },
+    {
+      "id": "kh_5",
+      "category": "Kerala History",
+      "question": "The Temple Entry Proclamation in Travancore was issued in?",
+      "imageUrl": null,
+      "options": [
+        "1924",
+        "1936",
+        "1947",
+        "1956"
+      ],
+      "answer": "1936"
+    },
+    {
+      "id": "kh_6",
+      "category": "Kerala History",
+      "question": "Which Portuguese explorer first reached Kerala?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/330px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+      "options": [
+        "Vasco da Gama",
+        "Columbus",
+        "Magellan",
+        "Dias"
+      ],
+      "answer": "Vasco da Gama"
+    },
+    {
+      "id": "kh_7",
+      "category": "Kerala History",
+      "question": "The capital of the ancient Chera kingdom was?",
+      "imageUrl": null,
+      "options": [
+        "Madurai",
+        "Muziris",
+        "Kanchi",
+        "Pataliputra"
+      ],
+      "answer": "Muziris"
+    },
+    {
+      "id": "kh_8",
+      "category": "Kerala History",
+      "question": "Who led the Guruvayur Satyagraha?",
+      "imageUrl": null,
+      "options": [
+        "K. Kelappan",
+        "A.K. Gopalan",
+        "E.M.S. Namboodiripad",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": "kh_9",
+      "category": "Kerala History",
+      "question": "Kerala state was formed on?",
+      "imageUrl": null,
+      "options": [
+        "1 November 1956",
+        "15 August 1947",
+        "26 January 1950",
+        "1 July 1949"
+      ],
+      "answer": "1 November 1956"
+    },
+    {
+      "id": "kh_10",
+      "category": "Kerala History",
+      "question": "The first Malayalam newspaper was?",
+      "imageUrl": null,
+      "options": [
+        "Deepika",
+        "Rajyasamacharam",
+        "Malayala Manorama",
+        "Mathrubhumi"
+      ],
+      "answer": "Rajyasamacharam"
+    },
+    {
+      "id": "kh_11",
+      "category": "Kerala History",
+      "question": "Who was the last ruler of Travancore?",
+      "imageUrl": null,
+      "options": [
+        "Chithira Thirunal Balarama Varma",
+        "Sethu Lakshmi Bayi",
+        "Ayilyam Thirunal",
+        "Uthram Thirunal"
+      ],
+      "answer": "Chithira Thirunal Balarama Varma"
+    },
+    {
+      "id": "kh_12",
+      "category": "Kerala History",
+      "question": "The Malabar Rebellion (Mappila Lahala) occurred in?",
+      "imageUrl": null,
+      "options": [
+        "1919",
+        "1921",
+        "1930",
+        "1942"
+      ],
+      "answer": "1921"
+    },
+    {
+      "id": "kh_13",
+      "category": "Kerala History",
+      "question": "Which European power built Fort Kochi?",
+      "imageUrl": null,
+      "options": [
+        "Dutch",
+        "Portuguese",
+        "French",
+        "British"
+      ],
+      "answer": "Portuguese"
+    },
+    {
+      "id": "kh_14",
+      "category": "Kerala History",
+      "question": "The capital of the Zamorin (Samoothiri) kingdom was?",
+      "imageUrl": null,
+      "options": [
+        "Kozhikode",
+        "Kannur",
+        "Thrissur",
+        "Palakkad"
+      ],
+      "answer": "Kozhikode"
+    },
+    {
+      "id": "kh_15",
+      "category": "Kerala History",
+      "question": "Who was known as 'Pulaya Raja'?",
+      "imageUrl": null,
+      "options": [
+        "Ayyankali",
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "Ayyankali"
+    },
+    {
+      "id": "kh_16",
+      "category": "Kerala History",
+      "question": "The Nair Service Society was founded in?",
+      "imageUrl": null,
+      "options": [
+        "1910",
+        "1914",
+        "1920",
+        "1925"
+      ],
+      "answer": "1914"
+    },
+    {
+      "id": "kh_17",
+      "category": "Kerala History",
+      "question": "Which district was part of Madras Presidency before Kerala formation?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Malappuram",
+        "Kannur",
+        "All of these"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "id": "kh_18",
+      "category": "Kerala History",
+      "question": "The Edakkal Caves are located in?",
+      "imageUrl": null,
+      "options": [
+        "Wayanad",
+        "Idukki",
+        "Kottayam",
+        "Kasaragod"
+      ],
+      "answer": "Wayanad"
+    },
+    {
+      "id": "kh_19",
+      "category": "Kerala History",
+      "question": "Who wrote 'Keralapazhama'?",
+      "imageUrl": null,
+      "options": [
+        "Ulloor",
+        "Kottarathil Sankunni",
+        "A.R. Rajaraja Varma",
+        "C.V. Raman Pillai"
+      ],
+      "answer": "Kottarathil Sankunni"
+    },
+    {
+      "id": "kh_20",
+      "category": "Kerala History",
+      "question": "The Periyar River originates from?",
+      "imageUrl": null,
+      "options": [
+        "Sivagiri Hills",
+        "Anamudi",
+        "Agasthyarkoodam",
+        "Cardamom Hills"
+      ],
+      "answer": "Sivagiri Hills"
+    },
+    {
+      "id": "kh_21",
+      "category": "Kerala History",
+      "question": "Which king is associated with the Mamankam festival?",
+      "imageUrl": null,
+      "options": [
+        "Zamorin of Calicut",
+        "Chera king",
+        "Travancore king",
+        "Cochin king"
+      ],
+      "answer": "Zamorin of Calicut"
+    },
+    {
+      "id": "kh_22",
+      "category": "Kerala History",
+      "question": "The first Malayalam novel 'Indulekha' was published in?",
+      "imageUrl": null,
+      "options": [
+        "1889",
+        "1895",
+        "1905",
+        "1910"
+      ],
+      "answer": "1889"
+    },
+    {
+      "id": "kh_23",
+      "category": "Kerala History",
+      "question": "Who led the Paliyam Satyagraha?",
+      "imageUrl": null,
+      "options": [
+        "A.K. Gopalan",
+        "K. Kelappan",
+        "T.K. Madhavan",
+        "K.P. Kesava Menon"
+      ],
+      "answer": "A.K. Gopalan"
+    },
+    {
+      "id": "kh_24",
+      "category": "Kerala History",
+      "question": "The Dutch defeated the Portuguese in Kochi in?",
+      "imageUrl": null,
+      "options": [
+        "1600",
+        "1663",
+        "1720",
+        "1750"
+      ],
+      "answer": "1663"
+    },
+    {
+      "id": "kh_25",
+      "category": "Kerala History",
+      "question": "Which place is known as the 'Gateway of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Kasaragod",
+        "Thiruvananthapuram",
+        "Kochi"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "kh_26",
+      "category": "Kerala History",
+      "question": "The Thrissur Pooram is associated with which deity?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kudamatom_at_thrissur_pooram_2013_7618.JPG/330px-Kudamatom_at_thrissur_pooram_2013_7618.JPG",
+      "options": [
+        "Lord Shiva",
+        "Lord Krishna",
+        "Goddess Durga",
+        "Lord Ayyappa"
+      ],
+      "answer": "Lord Shiva"
+    },
+    {
+      "id": "kh_27",
+      "category": "Kerala History",
+      "question": "Who was the first Chief Minister of Kerala?",
+      "imageUrl": null,
+      "options": [
+        "E.M.S. Namboodiripad",
+        "R. Sankar",
+        "K. Karunakaran",
+        "C. Achutha Menon"
+      ],
+      "answer": "E.M.S. Namboodiripad"
+    },
+    {
+      "id": "kh_28",
+      "category": "Kerala History",
+      "question": "The Arakkal Kingdom was ruled by?",
+      "imageUrl": null,
+      "options": [
+        "Muslim dynasty",
+        "Nair dynasty",
+        "Chera dynasty",
+        "British"
+      ],
+      "answer": "Muslim dynasty"
+    },
+    {
+      "id": "kh_29",
+      "category": "Kerala History",
+      "question": "Which river is called 'Lifeline of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Periyar",
+        "Bharathapuzha",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Periyar"
+    },
+    {
+      "id": "kh_30",
+      "category": "Kerala History",
+      "question": "The Mattancherry Synagogue is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jewish_synagouge_kochi_india.jpg/330px-Jewish_synagouge_kochi_india.jpg",
+      "options": [
+        "Kochi",
+        "Kozhikode",
+        "Thrissur",
+        "Alappuzha"
+      ],
+      "answer": "Kochi"
+    },
+    {
+      "id": "kh_31",
+      "category": "Kerala History",
+      "question": "The {} temple is famous in Kerala.",
+      "imageUrl": null,
+      "options": [
+        "Guruvayur",
+        "Somnath",
+        "Konark",
+        "Khajuraho"
+      ],
+      "answer": "Guruvayur"
+    },
+    {
+      "id": "kh_32",
+      "category": "Kerala History",
+      "question": "Kerala's literacy movement gained momentum in the {}s.",
+      "imageUrl": null,
+      "options": [
+        "1930",
+        "1940",
+        "1950",
+        "1960"
+      ],
+      "answer": "1940"
+    },
+    {
+      "id": "kh_33",
+      "category": "Kerala History",
+      "question": "The {} revolt is associated with Malabar.",
+      "imageUrl": null,
+      "options": [
+        "Mappila",
+        "Sepoy",
+        "Santhal",
+        "Rampa"
+      ],
+      "answer": "Mappila"
+    },
+    {
+      "id": "kh_34",
+      "category": "Kerala History",
+      "question": "Fort {} was built by the British in Kerala.",
+      "imageUrl": null,
+      "options": [
+        "William",
+        "St. George",
+        "Kochi",
+        "Bekal"
+      ],
+      "answer": "William"
+    },
+    {
+      "id": "kh_35",
+      "category": "Kerala History",
+      "question": "The {} dynasty ruled Kochi.",
+      "imageUrl": null,
+      "options": [
+        "Perumpadappu",
+        "Chera",
+        "Pandya",
+        "Chola"
+      ],
+      "answer": "Perumpadappu"
+    },
+    {
+      "id": "kh_36",
+      "category": "Kerala History",
+      "question": "[Set 2] Which Portuguese explorer first reached Kerala?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/330px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+      "options": [
+        "Vasco da Gama",
+        "Columbus",
+        "Magellan",
+        "Dias"
+      ],
+      "answer": "Vasco da Gama"
+    },
+    {
+      "id": "kh_37",
+      "category": "Kerala History",
+      "question": "[Set 2] The capital of the ancient Chera kingdom was?",
+      "imageUrl": null,
+      "options": [
+        "Madurai",
+        "Muziris",
+        "Kanchi",
+        "Pataliputra"
+      ],
+      "answer": "Muziris"
+    },
+    {
+      "id": "kh_38",
+      "category": "Kerala History",
+      "question": "[Set 2] Who led the Guruvayur Satyagraha?",
+      "imageUrl": null,
+      "options": [
+        "K. Kelappan",
+        "A.K. Gopalan",
+        "E.M.S. Namboodiripad",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": "kh_39",
+      "category": "Kerala History",
+      "question": "[Set 2] Kerala state was formed on?",
+      "imageUrl": null,
+      "options": [
+        "1 November 1956",
+        "15 August 1947",
+        "26 January 1950",
+        "1 July 1949"
+      ],
+      "answer": "1 November 1956"
+    },
+    {
+      "id": "kh_40",
+      "category": "Kerala History",
+      "question": "[Set 2] The first Malayalam newspaper was?",
+      "imageUrl": null,
+      "options": [
+        "Deepika",
+        "Rajyasamacharam",
+        "Malayala Manorama",
+        "Mathrubhumi"
+      ],
+      "answer": "Rajyasamacharam"
+    },
+    {
+      "id": "kh_41",
+      "category": "Kerala History",
+      "question": "[Set 2] Who was the last ruler of Travancore?",
+      "imageUrl": null,
+      "options": [
+        "Chithira Thirunal Balarama Varma",
+        "Sethu Lakshmi Bayi",
+        "Ayilyam Thirunal",
+        "Uthram Thirunal"
+      ],
+      "answer": "Chithira Thirunal Balarama Varma"
+    },
+    {
+      "id": "kh_42",
+      "category": "Kerala History",
+      "question": "[Set 2] The Malabar Rebellion (Mappila Lahala) occurred in?",
+      "imageUrl": null,
+      "options": [
+        "1919",
+        "1921",
+        "1930",
+        "1942"
+      ],
+      "answer": "1921"
+    },
+    {
+      "id": "kh_43",
+      "category": "Kerala History",
+      "question": "[Set 2] Which European power built Fort Kochi?",
+      "imageUrl": null,
+      "options": [
+        "Dutch",
+        "Portuguese",
+        "French",
+        "British"
+      ],
+      "answer": "Portuguese"
+    },
+    {
+      "id": "kh_44",
+      "category": "Kerala History",
+      "question": "[Set 2] The capital of the Zamorin (Samoothiri) kingdom was?",
+      "imageUrl": null,
+      "options": [
+        "Kozhikode",
+        "Kannur",
+        "Thrissur",
+        "Palakkad"
+      ],
+      "answer": "Kozhikode"
+    },
+    {
+      "id": "kh_45",
+      "category": "Kerala History",
+      "question": "[Set 2] Who was known as 'Pulaya Raja'?",
+      "imageUrl": null,
+      "options": [
+        "Ayyankali",
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "Ayyankali"
+    },
+    {
+      "id": "kh_46",
+      "category": "Kerala History",
+      "question": "[Set 2] The Nair Service Society was founded in?",
+      "imageUrl": null,
+      "options": [
+        "1910",
+        "1914",
+        "1920",
+        "1925"
+      ],
+      "answer": "1914"
+    },
+    {
+      "id": "kh_47",
+      "category": "Kerala History",
+      "question": "[Set 2] Which district was part of Madras Presidency before Kerala formation?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Malappuram",
+        "Kannur",
+        "All of these"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "id": "kh_48",
+      "category": "Kerala History",
+      "question": "[Set 2] The Edakkal Caves are located in?",
+      "imageUrl": null,
+      "options": [
+        "Wayanad",
+        "Idukki",
+        "Kottayam",
+        "Kasaragod"
+      ],
+      "answer": "Wayanad"
+    },
+    {
+      "id": "kh_49",
+      "category": "Kerala History",
+      "question": "[Set 2] Who wrote 'Keralapazhama'?",
+      "imageUrl": null,
+      "options": [
+        "Ulloor",
+        "Kottarathil Sankunni",
+        "A.R. Rajaraja Varma",
+        "C.V. Raman Pillai"
+      ],
+      "answer": "Kottarathil Sankunni"
+    },
+    {
+      "id": "kh_50",
+      "category": "Kerala History",
+      "question": "[Set 2] The Periyar River originates from?",
+      "imageUrl": null,
+      "options": [
+        "Sivagiri Hills",
+        "Anamudi",
+        "Agasthyarkoodam",
+        "Cardamom Hills"
+      ],
+      "answer": "Sivagiri Hills"
+    },
+    {
+      "id": "kh_51",
+      "category": "Kerala History",
+      "question": "[Set 2] Which king is associated with the Mamankam festival?",
+      "imageUrl": null,
+      "options": [
+        "Zamorin of Calicut",
+        "Chera king",
+        "Travancore king",
+        "Cochin king"
+      ],
+      "answer": "Zamorin of Calicut"
+    },
+    {
+      "id": "kh_52",
+      "category": "Kerala History",
+      "question": "[Set 2] The first Malayalam novel 'Indulekha' was published in?",
+      "imageUrl": null,
+      "options": [
+        "1889",
+        "1895",
+        "1905",
+        "1910"
+      ],
+      "answer": "1889"
+    },
+    {
+      "id": "kh_53",
+      "category": "Kerala History",
+      "question": "[Set 2] Who led the Paliyam Satyagraha?",
+      "imageUrl": null,
+      "options": [
+        "A.K. Gopalan",
+        "K. Kelappan",
+        "T.K. Madhavan",
+        "K.P. Kesava Menon"
+      ],
+      "answer": "A.K. Gopalan"
+    },
+    {
+      "id": "kh_54",
+      "category": "Kerala History",
+      "question": "[Set 2] The Dutch defeated the Portuguese in Kochi in?",
+      "imageUrl": null,
+      "options": [
+        "1600",
+        "1663",
+        "1720",
+        "1750"
+      ],
+      "answer": "1663"
+    },
+    {
+      "id": "kh_55",
+      "category": "Kerala History",
+      "question": "[Set 2] Which place is known as the 'Gateway of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Kasaragod",
+        "Thiruvananthapuram",
+        "Kochi"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "kh_56",
+      "category": "Kerala History",
+      "question": "[Set 2] The Thrissur Pooram is associated with which deity?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kudamatom_at_thrissur_pooram_2013_7618.JPG/330px-Kudamatom_at_thrissur_pooram_2013_7618.JPG",
+      "options": [
+        "Lord Shiva",
+        "Lord Krishna",
+        "Goddess Durga",
+        "Lord Ayyappa"
+      ],
+      "answer": "Lord Shiva"
+    },
+    {
+      "id": "kh_57",
+      "category": "Kerala History",
+      "question": "[Set 2] Who was the first Chief Minister of Kerala?",
+      "imageUrl": null,
+      "options": [
+        "E.M.S. Namboodiripad",
+        "R. Sankar",
+        "K. Karunakaran",
+        "C. Achutha Menon"
+      ],
+      "answer": "E.M.S. Namboodiripad"
+    },
+    {
+      "id": "kh_58",
+      "category": "Kerala History",
+      "question": "[Set 2] The Arakkal Kingdom was ruled by?",
+      "imageUrl": null,
+      "options": [
+        "Muslim dynasty",
+        "Nair dynasty",
+        "Chera dynasty",
+        "British"
+      ],
+      "answer": "Muslim dynasty"
+    },
+    {
+      "id": "kh_59",
+      "category": "Kerala History",
+      "question": "[Set 2] Which river is called 'Lifeline of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Periyar",
+        "Bharathapuzha",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Periyar"
+    },
+    {
+      "id": "kh_60",
+      "category": "Kerala History",
+      "question": "[Set 2] The Mattancherry Synagogue is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jewish_synagouge_kochi_india.jpg/330px-Jewish_synagouge_kochi_india.jpg",
+      "options": [
+        "Kochi",
+        "Kozhikode",
+        "Thrissur",
+        "Alappuzha"
+      ],
+      "answer": "Kochi"
+    },
+    {
+      "id": "kh_61",
+      "category": "Kerala History",
+      "question": "[Set 3] Who founded SNDP Yogam?",
+      "imageUrl": null,
+      "options": [
+        "Ayyankali",
+        "Chattampi Swamikal",
+        "Sree Narayana Guru",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kh_62",
+      "category": "Kerala History",
+      "question": "[Set 3] Which dynasty ruled Travancore before Indian independence?",
+      "imageUrl": null,
+      "options": [
+        "Chola",
+        "Chera",
+        "Pandya",
+        "Hoysala"
+      ],
+      "answer": "Chera"
+    },
+    {
+      "id": "kh_63",
+      "category": "Kerala History",
+      "question": "[Set 3] The Vaikom Satyagraha was launched in which year?",
+      "imageUrl": null,
+      "options": [
+        "1920",
+        "1924",
+        "1930",
+        "1936"
+      ],
+      "answer": "1924"
+    },
+    {
+      "id": "kh_64",
+      "category": "Kerala History",
+      "question": "[Set 3] Who was known as the 'Father of Malayalam Journalism'?",
+      "imageUrl": null,
+      "options": [
+        "Kesava Pillai",
+        "Swadeshabhimani Ramakrishna Pillai",
+        "Vaikunda Swami",
+        "Ayyankali"
+      ],
+      "answer": "Swadeshabhimani Ramakrishna Pillai"
+    },
+    {
+      "id": "kh_65",
+      "category": "Kerala History",
+      "question": "[Set 3] The Temple Entry Proclamation in Travancore was issued in?",
+      "imageUrl": null,
+      "options": [
+        "1924",
+        "1936",
+        "1947",
+        "1956"
+      ],
+      "answer": "1936"
+    },
+    {
+      "id": "kh_66",
+      "category": "Kerala History",
+      "question": "[Set 3] Which Portuguese explorer first reached Kerala?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/330px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+      "options": [
+        "Vasco da Gama",
+        "Columbus",
+        "Magellan",
+        "Dias"
+      ],
+      "answer": "Vasco da Gama"
+    },
+    {
+      "id": "kh_67",
+      "category": "Kerala History",
+      "question": "[Set 3] The capital of the ancient Chera kingdom was?",
+      "imageUrl": null,
+      "options": [
+        "Madurai",
+        "Muziris",
+        "Kanchi",
+        "Pataliputra"
+      ],
+      "answer": "Muziris"
+    },
+    {
+      "id": "kh_68",
+      "category": "Kerala History",
+      "question": "[Set 3] Who led the Guruvayur Satyagraha?",
+      "imageUrl": null,
+      "options": [
+        "K. Kelappan",
+        "A.K. Gopalan",
+        "E.M.S. Namboodiripad",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": "kh_69",
+      "category": "Kerala History",
+      "question": "[Set 3] Kerala state was formed on?",
+      "imageUrl": null,
+      "options": [
+        "1 November 1956",
+        "15 August 1947",
+        "26 January 1950",
+        "1 July 1949"
+      ],
+      "answer": "1 November 1956"
+    },
+    {
+      "id": "kh_70",
+      "category": "Kerala History",
+      "question": "[Set 3] The first Malayalam newspaper was?",
+      "imageUrl": null,
+      "options": [
+        "Deepika",
+        "Rajyasamacharam",
+        "Malayala Manorama",
+        "Mathrubhumi"
+      ],
+      "answer": "Rajyasamacharam"
+    },
+    {
+      "id": "kh_71",
+      "category": "Kerala History",
+      "question": "[Set 3] Who was the last ruler of Travancore?",
+      "imageUrl": null,
+      "options": [
+        "Chithira Thirunal Balarama Varma",
+        "Sethu Lakshmi Bayi",
+        "Ayilyam Thirunal",
+        "Uthram Thirunal"
+      ],
+      "answer": "Chithira Thirunal Balarama Varma"
+    },
+    {
+      "id": "kh_72",
+      "category": "Kerala History",
+      "question": "[Set 3] The Malabar Rebellion (Mappila Lahala) occurred in?",
+      "imageUrl": null,
+      "options": [
+        "1919",
+        "1921",
+        "1930",
+        "1942"
+      ],
+      "answer": "1921"
+    },
+    {
+      "id": "kh_73",
+      "category": "Kerala History",
+      "question": "[Set 3] Which European power built Fort Kochi?",
+      "imageUrl": null,
+      "options": [
+        "Dutch",
+        "Portuguese",
+        "French",
+        "British"
+      ],
+      "answer": "Portuguese"
+    },
+    {
+      "id": "kh_74",
+      "category": "Kerala History",
+      "question": "[Set 3] The capital of the Zamorin (Samoothiri) kingdom was?",
+      "imageUrl": null,
+      "options": [
+        "Kozhikode",
+        "Kannur",
+        "Thrissur",
+        "Palakkad"
+      ],
+      "answer": "Kozhikode"
+    },
+    {
+      "id": "kh_75",
+      "category": "Kerala History",
+      "question": "[Set 3] Who was known as 'Pulaya Raja'?",
+      "imageUrl": null,
+      "options": [
+        "Ayyankali",
+        "Sree Narayana Guru",
+        "Chattampi Swamikal",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "Ayyankali"
+    },
+    {
+      "id": "kh_76",
+      "category": "Kerala History",
+      "question": "[Set 3] The Nair Service Society was founded in?",
+      "imageUrl": null,
+      "options": [
+        "1910",
+        "1914",
+        "1920",
+        "1925"
+      ],
+      "answer": "1914"
+    },
+    {
+      "id": "kh_77",
+      "category": "Kerala History",
+      "question": "[Set 3] Which district was part of Madras Presidency before Kerala formation?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Malappuram",
+        "Kannur",
+        "All of these"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "id": "kh_78",
+      "category": "Kerala History",
+      "question": "[Set 3] The Edakkal Caves are located in?",
+      "imageUrl": null,
+      "options": [
+        "Wayanad",
+        "Idukki",
+        "Kottayam",
+        "Kasaragod"
+      ],
+      "answer": "Wayanad"
+    },
+    {
+      "id": "kh_79",
+      "category": "Kerala History",
+      "question": "[Set 3] Who wrote 'Keralapazhama'?",
+      "imageUrl": null,
+      "options": [
+        "Ulloor",
+        "Kottarathil Sankunni",
+        "A.R. Rajaraja Varma",
+        "C.V. Raman Pillai"
+      ],
+      "answer": "Kottarathil Sankunni"
+    },
+    {
+      "id": "kh_80",
+      "category": "Kerala History",
+      "question": "[Set 3] The Periyar River originates from?",
+      "imageUrl": null,
+      "options": [
+        "Sivagiri Hills",
+        "Anamudi",
+        "Agasthyarkoodam",
+        "Cardamom Hills"
+      ],
+      "answer": "Sivagiri Hills"
+    },
+    {
+      "id": "kh_81",
+      "category": "Kerala History",
+      "question": "[Set 3] Which king is associated with the Mamankam festival?",
+      "imageUrl": null,
+      "options": [
+        "Zamorin of Calicut",
+        "Chera king",
+        "Travancore king",
+        "Cochin king"
+      ],
+      "answer": "Zamorin of Calicut"
+    },
+    {
+      "id": "kh_82",
+      "category": "Kerala History",
+      "question": "[Set 3] The first Malayalam novel 'Indulekha' was published in?",
+      "imageUrl": null,
+      "options": [
+        "1889",
+        "1895",
+        "1905",
+        "1910"
+      ],
+      "answer": "1889"
+    },
+    {
+      "id": "kh_83",
+      "category": "Kerala History",
+      "question": "[Set 3] Who led the Paliyam Satyagraha?",
+      "imageUrl": null,
+      "options": [
+        "A.K. Gopalan",
+        "K. Kelappan",
+        "T.K. Madhavan",
+        "K.P. Kesava Menon"
+      ],
+      "answer": "A.K. Gopalan"
+    },
+    {
+      "id": "kh_84",
+      "category": "Kerala History",
+      "question": "[Set 3] The Dutch defeated the Portuguese in Kochi in?",
+      "imageUrl": null,
+      "options": [
+        "1600",
+        "1663",
+        "1720",
+        "1750"
+      ],
+      "answer": "1663"
+    },
+    {
+      "id": "kh_85",
+      "category": "Kerala History",
+      "question": "[Set 3] Which place is known as the 'Gateway of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Kasaragod",
+        "Thiruvananthapuram",
+        "Kochi"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "kh_86",
+      "category": "Kerala History",
+      "question": "[Set 3] The Thrissur Pooram is associated with which deity?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kudamatom_at_thrissur_pooram_2013_7618.JPG/330px-Kudamatom_at_thrissur_pooram_2013_7618.JPG",
+      "options": [
+        "Lord Shiva",
+        "Lord Krishna",
+        "Goddess Durga",
+        "Lord Ayyappa"
+      ],
+      "answer": "Lord Shiva"
+    },
+    {
+      "id": "kh_87",
+      "category": "Kerala History",
+      "question": "[Set 3] Who was the first Chief Minister of Kerala?",
+      "imageUrl": null,
+      "options": [
+        "E.M.S. Namboodiripad",
+        "R. Sankar",
+        "K. Karunakaran",
+        "C. Achutha Menon"
+      ],
+      "answer": "E.M.S. Namboodiripad"
+    },
+    {
+      "id": "kh_88",
+      "category": "Kerala History",
+      "question": "[Set 3] The Arakkal Kingdom was ruled by?",
+      "imageUrl": null,
+      "options": [
+        "Muslim dynasty",
+        "Nair dynasty",
+        "Chera dynasty",
+        "British"
+      ],
+      "answer": "Muslim dynasty"
+    },
+    {
+      "id": "kh_89",
+      "category": "Kerala History",
+      "question": "[Set 3] Which river is called 'Lifeline of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Periyar",
+        "Bharathapuzha",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Periyar"
+    },
+    {
+      "id": "kh_90",
+      "category": "Kerala History",
+      "question": "[Set 3] The Mattancherry Synagogue is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jewish_synagouge_kochi_india.jpg/330px-Jewish_synagouge_kochi_india.jpg",
+      "options": [
+        "Kochi",
+        "Kozhikode",
+        "Thrissur",
+        "Alappuzha"
+      ],
+      "answer": "Kochi"
+    },
+    {
+      "id": "kh_91",
+      "category": "Kerala History",
+      "question": "[Set 4] Who founded SNDP Yogam?",
+      "imageUrl": null,
+      "options": [
+        "Ayyankali",
+        "Chattampi Swamikal",
+        "Sree Narayana Guru",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kh_92",
+      "category": "Kerala History",
+      "question": "[Set 4] Which dynasty ruled Travancore before Indian independence?",
+      "imageUrl": null,
+      "options": [
+        "Chola",
+        "Chera",
+        "Pandya",
+        "Hoysala"
+      ],
+      "answer": "Chera"
+    },
+    {
+      "id": "kh_93",
+      "category": "Kerala History",
+      "question": "[Set 4] The Vaikom Satyagraha was launched in which year?",
+      "imageUrl": null,
+      "options": [
+        "1920",
+        "1924",
+        "1930",
+        "1936"
+      ],
+      "answer": "1924"
+    },
+    {
+      "id": "kh_94",
+      "category": "Kerala History",
+      "question": "[Set 4] Who was known as the 'Father of Malayalam Journalism'?",
+      "imageUrl": null,
+      "options": [
+        "Kesava Pillai",
+        "Swadeshabhimani Ramakrishna Pillai",
+        "Vaikunda Swami",
+        "Ayyankali"
+      ],
+      "answer": "Swadeshabhimani Ramakrishna Pillai"
+    },
+    {
+      "id": "kh_95",
+      "category": "Kerala History",
+      "question": "[Set 4] The Temple Entry Proclamation in Travancore was issued in?",
+      "imageUrl": null,
+      "options": [
+        "1924",
+        "1936",
+        "1947",
+        "1956"
+      ],
+      "answer": "1936"
+    },
+    {
+      "id": "kh_96",
+      "category": "Kerala History",
+      "question": "[Set 4] Which Portuguese explorer first reached Kerala?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/330px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+      "options": [
+        "Vasco da Gama",
+        "Columbus",
+        "Magellan",
+        "Dias"
+      ],
+      "answer": "Vasco da Gama"
+    },
+    {
+      "id": "kh_97",
+      "category": "Kerala History",
+      "question": "[Set 4] The capital of the ancient Chera kingdom was?",
+      "imageUrl": null,
+      "options": [
+        "Madurai",
+        "Muziris",
+        "Kanchi",
+        "Pataliputra"
+      ],
+      "answer": "Muziris"
+    },
+    {
+      "id": "kh_98",
+      "category": "Kerala History",
+      "question": "[Set 4] Who led the Guruvayur Satyagraha?",
+      "imageUrl": null,
+      "options": [
+        "K. Kelappan",
+        "A.K. Gopalan",
+        "E.M.S. Namboodiripad",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": "kh_99",
+      "category": "Kerala History",
+      "question": "[Set 4] Kerala state was formed on?",
+      "imageUrl": null,
+      "options": [
+        "1 November 1956",
+        "15 August 1947",
+        "26 January 1950",
+        "1 July 1949"
+      ],
+      "answer": "1 November 1956"
+    },
+    {
+      "id": "kh_100",
+      "category": "Kerala History",
+      "question": "[Set 4] The first Malayalam newspaper was?",
+      "imageUrl": null,
+      "options": [
+        "Deepika",
+        "Rajyasamacharam",
+        "Malayala Manorama",
+        "Mathrubhumi"
+      ],
+      "answer": "Rajyasamacharam"
+    }
+  ]
+}

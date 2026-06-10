@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "category": "Geography",
+  "questions": [
+    {
+      "id": "geo_1",
+      "category": "Geography",
+      "question": "Which is the longest river in Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Bharathapuzha",
+        "Periyar",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Periyar"
+    },
+    {
+      "id": "geo_2",
+      "category": "Geography",
+      "question": "The highest peak in Kerala is?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AnaimudiPeak_DSC_4834.jpg/330px-AnaimudiPeak_DSC_4834.jpg",
+      "options": [
+        "Anamudi",
+        "Meesapulimala",
+        "Agasthyarkoodam",
+        "Chembra"
+      ],
+      "answer": "Anamudi"
+    },
+    {
+      "id": "geo_3",
+      "category": "Geography",
+      "question": "Which district is known as the 'Spice Garden of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Idukki",
+        "Wayanad",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answer": "Idukki"
+    },
+    {
+      "id": "geo_4",
+      "category": "Geography",
+      "question": "The backwaters of Kerala are mainly in which district?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%B5%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE-%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86_%E0%B4%AE%E0%B5%81%E0%B4%96%E0%B4%AE%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%B0.jpg/330px-%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%B5%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE-%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86_%E0%B4%AE%E0%B5%81%E0%B4%96%E0%B4%AE%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%B0.jpg",
+      "options": [
+        "Alappuzha",
+        "Palakkad",
+        "Kasaragod",
+        "Pathanamthitta"
+      ],
+      "answer": "Alappuzha"
+    },
+    {
+      "id": "geo_5",
+      "category": "Geography",
+      "question": "Which ocean lies to the west of Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Indian Ocean"
+    },
+    {
+      "id": "geo_6",
+      "category": "Geography",
+      "question": "The Western Ghats in Kerala are a UNESCO?",
+      "imageUrl": null,
+      "options": [
+        "World Heritage Site",
+        "Biosphere only",
+        "National Park",
+        "Wildlife Sanctuary only"
+      ],
+      "answer": "World Heritage Site"
+    },
+    {
+      "id": "geo_7",
+      "category": "Geography",
+      "question": "Which is the smallest district in Kerala by area?",
+      "imageUrl": null,
+      "options": [
+        "Alappuzha",
+        "Kasaragod",
+        "Pathanamthitta",
+        "Wayanad"
+      ],
+      "answer": "Alappuzha"
+    },
+    {
+      "id": "geo_8",
+      "category": "Geography",
+      "question": "The capital of Kerala is?",
+      "imageUrl": null,
+      "options": [
+        "Kochi",
+        "Thiruvananthapuram",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "id": "geo_9",
+      "category": "Geography",
+      "question": "Vembanad Lake is located in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kumarkom.jpg/330px-Kumarkom.jpg",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "id": "geo_10",
+      "category": "Geography",
+      "question": "Which strait separates India from Sri Lanka?",
+      "imageUrl": null,
+      "options": [
+        "Palk Strait",
+        "Bering Strait",
+        "Strait of Hormuz",
+        "Malacca Strait"
+      ],
+      "answer": "Palk Strait"
+    },
+    {
+      "id": "geo_11",
+      "category": "Geography",
+      "question": "Which is the largest district in Kerala by area?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Idukki",
+        "Ernakulam",
+        "Kannur"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_12",
+      "category": "Geography",
+      "question": "The Silent Valley National Park is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/SAN_BIRDS_48.jpg/330px-SAN_BIRDS_48.jpg",
+      "options": [
+        "Palakkad",
+        "Wayanad",
+        "Idukki",
+        "Thrissur"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_13",
+      "category": "Geography",
+      "question": "Which river is known as 'Nila'?",
+      "imageUrl": null,
+      "options": [
+        "Bharathapuzha",
+        "Periyar",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Bharathapuzha"
+    },
+    {
+      "id": "geo_14",
+      "category": "Geography",
+      "question": "The southernmost point of India (mainland) is?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vivekananda_Rock_Memorial%2C_Kanyakumari.jpg/330px-Vivekananda_Rock_Memorial%2C_Kanyakumari.jpg",
+      "options": [
+        "Kanyakumari",
+        "Indira Point",
+        "Rameswaram",
+        "Dhanushkodi"
+      ],
+      "answer": "Kanyakumari"
+    },
+    {
+      "id": "geo_15",
+      "category": "Geography",
+      "question": "Which plateau is known as the 'Roof of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Wayanad Plateau",
+        "Palakkad Gap",
+        "Cardamom Hills",
+        "Nilgiri Hills"
+      ],
+      "answer": "Wayanad Plateau"
+    },
+    {
+      "id": "geo_16",
+      "category": "Geography",
+      "question": "The longest beach in Kerala is?",
+      "imageUrl": null,
+      "options": [
+        "Kovalam",
+        "Varkala",
+        "Muzhappilangad",
+        "Bekal"
+      ],
+      "answer": "Muzhappilangad"
+    },
+    {
+      "id": "geo_17",
+      "category": "Geography",
+      "question": "Which district has no coastline?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Kozhikode",
+        "Ernakulam",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_18",
+      "category": "Geography",
+      "question": "The Periyar Wildlife Sanctuary is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Periyar_National_Park.JPG/330px-Periyar_National_Park.JPG",
+      "options": [
+        "Idukki",
+        "Wayanad",
+        "Thrissur",
+        "Kottayam"
+      ],
+      "answer": "Idukki"
+    },
+    {
+      "id": "geo_19",
+      "category": "Geography",
+      "question": "Which is the highest dam in Kerala?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Idukki009.jpg/330px-Idukki009.jpg",
+      "options": [
+        "Idukki Arch Dam",
+        "Mullaperiyar",
+        "Banasura Sagar",
+        "Peechi"
+      ],
+      "answer": "Idukki Arch Dam"
+    },
+    {
+      "id": "geo_20",
+      "category": "Geography",
+      "question": "The Malampuzha Dam is in?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Thrissur",
+        "Malappuram",
+        "Kozhikode"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_21",
+      "category": "Geography",
+      "question": "Which state shares the longest border with Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Goa"
+      ],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "id": "geo_22",
+      "category": "Geography",
+      "question": "The Ashtamudi Lake is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ashtamudi_Kerala.jpg/330px-Ashtamudi_Kerala.jpg",
+      "options": [
+        "Kollam",
+        "Alappuzha",
+        "Kottayam",
+        "Pathanamthitta"
+      ],
+      "answer": "Kollam"
+    },
+    {
+      "id": "geo_23",
+      "category": "Geography",
+      "question": "Which pass connects Kerala and Tamil Nadu in Palakkad?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad Gap",
+        "Bhor Ghat",
+        "Nathu La",
+        "Banihal Pass"
+      ],
+      "answer": "Palakkad Gap"
+    },
+    {
+      "id": "geo_24",
+      "category": "Geography",
+      "question": "The headquarters of the Southern Naval Command is?",
+      "imageUrl": null,
+      "options": [
+        "Kochi",
+        "Thiruvananthapuram",
+        "Mumbai",
+        "Visakhapatnam"
+      ],
+      "answer": "Kochi"
+    },
+    {
+      "id": "geo_25",
+      "category": "Geography",
+      "question": "Which island group lies to the west of Kerala in the Arabian Sea?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg/330px-A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg",
+      "options": [
+        "Lakshadweep",
+        "Andaman",
+        "Nicobar",
+        "Minicoy only"
+      ],
+      "answer": "Lakshadweep"
+    },
+    {
+      "id": "geo_26",
+      "category": "Geography",
+      "question": "The Chaliyar River flows into?",
+      "imageUrl": null,
+      "options": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Indian Ocean via lake",
+        "Laccadive Sea"
+      ],
+      "answer": "Arabian Sea"
+    },
+    {
+      "id": "geo_27",
+      "category": "Geography",
+      "question": "Which district is known as the 'Land of Looms and Lores'?",
+      "imageUrl": null,
+      "options": [
+        "Kannur",
+        "Kasaragod",
+        "Kozhikode",
+        "Malappuram"
+      ],
+      "answer": "Kannur"
+    },
+    {
+      "id": "geo_28",
+      "category": "Geography",
+      "question": "Agasthyarkoodam is located in?",
+      "imageUrl": null,
+      "options": [
+        "Thiruvananthapuram",
+        "Kollam",
+        "Pathanamthitta",
+        "Idukki"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "id": "geo_29",
+      "category": "Geography",
+      "question": "The largest backwater lake in India is?",
+      "imageUrl": null,
+      "options": [
+        "Vembanad",
+        "Ashtamudi",
+        "Kayamkulam",
+        "Sasthamkotta"
+      ],
+      "answer": "Vembanad"
+    },
+    {
+      "id": "geo_30",
+      "category": "Geography",
+      "question": "Which river flows through the Silent Valley?",
+      "imageUrl": null,
+      "options": [
+        "Kunthi River",
+        "Bharathapuzha",
+        "Chaliyar",
+        "Periyar"
+      ],
+      "answer": "Kunthi River"
+    },
+    {
+      "id": "geo_31",
+      "category": "Geography",
+      "question": "{} is the official animal of Kerala.",
+      "imageUrl": null,
+      "options": [
+        "Elephant",
+        "Tiger",
+        "Lion",
+        "Peacock"
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "id": "geo_32",
+      "category": "Geography",
+      "question": "{} is the state bird of Kerala.",
+      "imageUrl": null,
+      "options": [
+        "Great hornbill",
+        "Peacock",
+        "Parrot",
+        "Kingfisher"
+      ],
+      "answer": "Great hornbill"
+    },
+    {
+      "id": "geo_33",
+      "category": "Geography",
+      "question": "{} is the state tree of Kerala.",
+      "imageUrl": null,
+      "options": [
+        "Coconut",
+        "Mango",
+        "Neem",
+        "Banyan"
+      ],
+      "answer": "Coconut"
+    },
+    {
+      "id": "geo_34",
+      "category": "Geography",
+      "question": "{} is the state flower of Kerala.",
+      "imageUrl": null,
+      "options": [
+        "Golden shower",
+        "Lotus",
+        "Rose",
+        "Jasmine"
+      ],
+      "answer": "Golden shower"
+    },
+    {
+      "id": "geo_35",
+      "category": "Geography",
+      "question": "Kerala has {} districts.",
+      "imageUrl": null,
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "14"
+    },
+    {
+      "id": "geo_36",
+      "category": "Geography",
+      "question": "[Set 2] The Western Ghats in Kerala are a UNESCO?",
+      "imageUrl": null,
+      "options": [
+        "World Heritage Site",
+        "Biosphere only",
+        "National Park",
+        "Wildlife Sanctuary only"
+      ],
+      "answer": "World Heritage Site"
+    },
+    {
+      "id": "geo_37",
+      "category": "Geography",
+      "question": "[Set 2] Which is the smallest district in Kerala by area?",
+      "imageUrl": null,
+      "options": [
+        "Alappuzha",
+        "Kasaragod",
+        "Pathanamthitta",
+        "Wayanad"
+      ],
+      "answer": "Alappuzha"
+    },
+    {
+      "id": "geo_38",
+      "category": "Geography",
+      "question": "[Set 2] The capital of Kerala is?",
+      "imageUrl": null,
+      "options": [
+        "Kochi",
+        "Thiruvananthapuram",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "id": "geo_39",
+      "category": "Geography",
+      "question": "[Set 2] Vembanad Lake is located in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kumarkom.jpg/330px-Kumarkom.jpg",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "id": "geo_40",
+      "category": "Geography",
+      "question": "[Set 2] Which strait separates India from Sri Lanka?",
+      "imageUrl": null,
+      "options": [
+        "Palk Strait",
+        "Bering Strait",
+        "Strait of Hormuz",
+        "Malacca Strait"
+      ],
+      "answer": "Palk Strait"
+    },
+    {
+      "id": "geo_41",
+      "category": "Geography",
+      "question": "[Set 2] Which is the largest district in Kerala by area?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Idukki",
+        "Ernakulam",
+        "Kannur"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_42",
+      "category": "Geography",
+      "question": "[Set 2] The Silent Valley National Park is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/SAN_BIRDS_48.jpg/330px-SAN_BIRDS_48.jpg",
+      "options": [
+        "Palakkad",
+        "Wayanad",
+        "Idukki",
+        "Thrissur"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_43",
+      "category": "Geography",
+      "question": "[Set 2] Which river is known as 'Nila'?",
+      "imageUrl": null,
+      "options": [
+        "Bharathapuzha",
+        "Periyar",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Bharathapuzha"
+    },
+    {
+      "id": "geo_44",
+      "category": "Geography",
+      "question": "[Set 2] The southernmost point of India (mainland) is?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vivekananda_Rock_Memorial%2C_Kanyakumari.jpg/330px-Vivekananda_Rock_Memorial%2C_Kanyakumari.jpg",
+      "options": [
+        "Kanyakumari",
+        "Indira Point",
+        "Rameswaram",
+        "Dhanushkodi"
+      ],
+      "answer": "Kanyakumari"
+    },
+    {
+      "id": "geo_45",
+      "category": "Geography",
+      "question": "[Set 2] Which plateau is known as the 'Roof of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Wayanad Plateau",
+        "Palakkad Gap",
+        "Cardamom Hills",
+        "Nilgiri Hills"
+      ],
+      "answer": "Wayanad Plateau"
+    },
+    {
+      "id": "geo_46",
+      "category": "Geography",
+      "question": "[Set 2] The longest beach in Kerala is?",
+      "imageUrl": null,
+      "options": [
+        "Kovalam",
+        "Varkala",
+        "Muzhappilangad",
+        "Bekal"
+      ],
+      "answer": "Muzhappilangad"
+    },
+    {
+      "id": "geo_47",
+      "category": "Geography",
+      "question": "[Set 2] Which district has no coastline?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Kozhikode",
+        "Ernakulam",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_48",
+      "category": "Geography",
+      "question": "[Set 2] The Periyar Wildlife Sanctuary is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Periyar_National_Park.JPG/330px-Periyar_National_Park.JPG",
+      "options": [
+        "Idukki",
+        "Wayanad",
+        "Thrissur",
+        "Kottayam"
+      ],
+      "answer": "Idukki"
+    },
+    {
+      "id": "geo_49",
+      "category": "Geography",
+      "question": "[Set 2] Which is the highest dam in Kerala?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Idukki009.jpg/330px-Idukki009.jpg",
+      "options": [
+        "Idukki Arch Dam",
+        "Mullaperiyar",
+        "Banasura Sagar",
+        "Peechi"
+      ],
+      "answer": "Idukki Arch Dam"
+    },
+    {
+      "id": "geo_50",
+      "category": "Geography",
+      "question": "[Set 2] The Malampuzha Dam is in?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Thrissur",
+        "Malappuram",
+        "Kozhikode"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_51",
+      "category": "Geography",
+      "question": "[Set 2] Which state shares the longest border with Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Goa"
+      ],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "id": "geo_52",
+      "category": "Geography",
+      "question": "[Set 2] The Ashtamudi Lake is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ashtamudi_Kerala.jpg/330px-Ashtamudi_Kerala.jpg",
+      "options": [
+        "Kollam",
+        "Alappuzha",
+        "Kottayam",
+        "Pathanamthitta"
+      ],
+      "answer": "Kollam"
+    },
+    {
+      "id": "geo_53",
+      "category": "Geography",
+      "question": "[Set 2] Which pass connects Kerala and Tamil Nadu in Palakkad?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad Gap",
+        "Bhor Ghat",
+        "Nathu La",
+        "Banihal Pass"
+      ],
+      "answer": "Palakkad Gap"
+    },
+    {
+      "id": "geo_54",
+      "category": "Geography",
+      "question": "[Set 2] The headquarters of the Southern Naval Command is?",
+      "imageUrl": null,
+      "options": [
+        "Kochi",
+        "Thiruvananthapuram",
+        "Mumbai",
+        "Visakhapatnam"
+      ],
+      "answer": "Kochi"
+    },
+    {
+      "id": "geo_55",
+      "category": "Geography",
+      "question": "[Set 2] Which island group lies to the west of Kerala in the Arabian Sea?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg/330px-A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg",
+      "options": [
+        "Lakshadweep",
+        "Andaman",
+        "Nicobar",
+        "Minicoy only"
+      ],
+      "answer": "Lakshadweep"
+    },
+    {
+      "id": "geo_56",
+      "category": "Geography",
+      "question": "[Set 2] The Chaliyar River flows into?",
+      "imageUrl": null,
+      "options": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Indian Ocean via lake",
+        "Laccadive Sea"
+      ],
+      "answer": "Arabian Sea"
+    },
+    {
+      "id": "geo_57",
+      "category": "Geography",
+      "question": "[Set 2] Which district is known as the 'Land of Looms and Lores'?",
+      "imageUrl": null,
+      "options": [
+        "Kannur",
+        "Kasaragod",
+        "Kozhikode",
+        "Malappuram"
+      ],
+      "answer": "Kannur"
+    },
+    {
+      "id": "geo_58",
+      "category": "Geography",
+      "question": "[Set 2] Agasthyarkoodam is located in?",
+      "imageUrl": null,
+      "options": [
+        "Thiruvananthapuram",
+        "Kollam",
+        "Pathanamthitta",
+        "Idukki"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "id": "geo_59",
+      "category": "Geography",
+      "question": "[Set 2] The largest backwater lake in India is?",
+      "imageUrl": null,
+      "options": [
+        "Vembanad",
+        "Ashtamudi",
+        "Kayamkulam",
+        "Sasthamkotta"
+      ],
+      "answer": "Vembanad"
+    },
+    {
+      "id": "geo_60",
+      "category": "Geography",
+      "question": "[Set 2] Which river flows through the Silent Valley?",
+      "imageUrl": null,
+      "options": [
+        "Kunthi River",
+        "Bharathapuzha",
+        "Chaliyar",
+        "Periyar"
+      ],
+      "answer": "Kunthi River"
+    },
+    {
+      "id": "geo_61",
+      "category": "Geography",
+      "question": "[Set 3] Which is the longest river in Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Bharathapuzha",
+        "Periyar",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Periyar"
+    },
+    {
+      "id": "geo_62",
+      "category": "Geography",
+      "question": "[Set 3] The highest peak in Kerala is?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AnaimudiPeak_DSC_4834.jpg/330px-AnaimudiPeak_DSC_4834.jpg",
+      "options": [
+        "Anamudi",
+        "Meesapulimala",
+        "Agasthyarkoodam",
+        "Chembra"
+      ],
+      "answer": "Anamudi"
+    },
+    {
+      "id": "geo_63",
+      "category": "Geography",
+      "question": "[Set 3] Which district is known as the 'Spice Garden of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Idukki",
+        "Wayanad",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answer": "Idukki"
+    },
+    {
+      "id": "geo_64",
+      "category": "Geography",
+      "question": "[Set 3] The backwaters of Kerala are mainly in which district?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%B5%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE-%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86_%E0%B4%AE%E0%B5%81%E0%B4%96%E0%B4%AE%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%B0.jpg/330px-%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%B5%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE-%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86_%E0%B4%AE%E0%B5%81%E0%B4%96%E0%B4%AE%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%B0.jpg",
+      "options": [
+        "Alappuzha",
+        "Palakkad",
+        "Kasaragod",
+        "Pathanamthitta"
+      ],
+      "answer": "Alappuzha"
+    },
+    {
+      "id": "geo_65",
+      "category": "Geography",
+      "question": "[Set 3] Which ocean lies to the west of Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Indian Ocean"
+    },
+    {
+      "id": "geo_66",
+      "category": "Geography",
+      "question": "[Set 3] The Western Ghats in Kerala are a UNESCO?",
+      "imageUrl": null,
+      "options": [
+        "World Heritage Site",
+        "Biosphere only",
+        "National Park",
+        "Wildlife Sanctuary only"
+      ],
+      "answer": "World Heritage Site"
+    },
+    {
+      "id": "geo_67",
+      "category": "Geography",
+      "question": "[Set 3] Which is the smallest district in Kerala by area?",
+      "imageUrl": null,
+      "options": [
+        "Alappuzha",
+        "Kasaragod",
+        "Pathanamthitta",
+        "Wayanad"
+      ],
+      "answer": "Alappuzha"
+    },
+    {
+      "id": "geo_68",
+      "category": "Geography",
+      "question": "[Set 3] The capital of Kerala is?",
+      "imageUrl": null,
+      "options": [
+        "Kochi",
+        "Thiruvananthapuram",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "id": "geo_69",
+      "category": "Geography",
+      "question": "[Set 3] Vembanad Lake is located in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kumarkom.jpg/330px-Kumarkom.jpg",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "id": "geo_70",
+      "category": "Geography",
+      "question": "[Set 3] Which strait separates India from Sri Lanka?",
+      "imageUrl": null,
+      "options": [
+        "Palk Strait",
+        "Bering Strait",
+        "Strait of Hormuz",
+        "Malacca Strait"
+      ],
+      "answer": "Palk Strait"
+    },
+    {
+      "id": "geo_71",
+      "category": "Geography",
+      "question": "[Set 3] Which is the largest district in Kerala by area?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Idukki",
+        "Ernakulam",
+        "Kannur"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_72",
+      "category": "Geography",
+      "question": "[Set 3] The Silent Valley National Park is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/SAN_BIRDS_48.jpg/330px-SAN_BIRDS_48.jpg",
+      "options": [
+        "Palakkad",
+        "Wayanad",
+        "Idukki",
+        "Thrissur"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_73",
+      "category": "Geography",
+      "question": "[Set 3] Which river is known as 'Nila'?",
+      "imageUrl": null,
+      "options": [
+        "Bharathapuzha",
+        "Periyar",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Bharathapuzha"
+    },
+    {
+      "id": "geo_74",
+      "category": "Geography",
+      "question": "[Set 3] The southernmost point of India (mainland) is?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vivekananda_Rock_Memorial%2C_Kanyakumari.jpg/330px-Vivekananda_Rock_Memorial%2C_Kanyakumari.jpg",
+      "options": [
+        "Kanyakumari",
+        "Indira Point",
+        "Rameswaram",
+        "Dhanushkodi"
+      ],
+      "answer": "Kanyakumari"
+    },
+    {
+      "id": "geo_75",
+      "category": "Geography",
+      "question": "[Set 3] Which plateau is known as the 'Roof of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Wayanad Plateau",
+        "Palakkad Gap",
+        "Cardamom Hills",
+        "Nilgiri Hills"
+      ],
+      "answer": "Wayanad Plateau"
+    },
+    {
+      "id": "geo_76",
+      "category": "Geography",
+      "question": "[Set 3] The longest beach in Kerala is?",
+      "imageUrl": null,
+      "options": [
+        "Kovalam",
+        "Varkala",
+        "Muzhappilangad",
+        "Bekal"
+      ],
+      "answer": "Muzhappilangad"
+    },
+    {
+      "id": "geo_77",
+      "category": "Geography",
+      "question": "[Set 3] Which district has no coastline?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Kozhikode",
+        "Ernakulam",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_78",
+      "category": "Geography",
+      "question": "[Set 3] The Periyar Wildlife Sanctuary is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Periyar_National_Park.JPG/330px-Periyar_National_Park.JPG",
+      "options": [
+        "Idukki",
+        "Wayanad",
+        "Thrissur",
+        "Kottayam"
+      ],
+      "answer": "Idukki"
+    },
+    {
+      "id": "geo_79",
+      "category": "Geography",
+      "question": "[Set 3] Which is the highest dam in Kerala?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Idukki009.jpg/330px-Idukki009.jpg",
+      "options": [
+        "Idukki Arch Dam",
+        "Mullaperiyar",
+        "Banasura Sagar",
+        "Peechi"
+      ],
+      "answer": "Idukki Arch Dam"
+    },
+    {
+      "id": "geo_80",
+      "category": "Geography",
+      "question": "[Set 3] The Malampuzha Dam is in?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad",
+        "Thrissur",
+        "Malappuram",
+        "Kozhikode"
+      ],
+      "answer": "Palakkad"
+    },
+    {
+      "id": "geo_81",
+      "category": "Geography",
+      "question": "[Set 3] Which state shares the longest border with Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Goa"
+      ],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "id": "geo_82",
+      "category": "Geography",
+      "question": "[Set 3] The Ashtamudi Lake is in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ashtamudi_Kerala.jpg/330px-Ashtamudi_Kerala.jpg",
+      "options": [
+        "Kollam",
+        "Alappuzha",
+        "Kottayam",
+        "Pathanamthitta"
+      ],
+      "answer": "Kollam"
+    },
+    {
+      "id": "geo_83",
+      "category": "Geography",
+      "question": "[Set 3] Which pass connects Kerala and Tamil Nadu in Palakkad?",
+      "imageUrl": null,
+      "options": [
+        "Palakkad Gap",
+        "Bhor Ghat",
+        "Nathu La",
+        "Banihal Pass"
+      ],
+      "answer": "Palakkad Gap"
+    },
+    {
+      "id": "geo_84",
+      "category": "Geography",
+      "question": "[Set 3] The headquarters of the Southern Naval Command is?",
+      "imageUrl": null,
+      "options": [
+        "Kochi",
+        "Thiruvananthapuram",
+        "Mumbai",
+        "Visakhapatnam"
+      ],
+      "answer": "Kochi"
+    },
+    {
+      "id": "geo_85",
+      "category": "Geography",
+      "question": "[Set 3] Which island group lies to the west of Kerala in the Arabian Sea?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg/330px-A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg",
+      "options": [
+        "Lakshadweep",
+        "Andaman",
+        "Nicobar",
+        "Minicoy only"
+      ],
+      "answer": "Lakshadweep"
+    },
+    {
+      "id": "geo_86",
+      "category": "Geography",
+      "question": "[Set 3] The Chaliyar River flows into?",
+      "imageUrl": null,
+      "options": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Indian Ocean via lake",
+        "Laccadive Sea"
+      ],
+      "answer": "Arabian Sea"
+    },
+    {
+      "id": "geo_87",
+      "category": "Geography",
+      "question": "[Set 3] Which district is known as the 'Land of Looms and Lores'?",
+      "imageUrl": null,
+      "options": [
+        "Kannur",
+        "Kasaragod",
+        "Kozhikode",
+        "Malappuram"
+      ],
+      "answer": "Kannur"
+    },
+    {
+      "id": "geo_88",
+      "category": "Geography",
+      "question": "[Set 3] Agasthyarkoodam is located in?",
+      "imageUrl": null,
+      "options": [
+        "Thiruvananthapuram",
+        "Kollam",
+        "Pathanamthitta",
+        "Idukki"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "id": "geo_89",
+      "category": "Geography",
+      "question": "[Set 3] The largest backwater lake in India is?",
+      "imageUrl": null,
+      "options": [
+        "Vembanad",
+        "Ashtamudi",
+        "Kayamkulam",
+        "Sasthamkotta"
+      ],
+      "answer": "Vembanad"
+    },
+    {
+      "id": "geo_90",
+      "category": "Geography",
+      "question": "[Set 3] Which river flows through the Silent Valley?",
+      "imageUrl": null,
+      "options": [
+        "Kunthi River",
+        "Bharathapuzha",
+        "Chaliyar",
+        "Periyar"
+      ],
+      "answer": "Kunthi River"
+    },
+    {
+      "id": "geo_91",
+      "category": "Geography",
+      "question": "[Set 4] Which is the longest river in Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Bharathapuzha",
+        "Periyar",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Periyar"
+    },
+    {
+      "id": "geo_92",
+      "category": "Geography",
+      "question": "[Set 4] The highest peak in Kerala is?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AnaimudiPeak_DSC_4834.jpg/330px-AnaimudiPeak_DSC_4834.jpg",
+      "options": [
+        "Anamudi",
+        "Meesapulimala",
+        "Agasthyarkoodam",
+        "Chembra"
+      ],
+      "answer": "Anamudi"
+    },
+    {
+      "id": "geo_93",
+      "category": "Geography",
+      "question": "[Set 4] Which district is known as the 'Spice Garden of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Idukki",
+        "Wayanad",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answer": "Idukki"
+    },
+    {
+      "id": "geo_94",
+      "category": "Geography",
+      "question": "[Set 4] The backwaters of Kerala are mainly in which district?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%B5%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE-%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86_%E0%B4%AE%E0%B5%81%E0%B4%96%E0%B4%AE%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%B0.jpg/330px-%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%B5%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE-%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86_%E0%B4%AE%E0%B5%81%E0%B4%96%E0%B4%AE%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%B0.jpg",
+      "options": [
+        "Alappuzha",
+        "Palakkad",
+        "Kasaragod",
+        "Pathanamthitta"
+      ],
+      "answer": "Alappuzha"
+    },
+    {
+      "id": "geo_95",
+      "category": "Geography",
+      "question": "[Set 4] Which ocean lies to the west of Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Indian Ocean"
+    },
+    {
+      "id": "geo_96",
+      "category": "Geography",
+      "question": "[Set 4] The Western Ghats in Kerala are a UNESCO?",
+      "imageUrl": null,
+      "options": [
+        "World Heritage Site",
+        "Biosphere only",
+        "National Park",
+        "Wildlife Sanctuary only"
+      ],
+      "answer": "World Heritage Site"
+    },
+    {
+      "id": "geo_97",
+      "category": "Geography",
+      "question": "[Set 4] Which is the smallest district in Kerala by area?",
+      "imageUrl": null,
+      "options": [
+        "Alappuzha",
+        "Kasaragod",
+        "Pathanamthitta",
+        "Wayanad"
+      ],
+      "answer": "Alappuzha"
+    },
+    {
+      "id": "geo_98",
+      "category": "Geography",
+      "question": "[Set 4] The capital of Kerala is?",
+      "imageUrl": null,
+      "options": [
+        "Kochi",
+        "Thiruvananthapuram",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "id": "geo_99",
+      "category": "Geography",
+      "question": "[Set 4] Vembanad Lake is located in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kumarkom.jpg/330px-Kumarkom.jpg",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "id": "geo_100",
+      "category": "Geography",
+      "question": "[Set 4] Which strait separates India from Sri Lanka?",
+      "imageUrl": null,
+      "options": [
+        "Palk Strait",
+        "Bering Strait",
+        "Strait of Hormuz",
+        "Malacca Strait"
+      ],
+      "answer": "Palk Strait"
+    }
+  ]
+}

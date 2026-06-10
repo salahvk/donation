@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "category": "Indian History",
+  "questions": [
+    {
+      "id": "ih_1",
+      "category": "Indian History",
+      "question": "Who was the first President of India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg/330px-Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "id": "ih_2",
+      "category": "Indian History",
+      "question": "The Jallianwala Bagh massacre took place in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jallianwala_Bagh_in_Day_light.JPG/330px-Jallianwala_Bagh_in_Day_light.JPG",
+      "options": [
+        "1919",
+        "1920",
+        "1921",
+        "1922"
+      ],
+      "answer": "1919"
+    },
+    {
+      "id": "ih_3",
+      "category": "Indian History",
+      "question": "Who is known as the 'Iron Man of India'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SVPI_Airport%2C_Ahmedabad.jpg/330px-SVPI_Airport%2C_Ahmedabad.jpg",
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Lal Bahadur Shastri"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "id": "ih_4",
+      "category": "Indian History",
+      "question": "The Quit India Movement was launched in?",
+      "imageUrl": null,
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942"
+    },
+    {
+      "id": "ih_5",
+      "category": "Indian History",
+      "question": "Who founded the Indian National Congress in 1885?",
+      "imageUrl": null,
+      "options": [
+        "Mahatma Gandhi",
+        "A.O. Hume",
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale"
+      ],
+      "answer": "A.O. Hume"
+    },
+    {
+      "id": "ih_6",
+      "category": "Indian History",
+      "question": "The Battle of Plassey was fought in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg/330px-Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1772"
+      ],
+      "answer": "1757"
+    },
+    {
+      "id": "ih_7",
+      "category": "Indian History",
+      "question": "Who wrote the book 'Discovery of India'?",
+      "imageUrl": null,
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "id": "ih_8",
+      "category": "Indian History",
+      "question": "The Dandi March was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Non-Cooperation",
+        "Civil Disobedience",
+        "Quit India",
+        "Swadeshi"
+      ],
+      "answer": "Civil Disobedience"
+    },
+    {
+      "id": "ih_9",
+      "category": "Indian History",
+      "question": "Who was the last Mughal Emperor?",
+      "imageUrl": null,
+      "options": [
+        "Akbar",
+        "Aurangzeb",
+        "Bahadur Shah II",
+        "Shah Jahan"
+      ],
+      "answer": "Bahadur Shah II"
+    },
+    {
+      "id": "ih_10",
+      "category": "Indian History",
+      "question": "The first war of Indian independence is also called?",
+      "imageUrl": null,
+      "options": [
+        "Sepoy Mutiny",
+        "Green Revolution",
+        "Salt Satyagraha",
+        "Khilafat Movement"
+      ],
+      "answer": "Sepoy Mutiny"
+    },
+    {
+      "id": "ih_11",
+      "category": "Indian History",
+      "question": "Who gave the slogan 'Do or Die'?",
+      "imageUrl": null,
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "id": "ih_12",
+      "category": "Indian History",
+      "question": "The Simon Commission arrived in India in?",
+      "imageUrl": null,
+      "options": [
+        "1927",
+        "1928",
+        "1930",
+        "1932"
+      ],
+      "answer": "1928"
+    },
+    {
+      "id": "ih_13",
+      "category": "Indian History",
+      "question": "Who was known as 'Netaji'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Subhas_Chandra_Bose_NRB.jpg/330px-Subhas_Chandra_Bose_NRB.jpg",
+      "options": [
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Bhagat Singh"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "id": "ih_14",
+      "category": "Indian History",
+      "question": "The Champaran Satyagraha was in?",
+      "imageUrl": null,
+      "options": [
+        "1917",
+        "1919",
+        "1920",
+        "1922"
+      ],
+      "answer": "1917"
+    },
+    {
+      "id": "ih_15",
+      "category": "Indian History",
+      "question": "Who wrote 'Gitanjali'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1926_Rabindrath_Tagore.jpg/330px-1926_Rabindrath_Tagore.jpg",
+      "options": [
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Bankim Chandra Chattopadhyay",
+        "Premchand"
+      ],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "id": "ih_16",
+      "category": "Indian History",
+      "question": "The Cabinet Mission came to India in?",
+      "imageUrl": null,
+      "options": [
+        "1942",
+        "1944",
+        "1946",
+        "1947"
+      ],
+      "answer": "1946"
+    },
+    {
+      "id": "ih_17",
+      "category": "Indian History",
+      "question": "Who was the first Governor-General of independent India?",
+      "imageUrl": null,
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Warren Hastings",
+        "Lord Canning"
+      ],
+      "answer": "Lord Mountbatten"
+    },
+    {
+      "id": "ih_18",
+      "category": "Indian History",
+      "question": "The Non-Cooperation Movement was suspended after?",
+      "imageUrl": null,
+      "options": [
+        "Chauri Chaura incident",
+        "Jallianwala Bagh",
+        "Dandi March",
+        "Quit India"
+      ],
+      "answer": "Chauri Chaura incident"
+    },
+    {
+      "id": "ih_19",
+      "category": "Indian History",
+      "question": "Who built the Taj Mahal?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "answer": "Shah Jahan"
+    },
+    {
+      "id": "ih_20",
+      "category": "Indian History",
+      "question": "The Rowlatt Act was passed in?",
+      "imageUrl": null,
+      "options": [
+        "1917",
+        "1919",
+        "1920",
+        "1921"
+      ],
+      "answer": "1919"
+    },
+    {
+      "id": "ih_21",
+      "category": "Indian History",
+      "question": "Who was the first woman Prime Minister of India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Indira_Gandhi_official_portrait.png/330px-Indira_Gandhi_official_portrait.png",
+      "options": [
+        "Indira Gandhi",
+        "Sonia Gandhi",
+        "Pratibha Patil",
+        "Sarojini Naidu"
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "id": "ih_22",
+      "category": "Indian History",
+      "question": "The Battle of Buxar was fought in?",
+      "imageUrl": null,
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1775"
+      ],
+      "answer": "1764"
+    },
+    {
+      "id": "ih_23",
+      "category": "Indian History",
+      "question": "Who founded the Ghadar Party?",
+      "imageUrl": null,
+      "options": [
+        "Lala Hardayal",
+        "Bhagat Singh",
+        "Tilak",
+        "Aurobindo Ghosh"
+      ],
+      "answer": "Lala Hardayal"
+    },
+    {
+      "id": "ih_24",
+      "category": "Indian History",
+      "question": "The Poona Pact was signed in?",
+      "imageUrl": null,
+      "options": [
+        "1930",
+        "1932",
+        "1935",
+        "1940"
+      ],
+      "answer": "1932"
+    },
+    {
+      "id": "ih_25",
+      "category": "Indian History",
+      "question": "Who was called 'Mahatma'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gandhi_Smriti_Delhi.jpg/330px-Gandhi_Smriti_Delhi.jpg",
+      "options": [
+        "Mohandas Karamchand Gandhi",
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": "Mohandas Karamchand Gandhi"
+    },
+    {
+      "id": "ih_26",
+      "category": "Indian History",
+      "question": "The Indian National Army was led by?",
+      "imageUrl": null,
+      "options": [
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Chandrasekhar Azad",
+        "Sukhdev"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "id": "ih_27",
+      "category": "Indian History",
+      "question": "The Regulating Act was passed in?",
+      "imageUrl": null,
+      "options": [
+        "1773",
+        "1784",
+        "1793",
+        "1813"
+      ],
+      "answer": "1773"
+    },
+    {
+      "id": "ih_28",
+      "category": "Indian History",
+      "question": "Who was the first Indian to win Nobel Prize?",
+      "imageUrl": null,
+      "options": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "id": "ih_29",
+      "category": "Indian History",
+      "question": "The Cripps Mission visited India in?",
+      "imageUrl": null,
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1946"
+      ],
+      "answer": "1942"
+    },
+    {
+      "id": "ih_30",
+      "category": "Indian History",
+      "question": "Who wrote 'Anandamath'?",
+      "imageUrl": null,
+      "options": [
+        "Bankim Chandra Chattopadhyay",
+        "Rabindranath Tagore",
+        "Premchand",
+        "Sarat Chandra"
+      ],
+      "answer": "Bankim Chandra Chattopadhyay"
+    },
+    {
+      "id": "ih_31",
+      "category": "Indian History",
+      "question": "The {} Act of 1935 introduced provincial autonomy.",
+      "imageUrl": null,
+      "options": [
+        "Government of India",
+        "Regulating",
+        "Charter",
+        "Rowlatt"
+      ],
+      "answer": "Government of India"
+    },
+    {
+      "id": "ih_32",
+      "category": "Indian History",
+      "question": "{} was the Viceroy during Quit India.",
+      "imageUrl": null,
+      "options": [
+        "Linlithgow",
+        "Curzon",
+        "Ripon",
+        "Canning"
+      ],
+      "answer": "Linlithgow"
+    },
+    {
+      "id": "ih_33",
+      "category": "Indian History",
+      "question": "The {} dynasty built the Qutub Minar.",
+      "imageUrl": null,
+      "options": [
+        "Slave",
+        "Mughal",
+        "Lodi",
+        "Tughlaq"
+      ],
+      "answer": "Slave"
+    },
+    {
+      "id": "ih_34",
+      "category": "Indian History",
+      "question": "{} led the Revolt of 1857 in Kanpur.",
+      "imageUrl": null,
+      "options": [
+        "Nana Saheb",
+        "Tantia Tope",
+        "Rani Lakshmibai",
+        "Bahadur Shah"
+      ],
+      "answer": "Nana Saheb"
+    },
+    {
+      "id": "ih_35",
+      "category": "Indian History",
+      "question": "The {} Session of 1929 declared Poorna Swaraj.",
+      "imageUrl": null,
+      "options": [
+        "Lahore",
+        "Calcutta",
+        "Madras",
+        "Surat"
+      ],
+      "answer": "Lahore"
+    },
+    {
+      "id": "ih_36",
+      "category": "Indian History",
+      "question": "[Set 2] The Battle of Plassey was fought in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg/330px-Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1772"
+      ],
+      "answer": "1757"
+    },
+    {
+      "id": "ih_37",
+      "category": "Indian History",
+      "question": "[Set 2] Who wrote the book 'Discovery of India'?",
+      "imageUrl": null,
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "id": "ih_38",
+      "category": "Indian History",
+      "question": "[Set 2] The Dandi March was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Non-Cooperation",
+        "Civil Disobedience",
+        "Quit India",
+        "Swadeshi"
+      ],
+      "answer": "Civil Disobedience"
+    },
+    {
+      "id": "ih_39",
+      "category": "Indian History",
+      "question": "[Set 2] Who was the last Mughal Emperor?",
+      "imageUrl": null,
+      "options": [
+        "Akbar",
+        "Aurangzeb",
+        "Bahadur Shah II",
+        "Shah Jahan"
+      ],
+      "answer": "Bahadur Shah II"
+    },
+    {
+      "id": "ih_40",
+      "category": "Indian History",
+      "question": "[Set 2] The first war of Indian independence is also called?",
+      "imageUrl": null,
+      "options": [
+        "Sepoy Mutiny",
+        "Green Revolution",
+        "Salt Satyagraha",
+        "Khilafat Movement"
+      ],
+      "answer": "Sepoy Mutiny"
+    },
+    {
+      "id": "ih_41",
+      "category": "Indian History",
+      "question": "[Set 2] Who gave the slogan 'Do or Die'?",
+      "imageUrl": null,
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "id": "ih_42",
+      "category": "Indian History",
+      "question": "[Set 2] The Simon Commission arrived in India in?",
+      "imageUrl": null,
+      "options": [
+        "1927",
+        "1928",
+        "1930",
+        "1932"
+      ],
+      "answer": "1928"
+    },
+    {
+      "id": "ih_43",
+      "category": "Indian History",
+      "question": "[Set 2] Who was known as 'Netaji'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Subhas_Chandra_Bose_NRB.jpg/330px-Subhas_Chandra_Bose_NRB.jpg",
+      "options": [
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Bhagat Singh"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "id": "ih_44",
+      "category": "Indian History",
+      "question": "[Set 2] The Champaran Satyagraha was in?",
+      "imageUrl": null,
+      "options": [
+        "1917",
+        "1919",
+        "1920",
+        "1922"
+      ],
+      "answer": "1917"
+    },
+    {
+      "id": "ih_45",
+      "category": "Indian History",
+      "question": "[Set 2] Who wrote 'Gitanjali'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1926_Rabindrath_Tagore.jpg/330px-1926_Rabindrath_Tagore.jpg",
+      "options": [
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Bankim Chandra Chattopadhyay",
+        "Premchand"
+      ],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "id": "ih_46",
+      "category": "Indian History",
+      "question": "[Set 2] The Cabinet Mission came to India in?",
+      "imageUrl": null,
+      "options": [
+        "1942",
+        "1944",
+        "1946",
+        "1947"
+      ],
+      "answer": "1946"
+    },
+    {
+      "id": "ih_47",
+      "category": "Indian History",
+      "question": "[Set 2] Who was the first Governor-General of independent India?",
+      "imageUrl": null,
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Warren Hastings",
+        "Lord Canning"
+      ],
+      "answer": "Lord Mountbatten"
+    },
+    {
+      "id": "ih_48",
+      "category": "Indian History",
+      "question": "[Set 2] The Non-Cooperation Movement was suspended after?",
+      "imageUrl": null,
+      "options": [
+        "Chauri Chaura incident",
+        "Jallianwala Bagh",
+        "Dandi March",
+        "Quit India"
+      ],
+      "answer": "Chauri Chaura incident"
+    },
+    {
+      "id": "ih_49",
+      "category": "Indian History",
+      "question": "[Set 2] Who built the Taj Mahal?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "answer": "Shah Jahan"
+    },
+    {
+      "id": "ih_50",
+      "category": "Indian History",
+      "question": "[Set 2] The Rowlatt Act was passed in?",
+      "imageUrl": null,
+      "options": [
+        "1917",
+        "1919",
+        "1920",
+        "1921"
+      ],
+      "answer": "1919"
+    },
+    {
+      "id": "ih_51",
+      "category": "Indian History",
+      "question": "[Set 2] Who was the first woman Prime Minister of India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Indira_Gandhi_official_portrait.png/330px-Indira_Gandhi_official_portrait.png",
+      "options": [
+        "Indira Gandhi",
+        "Sonia Gandhi",
+        "Pratibha Patil",
+        "Sarojini Naidu"
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "id": "ih_52",
+      "category": "Indian History",
+      "question": "[Set 2] The Battle of Buxar was fought in?",
+      "imageUrl": null,
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1775"
+      ],
+      "answer": "1764"
+    },
+    {
+      "id": "ih_53",
+      "category": "Indian History",
+      "question": "[Set 2] Who founded the Ghadar Party?",
+      "imageUrl": null,
+      "options": [
+        "Lala Hardayal",
+        "Bhagat Singh",
+        "Tilak",
+        "Aurobindo Ghosh"
+      ],
+      "answer": "Lala Hardayal"
+    },
+    {
+      "id": "ih_54",
+      "category": "Indian History",
+      "question": "[Set 2] The Poona Pact was signed in?",
+      "imageUrl": null,
+      "options": [
+        "1930",
+        "1932",
+        "1935",
+        "1940"
+      ],
+      "answer": "1932"
+    },
+    {
+      "id": "ih_55",
+      "category": "Indian History",
+      "question": "[Set 2] Who was called 'Mahatma'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gandhi_Smriti_Delhi.jpg/330px-Gandhi_Smriti_Delhi.jpg",
+      "options": [
+        "Mohandas Karamchand Gandhi",
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": "Mohandas Karamchand Gandhi"
+    },
+    {
+      "id": "ih_56",
+      "category": "Indian History",
+      "question": "[Set 2] The Indian National Army was led by?",
+      "imageUrl": null,
+      "options": [
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Chandrasekhar Azad",
+        "Sukhdev"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "id": "ih_57",
+      "category": "Indian History",
+      "question": "[Set 2] The Regulating Act was passed in?",
+      "imageUrl": null,
+      "options": [
+        "1773",
+        "1784",
+        "1793",
+        "1813"
+      ],
+      "answer": "1773"
+    },
+    {
+      "id": "ih_58",
+      "category": "Indian History",
+      "question": "[Set 2] Who was the first Indian to win Nobel Prize?",
+      "imageUrl": null,
+      "options": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "id": "ih_59",
+      "category": "Indian History",
+      "question": "[Set 2] The Cripps Mission visited India in?",
+      "imageUrl": null,
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1946"
+      ],
+      "answer": "1942"
+    },
+    {
+      "id": "ih_60",
+      "category": "Indian History",
+      "question": "[Set 2] Who wrote 'Anandamath'?",
+      "imageUrl": null,
+      "options": [
+        "Bankim Chandra Chattopadhyay",
+        "Rabindranath Tagore",
+        "Premchand",
+        "Sarat Chandra"
+      ],
+      "answer": "Bankim Chandra Chattopadhyay"
+    },
+    {
+      "id": "ih_61",
+      "category": "Indian History",
+      "question": "[Set 3] Who was the first President of India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg/330px-Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "id": "ih_62",
+      "category": "Indian History",
+      "question": "[Set 3] The Jallianwala Bagh massacre took place in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jallianwala_Bagh_in_Day_light.JPG/330px-Jallianwala_Bagh_in_Day_light.JPG",
+      "options": [
+        "1919",
+        "1920",
+        "1921",
+        "1922"
+      ],
+      "answer": "1919"
+    },
+    {
+      "id": "ih_63",
+      "category": "Indian History",
+      "question": "[Set 3] Who is known as the 'Iron Man of India'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SVPI_Airport%2C_Ahmedabad.jpg/330px-SVPI_Airport%2C_Ahmedabad.jpg",
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Lal Bahadur Shastri"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "id": "ih_64",
+      "category": "Indian History",
+      "question": "[Set 3] The Quit India Movement was launched in?",
+      "imageUrl": null,
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942"
+    },
+    {
+      "id": "ih_65",
+      "category": "Indian History",
+      "question": "[Set 3] Who founded the Indian National Congress in 1885?",
+      "imageUrl": null,
+      "options": [
+        "Mahatma Gandhi",
+        "A.O. Hume",
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale"
+      ],
+      "answer": "A.O. Hume"
+    },
+    {
+      "id": "ih_66",
+      "category": "Indian History",
+      "question": "[Set 3] The Battle of Plassey was fought in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg/330px-Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1772"
+      ],
+      "answer": "1757"
+    },
+    {
+      "id": "ih_67",
+      "category": "Indian History",
+      "question": "[Set 3] Who wrote the book 'Discovery of India'?",
+      "imageUrl": null,
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "id": "ih_68",
+      "category": "Indian History",
+      "question": "[Set 3] The Dandi March was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Non-Cooperation",
+        "Civil Disobedience",
+        "Quit India",
+        "Swadeshi"
+      ],
+      "answer": "Civil Disobedience"
+    },
+    {
+      "id": "ih_69",
+      "category": "Indian History",
+      "question": "[Set 3] Who was the last Mughal Emperor?",
+      "imageUrl": null,
+      "options": [
+        "Akbar",
+        "Aurangzeb",
+        "Bahadur Shah II",
+        "Shah Jahan"
+      ],
+      "answer": "Bahadur Shah II"
+    },
+    {
+      "id": "ih_70",
+      "category": "Indian History",
+      "question": "[Set 3] The first war of Indian independence is also called?",
+      "imageUrl": null,
+      "options": [
+        "Sepoy Mutiny",
+        "Green Revolution",
+        "Salt Satyagraha",
+        "Khilafat Movement"
+      ],
+      "answer": "Sepoy Mutiny"
+    },
+    {
+      "id": "ih_71",
+      "category": "Indian History",
+      "question": "[Set 3] Who gave the slogan 'Do or Die'?",
+      "imageUrl": null,
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "id": "ih_72",
+      "category": "Indian History",
+      "question": "[Set 3] The Simon Commission arrived in India in?",
+      "imageUrl": null,
+      "options": [
+        "1927",
+        "1928",
+        "1930",
+        "1932"
+      ],
+      "answer": "1928"
+    },
+    {
+      "id": "ih_73",
+      "category": "Indian History",
+      "question": "[Set 3] Who was known as 'Netaji'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Subhas_Chandra_Bose_NRB.jpg/330px-Subhas_Chandra_Bose_NRB.jpg",
+      "options": [
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Bhagat Singh"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "id": "ih_74",
+      "category": "Indian History",
+      "question": "[Set 3] The Champaran Satyagraha was in?",
+      "imageUrl": null,
+      "options": [
+        "1917",
+        "1919",
+        "1920",
+        "1922"
+      ],
+      "answer": "1917"
+    },
+    {
+      "id": "ih_75",
+      "category": "Indian History",
+      "question": "[Set 3] Who wrote 'Gitanjali'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1926_Rabindrath_Tagore.jpg/330px-1926_Rabindrath_Tagore.jpg",
+      "options": [
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Bankim Chandra Chattopadhyay",
+        "Premchand"
+      ],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "id": "ih_76",
+      "category": "Indian History",
+      "question": "[Set 3] The Cabinet Mission came to India in?",
+      "imageUrl": null,
+      "options": [
+        "1942",
+        "1944",
+        "1946",
+        "1947"
+      ],
+      "answer": "1946"
+    },
+    {
+      "id": "ih_77",
+      "category": "Indian History",
+      "question": "[Set 3] Who was the first Governor-General of independent India?",
+      "imageUrl": null,
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Warren Hastings",
+        "Lord Canning"
+      ],
+      "answer": "Lord Mountbatten"
+    },
+    {
+      "id": "ih_78",
+      "category": "Indian History",
+      "question": "[Set 3] The Non-Cooperation Movement was suspended after?",
+      "imageUrl": null,
+      "options": [
+        "Chauri Chaura incident",
+        "Jallianwala Bagh",
+        "Dandi March",
+        "Quit India"
+      ],
+      "answer": "Chauri Chaura incident"
+    },
+    {
+      "id": "ih_79",
+      "category": "Indian History",
+      "question": "[Set 3] Who built the Taj Mahal?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "answer": "Shah Jahan"
+    },
+    {
+      "id": "ih_80",
+      "category": "Indian History",
+      "question": "[Set 3] The Rowlatt Act was passed in?",
+      "imageUrl": null,
+      "options": [
+        "1917",
+        "1919",
+        "1920",
+        "1921"
+      ],
+      "answer": "1919"
+    },
+    {
+      "id": "ih_81",
+      "category": "Indian History",
+      "question": "[Set 3] Who was the first woman Prime Minister of India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Indira_Gandhi_official_portrait.png/330px-Indira_Gandhi_official_portrait.png",
+      "options": [
+        "Indira Gandhi",
+        "Sonia Gandhi",
+        "Pratibha Patil",
+        "Sarojini Naidu"
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "id": "ih_82",
+      "category": "Indian History",
+      "question": "[Set 3] The Battle of Buxar was fought in?",
+      "imageUrl": null,
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1775"
+      ],
+      "answer": "1764"
+    },
+    {
+      "id": "ih_83",
+      "category": "Indian History",
+      "question": "[Set 3] Who founded the Ghadar Party?",
+      "imageUrl": null,
+      "options": [
+        "Lala Hardayal",
+        "Bhagat Singh",
+        "Tilak",
+        "Aurobindo Ghosh"
+      ],
+      "answer": "Lala Hardayal"
+    },
+    {
+      "id": "ih_84",
+      "category": "Indian History",
+      "question": "[Set 3] The Poona Pact was signed in?",
+      "imageUrl": null,
+      "options": [
+        "1930",
+        "1932",
+        "1935",
+        "1940"
+      ],
+      "answer": "1932"
+    },
+    {
+      "id": "ih_85",
+      "category": "Indian History",
+      "question": "[Set 3] Who was called 'Mahatma'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gandhi_Smriti_Delhi.jpg/330px-Gandhi_Smriti_Delhi.jpg",
+      "options": [
+        "Mohandas Karamchand Gandhi",
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": "Mohandas Karamchand Gandhi"
+    },
+    {
+      "id": "ih_86",
+      "category": "Indian History",
+      "question": "[Set 3] The Indian National Army was led by?",
+      "imageUrl": null,
+      "options": [
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Chandrasekhar Azad",
+        "Sukhdev"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "id": "ih_87",
+      "category": "Indian History",
+      "question": "[Set 3] The Regulating Act was passed in?",
+      "imageUrl": null,
+      "options": [
+        "1773",
+        "1784",
+        "1793",
+        "1813"
+      ],
+      "answer": "1773"
+    },
+    {
+      "id": "ih_88",
+      "category": "Indian History",
+      "question": "[Set 3] Who was the first Indian to win Nobel Prize?",
+      "imageUrl": null,
+      "options": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "id": "ih_89",
+      "category": "Indian History",
+      "question": "[Set 3] The Cripps Mission visited India in?",
+      "imageUrl": null,
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1946"
+      ],
+      "answer": "1942"
+    },
+    {
+      "id": "ih_90",
+      "category": "Indian History",
+      "question": "[Set 3] Who wrote 'Anandamath'?",
+      "imageUrl": null,
+      "options": [
+        "Bankim Chandra Chattopadhyay",
+        "Rabindranath Tagore",
+        "Premchand",
+        "Sarat Chandra"
+      ],
+      "answer": "Bankim Chandra Chattopadhyay"
+    },
+    {
+      "id": "ih_91",
+      "category": "Indian History",
+      "question": "[Set 4] Who was the first President of India?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg/330px-Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "id": "ih_92",
+      "category": "Indian History",
+      "question": "[Set 4] The Jallianwala Bagh massacre took place in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jallianwala_Bagh_in_Day_light.JPG/330px-Jallianwala_Bagh_in_Day_light.JPG",
+      "options": [
+        "1919",
+        "1920",
+        "1921",
+        "1922"
+      ],
+      "answer": "1919"
+    },
+    {
+      "id": "ih_93",
+      "category": "Indian History",
+      "question": "[Set 4] Who is known as the 'Iron Man of India'?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SVPI_Airport%2C_Ahmedabad.jpg/330px-SVPI_Airport%2C_Ahmedabad.jpg",
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Lal Bahadur Shastri"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "id": "ih_94",
+      "category": "Indian History",
+      "question": "[Set 4] The Quit India Movement was launched in?",
+      "imageUrl": null,
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942"
+    },
+    {
+      "id": "ih_95",
+      "category": "Indian History",
+      "question": "[Set 4] Who founded the Indian National Congress in 1885?",
+      "imageUrl": null,
+      "options": [
+        "Mahatma Gandhi",
+        "A.O. Hume",
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale"
+      ],
+      "answer": "A.O. Hume"
+    },
+    {
+      "id": "ih_96",
+      "category": "Indian History",
+      "question": "[Set 4] The Battle of Plassey was fought in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg/330px-Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg",
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1772"
+      ],
+      "answer": "1757"
+    },
+    {
+      "id": "ih_97",
+      "category": "Indian History",
+      "question": "[Set 4] Who wrote the book 'Discovery of India'?",
+      "imageUrl": null,
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "id": "ih_98",
+      "category": "Indian History",
+      "question": "[Set 4] The Dandi March was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Non-Cooperation",
+        "Civil Disobedience",
+        "Quit India",
+        "Swadeshi"
+      ],
+      "answer": "Civil Disobedience"
+    },
+    {
+      "id": "ih_99",
+      "category": "Indian History",
+      "question": "[Set 4] Who was the last Mughal Emperor?",
+      "imageUrl": null,
+      "options": [
+        "Akbar",
+        "Aurangzeb",
+        "Bahadur Shah II",
+        "Shah Jahan"
+      ],
+      "answer": "Bahadur Shah II"
+    },
+    {
+      "id": "ih_100",
+      "category": "Indian History",
+      "question": "[Set 4] The first war of Indian independence is also called?",
+      "imageUrl": null,
+      "options": [
+        "Sepoy Mutiny",
+        "Green Revolution",
+        "Salt Satyagraha",
+        "Khilafat Movement"
+      ],
+      "answer": "Sepoy Mutiny"
+    }
+  ]
+}

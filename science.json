@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "category": "Science",
+  "questions": [
+    {
+      "id": "sci_1",
+      "category": "Science",
+      "question": "What is the chemical symbol for gold?",
+      "imageUrl": null,
+      "options": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "answer": "Au"
+    },
+    {
+      "id": "sci_2",
+      "category": "Science",
+      "question": "The powerhouse of the cell is?",
+      "imageUrl": null,
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "sci_3",
+      "category": "Science",
+      "question": "Speed of light in vacuum is approximately?",
+      "imageUrl": null,
+      "options": [
+        "3×10⁸ m/s",
+        "3×10⁶ m/s",
+        "3×10¹⁰ m/s",
+        "3×10⁴ m/s"
+      ],
+      "answer": "3×10⁸ m/s"
+    },
+    {
+      "id": "sci_4",
+      "category": "Science",
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Photosynthesis_en.svg/330px-Photosynthesis_en.svg.png",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "sci_5",
+      "category": "Science",
+      "question": "The boiling point of water at sea level is?",
+      "imageUrl": null,
+      "options": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "120°C"
+      ],
+      "answer": "100°C"
+    },
+    {
+      "id": "sci_6",
+      "category": "Science",
+      "question": "Newton's first law is also called the law of?",
+      "imageUrl": null,
+      "options": [
+        "Inertia",
+        "Acceleration",
+        "Gravitation",
+        "Action-Reaction"
+      ],
+      "answer": "Inertia"
+    },
+    {
+      "id": "sci_7",
+      "category": "Science",
+      "question": "Which planet is known as the Red Planet?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/330px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": "sci_8",
+      "category": "Science",
+      "question": "The unit of electric current is?",
+      "imageUrl": null,
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "id": "sci_9",
+      "category": "Science",
+      "question": "Human blood contains which iron-containing pigment?",
+      "imageUrl": null,
+      "options": [
+        "Chlorophyll",
+        "Haemoglobin",
+        "Melanin",
+        "Keratin"
+      ],
+      "answer": "Haemoglobin"
+    },
+    {
+      "id": "sci_10",
+      "category": "Science",
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "imageUrl": null,
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "id": "sci_11",
+      "category": "Science",
+      "question": "The chemical formula of water is?",
+      "imageUrl": null,
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "id": "sci_12",
+      "category": "Science",
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "imageUrl": null,
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "id": "sci_13",
+      "category": "Science",
+      "question": "The SI unit of force is?",
+      "imageUrl": null,
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "answer": "Newton"
+    },
+    {
+      "id": "sci_14",
+      "category": "Science",
+      "question": "Which organ pumps blood in the human body?",
+      "imageUrl": null,
+      "options": [
+        "Lungs",
+        "Heart",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "Heart"
+    },
+    {
+      "id": "sci_15",
+      "category": "Science",
+      "question": "The hardest natural substance is?",
+      "imageUrl": null,
+      "options": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Platinum"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": "sci_16",
+      "category": "Science",
+      "question": "Which metal is liquid at room temperature?",
+      "imageUrl": null,
+      "options": [
+        "Sodium",
+        "Mercury",
+        "Iron",
+        "Aluminium"
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "id": "sci_17",
+      "category": "Science",
+      "question": "The process of water changing to vapour is?",
+      "imageUrl": null,
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Freezing"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "id": "sci_18",
+      "category": "Science",
+      "question": "Which blood group is universal donor?",
+      "imageUrl": null,
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "answer": "O"
+    },
+    {
+      "id": "sci_19",
+      "category": "Science",
+      "question": "The nearest star to Earth is?",
+      "imageUrl": null,
+      "options": [
+        "Proxima Centauri",
+        "Sirius",
+        "Sun",
+        "Alpha Centauri"
+      ],
+      "answer": "Sun"
+    },
+    {
+      "id": "sci_20",
+      "category": "Science",
+      "question": "Which acid is found in vinegar?",
+      "imageUrl": null,
+      "options": [
+        "Sulphuric acid",
+        "Acetic acid",
+        "Hydrochloric acid",
+        "Nitric acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "id": "sci_21",
+      "category": "Science",
+      "question": "The unit of frequency is?",
+      "imageUrl": null,
+      "options": [
+        "Hertz",
+        "Decibel",
+        "Ohm",
+        "Tesla"
+      ],
+      "answer": "Hertz"
+    },
+    {
+      "id": "sci_22",
+      "category": "Science",
+      "question": "Which part of the plant conducts photosynthesis?",
+      "imageUrl": null,
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
+      ],
+      "answer": "Leaf"
+    },
+    {
+      "id": "sci_23",
+      "category": "Science",
+      "question": "Sound cannot travel through?",
+      "imageUrl": null,
+      "options": [
+        "Air",
+        "Water",
+        "Vacuum",
+        "Steel"
+      ],
+      "answer": "Vacuum"
+    },
+    {
+      "id": "sci_24",
+      "category": "Science",
+      "question": "The chemical symbol for sodium is?",
+      "imageUrl": null,
+      "options": [
+        "So",
+        "Na",
+        "Sd",
+        "S"
+      ],
+      "answer": "Na"
+    },
+    {
+      "id": "sci_25",
+      "category": "Science",
+      "question": "Which disease is caused by deficiency of Vitamin C?",
+      "imageUrl": null,
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "answer": "Scurvy"
+    },
+    {
+      "id": "sci_26",
+      "category": "Science",
+      "question": "The largest organ of the human body is?",
+      "imageUrl": null,
+      "options": [
+        "Liver",
+        "Skin",
+        "Lungs",
+        "Brain"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": "sci_27",
+      "category": "Science",
+      "question": "Which planet has the most moons?",
+      "imageUrl": null,
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": "sci_28",
+      "category": "Science",
+      "question": "The pH of pure water is?",
+      "imageUrl": null,
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": "sci_29",
+      "category": "Science",
+      "question": "Which gas is used in fire extinguishers?",
+      "imageUrl": null,
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "sci_30",
+      "category": "Science",
+      "question": "The study of fossils is called?",
+      "imageUrl": null,
+      "options": [
+        "Ecology",
+        "Paleontology",
+        "Geology",
+        "Anthropology"
+      ],
+      "answer": "Paleontology"
+    },
+    {
+      "id": "sci_31",
+      "category": "Science",
+      "question": "{} is the chemical symbol for iron.",
+      "imageUrl": null,
+      "options": [
+        "Fe",
+        "Ir",
+        "In",
+        "I"
+      ],
+      "answer": "Fe"
+    },
+    {
+      "id": "sci_32",
+      "category": "Science",
+      "question": "{} is the smallest bone in the human body.",
+      "imageUrl": null,
+      "options": [
+        "Stapes",
+        "Femur",
+        "Tibia",
+        "Humerus"
+      ],
+      "answer": "Stapes"
+    },
+    {
+      "id": "sci_33",
+      "category": "Science",
+      "question": "{} planet is closest to the Sun.",
+      "imageUrl": null,
+      "options": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "id": "sci_34",
+      "category": "Science",
+      "question": "{} gas is essential for combustion.",
+      "imageUrl": null,
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "id": "sci_35",
+      "category": "Science",
+      "question": "{} is the unit of electric resistance.",
+      "imageUrl": null,
+      "options": [
+        "Ohm",
+        "Ampere",
+        "Volt",
+        "Watt"
+      ],
+      "answer": "Ohm"
+    },
+    {
+      "id": "sci_36",
+      "category": "Science",
+      "question": "[Set 2] Newton's first law is also called the law of?",
+      "imageUrl": null,
+      "options": [
+        "Inertia",
+        "Acceleration",
+        "Gravitation",
+        "Action-Reaction"
+      ],
+      "answer": "Inertia"
+    },
+    {
+      "id": "sci_37",
+      "category": "Science",
+      "question": "[Set 2] Which planet is known as the Red Planet?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/330px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": "sci_38",
+      "category": "Science",
+      "question": "[Set 2] The unit of electric current is?",
+      "imageUrl": null,
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "id": "sci_39",
+      "category": "Science",
+      "question": "[Set 2] Human blood contains which iron-containing pigment?",
+      "imageUrl": null,
+      "options": [
+        "Chlorophyll",
+        "Haemoglobin",
+        "Melanin",
+        "Keratin"
+      ],
+      "answer": "Haemoglobin"
+    },
+    {
+      "id": "sci_40",
+      "category": "Science",
+      "question": "[Set 2] Which vitamin is produced when skin is exposed to sunlight?",
+      "imageUrl": null,
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "id": "sci_41",
+      "category": "Science",
+      "question": "[Set 2] The chemical formula of water is?",
+      "imageUrl": null,
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "id": "sci_42",
+      "category": "Science",
+      "question": "[Set 2] Which gas is most abundant in Earth's atmosphere?",
+      "imageUrl": null,
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "id": "sci_43",
+      "category": "Science",
+      "question": "[Set 2] The SI unit of force is?",
+      "imageUrl": null,
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "answer": "Newton"
+    },
+    {
+      "id": "sci_44",
+      "category": "Science",
+      "question": "[Set 2] Which organ pumps blood in the human body?",
+      "imageUrl": null,
+      "options": [
+        "Lungs",
+        "Heart",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "Heart"
+    },
+    {
+      "id": "sci_45",
+      "category": "Science",
+      "question": "[Set 2] The hardest natural substance is?",
+      "imageUrl": null,
+      "options": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Platinum"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": "sci_46",
+      "category": "Science",
+      "question": "[Set 2] Which metal is liquid at room temperature?",
+      "imageUrl": null,
+      "options": [
+        "Sodium",
+        "Mercury",
+        "Iron",
+        "Aluminium"
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "id": "sci_47",
+      "category": "Science",
+      "question": "[Set 2] The process of water changing to vapour is?",
+      "imageUrl": null,
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Freezing"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "id": "sci_48",
+      "category": "Science",
+      "question": "[Set 2] Which blood group is universal donor?",
+      "imageUrl": null,
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "answer": "O"
+    },
+    {
+      "id": "sci_49",
+      "category": "Science",
+      "question": "[Set 2] The nearest star to Earth is?",
+      "imageUrl": null,
+      "options": [
+        "Proxima Centauri",
+        "Sirius",
+        "Sun",
+        "Alpha Centauri"
+      ],
+      "answer": "Sun"
+    },
+    {
+      "id": "sci_50",
+      "category": "Science",
+      "question": "[Set 2] Which acid is found in vinegar?",
+      "imageUrl": null,
+      "options": [
+        "Sulphuric acid",
+        "Acetic acid",
+        "Hydrochloric acid",
+        "Nitric acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "id": "sci_51",
+      "category": "Science",
+      "question": "[Set 2] The unit of frequency is?",
+      "imageUrl": null,
+      "options": [
+        "Hertz",
+        "Decibel",
+        "Ohm",
+        "Tesla"
+      ],
+      "answer": "Hertz"
+    },
+    {
+      "id": "sci_52",
+      "category": "Science",
+      "question": "[Set 2] Which part of the plant conducts photosynthesis?",
+      "imageUrl": null,
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
+      ],
+      "answer": "Leaf"
+    },
+    {
+      "id": "sci_53",
+      "category": "Science",
+      "question": "[Set 2] Sound cannot travel through?",
+      "imageUrl": null,
+      "options": [
+        "Air",
+        "Water",
+        "Vacuum",
+        "Steel"
+      ],
+      "answer": "Vacuum"
+    },
+    {
+      "id": "sci_54",
+      "category": "Science",
+      "question": "[Set 2] The chemical symbol for sodium is?",
+      "imageUrl": null,
+      "options": [
+        "So",
+        "Na",
+        "Sd",
+        "S"
+      ],
+      "answer": "Na"
+    },
+    {
+      "id": "sci_55",
+      "category": "Science",
+      "question": "[Set 2] Which disease is caused by deficiency of Vitamin C?",
+      "imageUrl": null,
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "answer": "Scurvy"
+    },
+    {
+      "id": "sci_56",
+      "category": "Science",
+      "question": "[Set 2] The largest organ of the human body is?",
+      "imageUrl": null,
+      "options": [
+        "Liver",
+        "Skin",
+        "Lungs",
+        "Brain"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": "sci_57",
+      "category": "Science",
+      "question": "[Set 2] Which planet has the most moons?",
+      "imageUrl": null,
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": "sci_58",
+      "category": "Science",
+      "question": "[Set 2] The pH of pure water is?",
+      "imageUrl": null,
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": "sci_59",
+      "category": "Science",
+      "question": "[Set 2] Which gas is used in fire extinguishers?",
+      "imageUrl": null,
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "sci_60",
+      "category": "Science",
+      "question": "[Set 2] The study of fossils is called?",
+      "imageUrl": null,
+      "options": [
+        "Ecology",
+        "Paleontology",
+        "Geology",
+        "Anthropology"
+      ],
+      "answer": "Paleontology"
+    },
+    {
+      "id": "sci_61",
+      "category": "Science",
+      "question": "[Set 3] What is the chemical symbol for gold?",
+      "imageUrl": null,
+      "options": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "answer": "Au"
+    },
+    {
+      "id": "sci_62",
+      "category": "Science",
+      "question": "[Set 3] The powerhouse of the cell is?",
+      "imageUrl": null,
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "sci_63",
+      "category": "Science",
+      "question": "[Set 3] Speed of light in vacuum is approximately?",
+      "imageUrl": null,
+      "options": [
+        "3×10⁸ m/s",
+        "3×10⁶ m/s",
+        "3×10¹⁰ m/s",
+        "3×10⁴ m/s"
+      ],
+      "answer": "3×10⁸ m/s"
+    },
+    {
+      "id": "sci_64",
+      "category": "Science",
+      "question": "[Set 3] Which gas do plants absorb during photosynthesis?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Photosynthesis_en.svg/330px-Photosynthesis_en.svg.png",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "sci_65",
+      "category": "Science",
+      "question": "[Set 3] The boiling point of water at sea level is?",
+      "imageUrl": null,
+      "options": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "120°C"
+      ],
+      "answer": "100°C"
+    },
+    {
+      "id": "sci_66",
+      "category": "Science",
+      "question": "[Set 3] Newton's first law is also called the law of?",
+      "imageUrl": null,
+      "options": [
+        "Inertia",
+        "Acceleration",
+        "Gravitation",
+        "Action-Reaction"
+      ],
+      "answer": "Inertia"
+    },
+    {
+      "id": "sci_67",
+      "category": "Science",
+      "question": "[Set 3] Which planet is known as the Red Planet?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/330px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": "sci_68",
+      "category": "Science",
+      "question": "[Set 3] The unit of electric current is?",
+      "imageUrl": null,
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "id": "sci_69",
+      "category": "Science",
+      "question": "[Set 3] Human blood contains which iron-containing pigment?",
+      "imageUrl": null,
+      "options": [
+        "Chlorophyll",
+        "Haemoglobin",
+        "Melanin",
+        "Keratin"
+      ],
+      "answer": "Haemoglobin"
+    },
+    {
+      "id": "sci_70",
+      "category": "Science",
+      "question": "[Set 3] Which vitamin is produced when skin is exposed to sunlight?",
+      "imageUrl": null,
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "id": "sci_71",
+      "category": "Science",
+      "question": "[Set 3] The chemical formula of water is?",
+      "imageUrl": null,
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "id": "sci_72",
+      "category": "Science",
+      "question": "[Set 3] Which gas is most abundant in Earth's atmosphere?",
+      "imageUrl": null,
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "id": "sci_73",
+      "category": "Science",
+      "question": "[Set 3] The SI unit of force is?",
+      "imageUrl": null,
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "answer": "Newton"
+    },
+    {
+      "id": "sci_74",
+      "category": "Science",
+      "question": "[Set 3] Which organ pumps blood in the human body?",
+      "imageUrl": null,
+      "options": [
+        "Lungs",
+        "Heart",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "Heart"
+    },
+    {
+      "id": "sci_75",
+      "category": "Science",
+      "question": "[Set 3] The hardest natural substance is?",
+      "imageUrl": null,
+      "options": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Platinum"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": "sci_76",
+      "category": "Science",
+      "question": "[Set 3] Which metal is liquid at room temperature?",
+      "imageUrl": null,
+      "options": [
+        "Sodium",
+        "Mercury",
+        "Iron",
+        "Aluminium"
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "id": "sci_77",
+      "category": "Science",
+      "question": "[Set 3] The process of water changing to vapour is?",
+      "imageUrl": null,
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Freezing"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "id": "sci_78",
+      "category": "Science",
+      "question": "[Set 3] Which blood group is universal donor?",
+      "imageUrl": null,
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "answer": "O"
+    },
+    {
+      "id": "sci_79",
+      "category": "Science",
+      "question": "[Set 3] The nearest star to Earth is?",
+      "imageUrl": null,
+      "options": [
+        "Proxima Centauri",
+        "Sirius",
+        "Sun",
+        "Alpha Centauri"
+      ],
+      "answer": "Sun"
+    },
+    {
+      "id": "sci_80",
+      "category": "Science",
+      "question": "[Set 3] Which acid is found in vinegar?",
+      "imageUrl": null,
+      "options": [
+        "Sulphuric acid",
+        "Acetic acid",
+        "Hydrochloric acid",
+        "Nitric acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "id": "sci_81",
+      "category": "Science",
+      "question": "[Set 3] The unit of frequency is?",
+      "imageUrl": null,
+      "options": [
+        "Hertz",
+        "Decibel",
+        "Ohm",
+        "Tesla"
+      ],
+      "answer": "Hertz"
+    },
+    {
+      "id": "sci_82",
+      "category": "Science",
+      "question": "[Set 3] Which part of the plant conducts photosynthesis?",
+      "imageUrl": null,
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
+      ],
+      "answer": "Leaf"
+    },
+    {
+      "id": "sci_83",
+      "category": "Science",
+      "question": "[Set 3] Sound cannot travel through?",
+      "imageUrl": null,
+      "options": [
+        "Air",
+        "Water",
+        "Vacuum",
+        "Steel"
+      ],
+      "answer": "Vacuum"
+    },
+    {
+      "id": "sci_84",
+      "category": "Science",
+      "question": "[Set 3] The chemical symbol for sodium is?",
+      "imageUrl": null,
+      "options": [
+        "So",
+        "Na",
+        "Sd",
+        "S"
+      ],
+      "answer": "Na"
+    },
+    {
+      "id": "sci_85",
+      "category": "Science",
+      "question": "[Set 3] Which disease is caused by deficiency of Vitamin C?",
+      "imageUrl": null,
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "answer": "Scurvy"
+    },
+    {
+      "id": "sci_86",
+      "category": "Science",
+      "question": "[Set 3] The largest organ of the human body is?",
+      "imageUrl": null,
+      "options": [
+        "Liver",
+        "Skin",
+        "Lungs",
+        "Brain"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": "sci_87",
+      "category": "Science",
+      "question": "[Set 3] Which planet has the most moons?",
+      "imageUrl": null,
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": "sci_88",
+      "category": "Science",
+      "question": "[Set 3] The pH of pure water is?",
+      "imageUrl": null,
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": "sci_89",
+      "category": "Science",
+      "question": "[Set 3] Which gas is used in fire extinguishers?",
+      "imageUrl": null,
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "sci_90",
+      "category": "Science",
+      "question": "[Set 3] The study of fossils is called?",
+      "imageUrl": null,
+      "options": [
+        "Ecology",
+        "Paleontology",
+        "Geology",
+        "Anthropology"
+      ],
+      "answer": "Paleontology"
+    },
+    {
+      "id": "sci_91",
+      "category": "Science",
+      "question": "[Set 4] What is the chemical symbol for gold?",
+      "imageUrl": null,
+      "options": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "answer": "Au"
+    },
+    {
+      "id": "sci_92",
+      "category": "Science",
+      "question": "[Set 4] The powerhouse of the cell is?",
+      "imageUrl": null,
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "sci_93",
+      "category": "Science",
+      "question": "[Set 4] Speed of light in vacuum is approximately?",
+      "imageUrl": null,
+      "options": [
+        "3×10⁸ m/s",
+        "3×10⁶ m/s",
+        "3×10¹⁰ m/s",
+        "3×10⁴ m/s"
+      ],
+      "answer": "3×10⁸ m/s"
+    },
+    {
+      "id": "sci_94",
+      "category": "Science",
+      "question": "[Set 4] Which gas do plants absorb during photosynthesis?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Photosynthesis_en.svg/330px-Photosynthesis_en.svg.png",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "sci_95",
+      "category": "Science",
+      "question": "[Set 4] The boiling point of water at sea level is?",
+      "imageUrl": null,
+      "options": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "120°C"
+      ],
+      "answer": "100°C"
+    },
+    {
+      "id": "sci_96",
+      "category": "Science",
+      "question": "[Set 4] Newton's first law is also called the law of?",
+      "imageUrl": null,
+      "options": [
+        "Inertia",
+        "Acceleration",
+        "Gravitation",
+        "Action-Reaction"
+      ],
+      "answer": "Inertia"
+    },
+    {
+      "id": "sci_97",
+      "category": "Science",
+      "question": "[Set 4] Which planet is known as the Red Planet?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/330px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": "sci_98",
+      "category": "Science",
+      "question": "[Set 4] The unit of electric current is?",
+      "imageUrl": null,
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "id": "sci_99",
+      "category": "Science",
+      "question": "[Set 4] Human blood contains which iron-containing pigment?",
+      "imageUrl": null,
+      "options": [
+        "Chlorophyll",
+        "Haemoglobin",
+        "Melanin",
+        "Keratin"
+      ],
+      "answer": "Haemoglobin"
+    },
+    {
+      "id": "sci_100",
+      "category": "Science",
+      "question": "[Set 4] Which vitamin is produced when skin is exposed to sunlight?",
+      "imageUrl": null,
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D"
+    }
+  ]
+}
