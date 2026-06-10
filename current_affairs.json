@@ -5,11 +5,803 @@
   "questions": [
     {
       "id": "ca_2026_06_001",
-      "category": "Current Affairs",
-      "question": "Who won the 2026 Kerala State Film Award for Best Actor?",
+      "category": "Sports",
+      "question": "Which team won the IPL 2026 title by defeating Gujarat Titans in the final?",
       "imageUrl": null,
-      "options": ["Mammootty", "Mohanlal", "Fahadh Faasil", "Dulquer Salmaan"],
-      "answer": "Fahadh Faasil"
+      "options": ["Mumbai Indians", "Chennai Super Kings", "Royal Challengers Bengaluru", "Kolkata Knight Riders"],
+      "answer": "Royal Challengers Bengaluru"
+    },
+    {
+      "id": "ca_2026_06_002",
+      "category": "Sports",
+      "question": "Who was the Player of the Match in the IPL 2026 final?",
+      "imageUrl": null,
+      "options": ["Rajat Patidar", "Virat Kohli", "Rashid Khan", "Rasikh Salam"],
+      "answer": "Virat Kohli"
+    },
+    {
+      "id": "ca_2026_06_003",
+      "category": "Sports",
+      "question": "India won the 2026 ICC Men's T20 World Cup final against which country?",
+      "imageUrl": null,
+      "options": ["Australia", "England", "South Africa", "New Zealand"],
+      "answer": "New Zealand"
+    },
+    {
+      "id": "ca_2026_06_004",
+      "category": "Sports",
+      "question": "Who was the Player of the Match in the 2026 ICC Men's T20 World Cup final?",
+      "imageUrl": null,
+      "options": ["Rohit Sharma", "Virat Kohli", "Jasprit Bumrah", "Suryakumar Yadav"],
+      "answer": "Jasprit Bumrah"
+    },
+    {
+      "id": "ca_2026_06_005",
+      "category": "Sports",
+      "question": "Where was the 2026 ICC Men's T20 World Cup final held?",
+      "imageUrl": null,
+      "options": ["Eden Gardens, Kolkata", "Wankhede Stadium, Mumbai", "Narendra Modi Stadium, Ahmedabad", "M. Chinnaswamy Stadium, Bengaluru"],
+      "answer": "Narendra Modi Stadium, Ahmedabad"
+    },
+    {
+      "id": "ca_2026_06_006",
+      "category": "Sports",
+      "question": "By how many runs did India win the 2026 ICC Men's T20 World Cup final?",
+      "imageUrl": null,
+      "options": ["42 runs", "68 runs", "96 runs", "112 runs"],
+      "answer": "96 runs"
+    },
+    {
+      "id": "ca_2026_06_007",
+      "category": "Sports",
+      "question": "The 2026 Women's Premier League title was won by which team?",
+      "imageUrl": null,
+      "options": ["Mumbai Indians", "Delhi Capitals", "Royal Challengers Bengaluru", "UP Warriorz"],
+      "answer": "Royal Challengers Bengaluru"
+    },
+    {
+      "id": "ca_2026_06_008",
+      "category": "Sports",
+      "question": "Who was the Player of the Match in the 2026 Women's Premier League final?",
+      "imageUrl": null,
+      "options": ["Smriti Mandhana", "Harmanpreet Kaur", "Shafali Verma", "Deepti Sharma"],
+      "answer": "Smriti Mandhana"
+    },
+    {
+      "id": "ca_2026_06_009",
+      "category": "Sports",
+      "question": "Who was appointed as India's new T20I captain in June 2026?",
+      "imageUrl": null,
+      "options": ["Hardik Pandya", "Suryakumar Yadav", "Shreyas Iyer", "Shubman Gill"],
+      "answer": "Shreyas Iyer"
+    },
+    {
+      "id": "ca_2026_06_010",
+      "category": "Sports",
+      "question": "Who was named India's T20I vice-captain alongside the new captain in June 2026?",
+      "imageUrl": null,
+      "options": ["Yashasvi Jaiswal", "Rinku Singh", "Tilak Varma", "Sanju Samson"],
+      "answer": "Tilak Varma"
+    },
+    {
+      "id": "ca_2026_06_011",
+      "category": "Sports",
+      "question": "Who won the IPL 2026 Orange Cap (most runs)?",
+      "imageUrl": null,
+      "options": ["Virat Kohli", "Shubman Gill", "Vaibhav Sooryavanshi", "Ruturaj Gaikwad"],
+      "answer": "Vaibhav Sooryavanshi"
+    },
+    {
+      "id": "ca_2026_06_012",
+      "category": "Sports",
+      "question": "Who won the IPL 2026 Purple Cap (most wickets)?",
+      "imageUrl": null,
+      "options": ["Jasprit Bumrah", "Kagiso Rabada", "Mohammed Siraj", "Rashid Khan"],
+      "answer": "Kagiso Rabada"
+    },
+    {
+      "id": "ca_2026_06_013",
+      "category": "Sports",
+      "question": "The FIFA World Cup 2026 is hosted jointly by which three nations?",
+      "imageUrl": null,
+      "options": ["USA, Canada, Mexico", "USA, Brazil, Argentina", "Germany, France, Spain", "UK, France, Portugal"],
+      "answer": "USA, Canada, Mexico"
+    },
+    {
+      "id": "ca_2026_06_014",
+      "category": "Sports",
+      "question": "How many teams are participating in the FIFA World Cup 2026 for the first time ever?",
+      "imageUrl": null,
+      "options": ["32 teams", "36 teams", "48 teams", "64 teams"],
+      "answer": "48 teams"
+    },
+    {
+      "id": "ca_2026_06_015",
+      "category": "Sports",
+      "question": "What was the opening match of FIFA World Cup 2026?",
+      "imageUrl": null,
+      "options": ["USA vs Canada", "Mexico vs South Africa", "Brazil vs Argentina", "England vs France"],
+      "answer": "Mexico vs South Africa"
+    },
+    {
+      "id": "ca_2026_06_016",
+      "category": "Sports",
+      "question": "Which Indian-origin player representing Qatar features in the FIFA World Cup 2026?",
+      "imageUrl": null,
+      "options": ["Sarpreet Singh", "Nishan Velupillay", "Samuel Moutoussamy", "Tahsin Mohammed Jamshid"],
+      "answer": "Tahsin Mohammed Jamshid"
+    },
+    {
+      "id": "ca_2026_06_017",
+      "category": "Sports",
+      "question": "Which company secured Indian broadcast rights for the FIFA World Cup 2026?",
+      "imageUrl": null,
+      "options": ["Sony Sports", "Star Sports", "Zee Entertainment", "JioCinema"],
+      "answer": "Zee Entertainment"
+    },
+    {
+      "id": "ca_2026_06_018",
+      "category": "Sports",
+      "question": "Who was named BCCI Cricketer of the Year at the 2026 BCCI annual awards?",
+      "imageUrl": null,
+      "options": ["Virat Kohli", "Rohit Sharma", "Shubman Gill", "Jasprit Bumrah"],
+      "answer": "Shubman Gill"
+    },
+    {
+      "id": "ca_2026_06_019",
+      "category": "National Affairs",
+      "question": "Who is the current Governor of the Reserve Bank of India (RBI) as of 2026?",
+      "imageUrl": null,
+      "options": ["Shaktikanta Das", "Urjit Patel", "Sanjay Malhotra", "Raghuram Rajan"],
+      "answer": "Sanjay Malhotra"
+    },
+    {
+      "id": "ca_2026_06_020",
+      "category": "National Affairs",
+      "question": "Sanjay Malhotra is the ___th Governor of the Reserve Bank of India.",
+      "imageUrl": null,
+      "options": ["24th", "25th", "26th", "27th"],
+      "answer": "26th"
+    },
+    {
+      "id": "ca_2026_06_021",
+      "category": "National Affairs",
+      "question": "Who was appointed as RBI Deputy Governor for a three-year term in June 2026?",
+      "imageUrl": null,
+      "options": ["Rohit Jain", "T. Rabi Sankar", "Michael Patra", "Swaminathan J"],
+      "answer": "Rohit Jain"
+    },
+    {
+      "id": "ca_2026_06_022",
+      "category": "National Affairs",
+      "question": "The RBI Repo Rate was set at what percentage in June 2026?",
+      "imageUrl": null,
+      "options": ["5.00%", "5.25%", "5.50%", "6.00%"],
+      "answer": "5.25%"
+    },
+    {
+      "id": "ca_2026_06_023",
+      "category": "National Affairs",
+      "question": "The Reserve Bank-Integrated Ombudsman Scheme (RB-IOS) 2026 is set to come into effect from which date?",
+      "imageUrl": null,
+      "options": ["April 1, 2026", "June 1, 2026", "July 1, 2026", "October 1, 2026"],
+      "answer": "July 1, 2026"
+    },
+    {
+      "id": "ca_2026_06_024",
+      "category": "National Affairs",
+      "question": "The RBI signed an MoU with which country's central bank to boost digital payments and fintech cooperation in May 2026?",
+      "imageUrl": null,
+      "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+      "answer": "Vietnam"
+    },
+    {
+      "id": "ca_2026_06_025",
+      "category": "Awards",
+      "question": "How many Padma Awards were announced by the Government of India for 2026?",
+      "imageUrl": null,
+      "options": ["119", "125", "131", "143"],
+      "answer": "131"
+    },
+    {
+      "id": "ca_2026_06_026",
+      "category": "Awards",
+      "question": "How many Padma Vibhushan awards were announced for 2026?",
+      "imageUrl": null,
+      "options": ["3", "4", "5", "6"],
+      "answer": "5"
+    },
+    {
+      "id": "ca_2026_06_027",
+      "category": "Awards",
+      "question": "Which veteran Bollywood actor was awarded Padma Vibhushan posthumously in 2026?",
+      "imageUrl": null,
+      "options": ["Dilip Kumar", "Amitabh Bachchan", "Dharmendra", "Dev Anand"],
+      "answer": "Dharmendra"
+    },
+    {
+      "id": "ca_2026_06_028",
+      "category": "Awards",
+      "question": "Former Kerala Chief Minister V. S. Achuthanandan was awarded which Padma honour in 2026?",
+      "imageUrl": null,
+      "options": ["Padma Shri", "Padma Bhushan", "Padma Vibhushan", "Bharat Ratna"],
+      "answer": "Padma Vibhushan"
+    },
+    {
+      "id": "ca_2026_06_029",
+      "category": "Awards",
+      "question": "Which Malayalam actor received the Padma Bhushan in 2026?",
+      "imageUrl": null,
+      "options": ["Mohanlal", "Mammootty", "Fahadh Faasil", "Dulquer Salmaan"],
+      "answer": "Mammootty"
+    },
+    {
+      "id": "ca_2026_06_030",
+      "category": "Awards",
+      "question": "Which playback singer received the Padma Bhushan in the 2026 Padma Awards?",
+      "imageUrl": null,
+      "options": ["Lata Mangeshkar", "Asha Bhosle", "Alka Yagnik", "Shreya Ghoshal"],
+      "answer": "Alka Yagnik"
+    },
+    {
+      "id": "ca_2026_06_031",
+      "category": "Awards",
+      "question": "Who received the Padma Bhushan in 2026 from the tennis world?",
+      "imageUrl": null,
+      "options": ["Leander Paes", "Mahesh Bhupathi", "Vijay Amritraj", "Somdev Devvarman"],
+      "answer": "Vijay Amritraj"
+    },
+    {
+      "id": "ca_2026_06_032",
+      "category": "Awards",
+      "question": "Which banker was awarded the Padma Bhushan in 2026?",
+      "imageUrl": null,
+      "options": ["Aditya Puri", "Uday Kotak", "K. V. Kamath", "Chanda Kochhar"],
+      "answer": "Uday Kotak"
+    },
+    {
+      "id": "ca_2026_06_033",
+      "category": "Awards",
+      "question": "The e-Jagriti platform won which award at the National Awards for e-Governance 2026?",
+      "imageUrl": null,
+      "options": ["Gold Award", "Silver Award", "Bronze Award", "Special Jury Award"],
+      "answer": "Silver Award"
+    },
+    {
+      "id": "ca_2026_06_034",
+      "category": "International Affairs",
+      "question": "Nepal's Foreign Minister Shisir Khanal visited India from June 5–7, 2026, at the invitation of which Indian minister?",
+      "imageUrl": null,
+      "options": ["Amit Shah", "Rajnath Singh", "S. Jaishankar", "Nirmala Sitharaman"],
+      "answer": "S. Jaishankar"
+    },
+    {
+      "id": "ca_2026_06_035",
+      "category": "International Affairs",
+      "question": "Which major digital payment linkage was launched during Nepal FM's visit to India in June 2026?",
+      "imageUrl": null,
+      "options": ["SWIFT-NPI link", "UPI-NPI P2P linkage", "IMPS-Nepal gateway", "RuPay-Nepal connect"],
+      "answer": "UPI-NPI P2P linkage"
+    },
+    {
+      "id": "ca_2026_06_036",
+      "category": "International Affairs",
+      "question": "Which governing party won the 2026 Armenian parliamentary elections?",
+      "imageUrl": null,
+      "options": ["Armenian National Congress", "Prosperous Armenia", "Strong Armenia", "Civil Contract"],
+      "answer": "Civil Contract"
+    },
+    {
+      "id": "ca_2026_06_037",
+      "category": "International Affairs",
+      "question": "The Bonn Climate Conference 2026 (SB64) is being held from June 8–18, 2026 under which UN body?",
+      "imageUrl": null,
+      "options": ["UNEP", "UNDP", "UNFCCC", "UNESCO"],
+      "answer": "UNFCCC"
+    },
+    {
+      "id": "ca_2026_06_038",
+      "category": "International Affairs",
+      "question": "The Global Climate and Health Alliance called for public adaptation finance of at least how much annually by 2035 at the Bonn Climate Conference 2026?",
+      "imageUrl": null,
+      "options": ["$50 billion", "$80 billion", "$120 billion", "$200 billion"],
+      "answer": "$120 billion"
+    },
+    {
+      "id": "ca_2026_06_039",
+      "category": "International Affairs",
+      "question": "Which country announced a pause on peace talks with the United States in June 2026?",
+      "imageUrl": null,
+      "options": ["North Korea", "Russia", "Iran", "Syria"],
+      "answer": "Iran"
+    },
+    {
+      "id": "ca_2026_06_040",
+      "category": "International Affairs",
+      "question": "Iran threatened to 'completely block' which strategic waterway in June 2026?",
+      "imageUrl": null,
+      "options": ["Suez Canal", "Panama Canal", "Strait of Hormuz", "Strait of Malacca"],
+      "answer": "Strait of Hormuz"
+    },
+    {
+      "id": "ca_2026_06_041",
+      "category": "Economy",
+      "question": "Fitch Ratings revised India's GDP growth forecast for FY27 to what percentage in June 2026?",
+      "imageUrl": null,
+      "options": ["5.8%", "6.4%", "6.9%", "7.2%"],
+      "answer": "6.4%"
+    },
+    {
+      "id": "ca_2026_06_042",
+      "category": "Economy",
+      "question": "India recorded a current account surplus of how much in Q4 FY26 (Jan–Mar 2026) according to RBI?",
+      "imageUrl": null,
+      "options": ["$3.2 billion", "$5.6 billion", "$7.1 billion", "$9.4 billion"],
+      "answer": "$7.1 billion"
+    },
+    {
+      "id": "ca_2026_06_043",
+      "category": "Economy",
+      "question": "India's GDP grew at what rate in FY26, before the Fitch downgrade forecast for FY27?",
+      "imageUrl": null,
+      "options": ["6.5%", "6.9%", "7.4%", "7.8%"],
+      "answer": "7.4%"
+    },
+    {
+      "id": "ca_2026_06_044",
+      "category": "Economy",
+      "question": "Fitch expects India's inflation to reach approximately what level by the end of FY27?",
+      "imageUrl": null,
+      "options": ["4.1%", "4.7%", "5.3%", "5.9%"],
+      "answer": "5.3%"
+    },
+    {
+      "id": "ca_2026_06_045",
+      "category": "National Affairs",
+      "question": "A new Regional Meteorological Centre was inaugurated in which city in June 2026?",
+      "imageUrl": null,
+      "options": ["Patna", "Bhopal", "Lucknow", "Jaipur"],
+      "answer": "Lucknow"
+    },
+    {
+      "id": "ca_2026_06_046",
+      "category": "National Affairs",
+      "question": "How many Doppler Weather Radar stations were operational in India as of June 2026?",
+      "imageUrl": null,
+      "options": ["30", "40", "50", "60"],
+      "answer": "50"
+    },
+    {
+      "id": "ca_2026_06_047",
+      "category": "National Affairs",
+      "question": "India's Mission Mausam plans to add how many more Doppler radars to the existing network?",
+      "imageUrl": null,
+      "options": ["25 more", "50 more", "75 more", "100 more"],
+      "answer": "50 more"
+    },
+    {
+      "id": "ca_2026_06_048",
+      "category": "National Affairs",
+      "question": "Tamil Nadu launched the Singappen Special Task Force on June 9, 2026 for the safety of which groups?",
+      "imageUrl": null,
+      "options": ["Senior citizens and differently-abled", "Women and children", "Farmers and tribals", "Students and youth"],
+      "answer": "Women and children"
+    },
+    {
+      "id": "ca_2026_06_049",
+      "category": "National Affairs",
+      "question": "The Singappen Special Task Force in Tamil Nadu was launched under the supervision of which Chief Minister?",
+      "imageUrl": null,
+      "options": ["M. K. Stalin", "C. Joseph Vijay", "Edappadi K. Palaniswami", "O. Panneerselvam"],
+      "answer": "C. Joseph Vijay"
+    },
+    {
+      "id": "ca_2026_06_050",
+      "category": "National Affairs",
+      "question": "Where was the BRICS Agriculture Working Group meeting hosted under India's presidency in June 2026?",
+      "imageUrl": null,
+      "options": ["Bhopal", "Pune", "Indore", "Nagpur"],
+      "answer": "Indore"
+    },
+    {
+      "id": "ca_2026_06_051",
+      "category": "National Affairs",
+      "question": "APEDA facilitated the first-ever export of fresh Amrapali mangoes from Jharkhand to which country in June 2026?",
+      "imageUrl": null,
+      "options": ["Germany", "USA", "United Kingdom", "Japan"],
+      "answer": "United Kingdom"
+    },
+    {
+      "id": "ca_2026_06_052",
+      "category": "National Affairs",
+      "question": "The Jharkhand mango export to the UK was sourced from which district?",
+      "imageUrl": null,
+      "options": ["Ranchi", "Dhanbad", "Simdega", "Hazaribagh"],
+      "answer": "Simdega"
+    },
+    {
+      "id": "ca_2026_06_053",
+      "category": "National Affairs",
+      "question": "The NZP Saathi App was launched at which national institution in June 2026?",
+      "imageUrl": null,
+      "options": ["Nehru Zoological Park, Hyderabad", "National Zoological Park, New Delhi", "Mysore Zoo, Karnataka", "Arignar Anna Zoological Park, Chennai"],
+      "answer": "National Zoological Park, New Delhi"
+    },
+    {
+      "id": "ca_2026_06_054",
+      "category": "National Affairs",
+      "question": "The INDIA Janbandhan meeting in June 2026 was held at which venue in New Delhi?",
+      "imageUrl": null,
+      "options": ["Vigyan Bhavan", "Constitution Club", "Talkatora Stadium", "Jawaharlal Nehru Stadium"],
+      "answer": "Constitution Club"
+    },
+    {
+      "id": "ca_2026_06_055",
+      "category": "National Affairs",
+      "question": "How many political parties confirmed participation in the INDIA Bloc meeting of June 8, 2026?",
+      "imageUrl": null,
+      "options": ["19 parties", "21 parties", "23 parties", "26 parties"],
+      "answer": "23 parties"
+    },
+    {
+      "id": "ca_2026_06_056",
+      "category": "National Affairs",
+      "question": "The Prime Minister Research Chair (PMRC) Scheme 2026 was launched by which ministry?",
+      "imageUrl": null,
+      "options": ["Ministry of Science and Technology", "Ministry of Education", "Ministry of Finance", "NITI Aayog"],
+      "answer": "Ministry of Education"
+    },
+    {
+      "id": "ca_2026_06_057",
+      "category": "International Affairs",
+      "question": "India secured continued EU market access for aquaculture, honey, and eggs under which EU regulation?",
+      "imageUrl": null,
+      "options": ["Regulation 2026/1089", "Regulation 2026/1189", "Regulation 2026/1289", "Regulation 2026/1389"],
+      "answer": "Regulation 2026/1189"
+    },
+    {
+      "id": "ca_2026_06_058",
+      "category": "International Affairs",
+      "question": "India's fisheries exports to the EU are valued at approximately how much?",
+      "imageUrl": null,
+      "options": ["USD 0.85 billion", "USD 1.59 billion", "USD 2.34 billion", "USD 3.10 billion"],
+      "answer": "USD 1.59 billion"
+    },
+    {
+      "id": "ca_2026_06_059",
+      "category": "Science & Technology",
+      "question": "Which IIT director received the Padma Shri for Science and Engineering in 2026?",
+      "imageUrl": null,
+      "options": ["IIT Bombay Director", "IIT Delhi Director", "IIT Madras Director V. Kamakoti", "IIT Kharagpur Director"],
+      "answer": "IIT Madras Director V. Kamakoti"
+    },
+    {
+      "id": "ca_2026_06_060",
+      "category": "Science & Technology",
+      "question": "The World Yogasana Championship 2026 was inaugurated by PM Modi in which city?",
+      "imageUrl": null,
+      "options": ["Varanasi", "Rishikesh", "Ahmedabad", "New Delhi"],
+      "answer": "Ahmedabad"
+    },
+    {
+      "id": "ca_2026_06_061",
+      "category": "Environment",
+      "question": "The UAE Ministry of Foreign Affairs in June 2026 advised against travelling to which country due to an Ebola outbreak?",
+      "imageUrl": null,
+      "options": ["Nigeria and Niger", "Ethiopia and Eritrea", "South Sudan, Uganda, and DR Congo", "Cameroon and Gabon"],
+      "answer": "South Sudan, Uganda, and DR Congo"
+    },
+    {
+      "id": "ca_2026_06_062",
+      "category": "Environment",
+      "question": "Moderna announced a partnership with CEPI (Coalition for Epidemic Preparedness Innovations) in 2026 to develop a vaccine for which strain of virus?",
+      "imageUrl": null,
+      "options": ["Zaire strain of Ebola", "Sudan strain of Ebola", "Bundibugyo strain of Ebola", "Taï Forest strain of Ebola"],
+      "answer": "Bundibugyo strain of Ebola"
+    },
+    {
+      "id": "ca_2026_06_063",
+      "category": "Environment",
+      "question": "Around 200 cases of mpox were reported in June 2026 in which region of Sudan?",
+      "imageUrl": null,
+      "options": ["Blue Nile region", "Kordofan region", "Jebel Marra region in Darfur", "Kassala region"],
+      "answer": "Jebel Marra region in Darfur"
+    },
+    {
+      "id": "ca_2026_06_064",
+      "category": "National Affairs",
+      "question": "The Yogi Adityanath government inaugurated the Regional Meteorological Centre in Lucknow along with which Union Minister?",
+      "imageUrl": null,
+      "options": ["Harsh Vardhan", "Bhupender Yadav", "Jitendra Singh", "Kirti Vardhan Singh"],
+      "answer": "Jitendra Singh"
+    },
+    {
+      "id": "ca_2026_06_065",
+      "category": "National Affairs",
+      "question": "Which Union Minister of State inaugurated the NZP Saathi App at the National Zoological Park in June 2026?",
+      "imageUrl": null,
+      "options": ["Ashwini Kumar Choubey", "Kirti Vardhan Singh", "Bhupender Yadav", "Jitendra Singh"],
+      "answer": "Kirti Vardhan Singh"
+    },
+    {
+      "id": "ca_2026_06_066",
+      "category": "Awards",
+      "question": "Which politician and Jharkhand Mukti Morcha co-founder was awarded Padma Bhushan posthumously in 2026?",
+      "imageUrl": null,
+      "options": ["Sibu Soren", "Shibu Soren", "Arjun Munda", "Champai Soren"],
+      "answer": "Shibu Soren"
+    },
+    {
+      "id": "ca_2026_06_067",
+      "category": "National Affairs",
+      "question": "BRICS Agriculture Ministers' meeting in Indore covered how many days in June 2026?",
+      "imageUrl": null,
+      "options": ["3 days", "4 days", "5 days", "7 days"],
+      "answer": "5 days"
+    },
+    {
+      "id": "ca_2026_06_068",
+      "category": "National Affairs",
+      "question": "BRICS countries represent what approximate percentage of global agricultural production?",
+      "imageUrl": null,
+      "options": ["28%", "35%", "42%", "51%"],
+      "answer": "42%"
+    },
+    {
+      "id": "ca_2026_06_069",
+      "category": "National Affairs",
+      "question": "Which scheme for attracting Indian-origin global researchers to Indian HEIs opened applications from June 1, 2026?",
+      "imageUrl": null,
+      "options": ["Anusandhan Fellowship", "Prime Minister Research Chair (PMRC) Scheme", "Vande Bharat Scholars Programme", "Global Indian Fellows Initiative"],
+      "answer": "Prime Minister Research Chair (PMRC) Scheme"
+    },
+    {
+      "id": "ca_2026_06_070",
+      "category": "Sports",
+      "question": "India crowned Men's U18 Asia Cup Champions by defeating which country in the final in 2026?",
+      "imageUrl": null,
+      "options": ["Pakistan", "Japan", "South Korea", "Bangladesh"],
+      "answer": "Pakistan"
+    },
+    {
+      "id": "ca_2026_06_071",
+      "category": "Sports",
+      "question": "The 2026 Women's Premier League final was played at which venue?",
+      "imageUrl": null,
+      "options": ["Eden Gardens, Kolkata", "Narendra Modi Stadium, Ahmedabad", "Baroda Cricket Association Stadium, Vadodara", "Wankhede Stadium, Mumbai"],
+      "answer": "Baroda Cricket Association Stadium, Vadodara"
+    },
+    {
+      "id": "ca_2026_06_072",
+      "category": "Sports",
+      "question": "IPL 2026 was the ___ edition of the Indian Premier League.",
+      "imageUrl": null,
+      "options": ["17th", "18th", "19th", "20th"],
+      "answer": "19th"
+    },
+    {
+      "id": "ca_2026_06_073",
+      "category": "Sports",
+      "question": "RCB beat Gujarat Titans by how many wickets in the IPL 2026 final?",
+      "imageUrl": null,
+      "options": ["2 wickets", "3 wickets", "5 wickets", "7 wickets"],
+      "answer": "5 wickets"
+    },
+    {
+      "id": "ca_2026_06_074",
+      "category": "Sports",
+      "question": "RCB is the ___ franchise to successfully defend an IPL title.",
+      "imageUrl": null,
+      "options": ["First", "Second", "Third", "Fourth"],
+      "answer": "Third"
+    },
+    {
+      "id": "ca_2026_06_075",
+      "category": "Sports",
+      "question": "The FIFA World Cup 2026 final is scheduled on which date?",
+      "imageUrl": null,
+      "options": ["July 12, 2026", "July 15, 2026", "July 19, 2026", "July 22, 2026"],
+      "answer": "July 19, 2026"
+    },
+    {
+      "id": "ca_2026_06_076",
+      "category": "Sports",
+      "question": "FIFA World Cup 2026 will feature a total of how many matches?",
+      "imageUrl": null,
+      "options": ["64 matches", "80 matches", "96 matches", "104 matches"],
+      "answer": "104 matches"
+    },
+    {
+      "id": "ca_2026_06_077",
+      "category": "Sports",
+      "question": "How many Indian-origin players feature in the FIFA World Cup 2026 for the first time in history?",
+      "imageUrl": null,
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "id": "ca_2026_06_078",
+      "category": "Science & Technology",
+      "question": "The Bonn Climate Conference 2026 is designated as which session (SB) of the UNFCCC?",
+      "imageUrl": null,
+      "options": ["SB60", "SB62", "SB64", "SB66"],
+      "answer": "SB64"
+    },
+    {
+      "id": "ca_2026_06_079",
+      "category": "International Affairs",
+      "question": "SB64 in Bonn serves as a preparatory meeting for which upcoming COP summit?",
+      "imageUrl": null,
+      "options": ["COP29", "COP30", "COP31", "COP32"],
+      "answer": "COP31"
+    },
+    {
+      "id": "ca_2026_06_080",
+      "category": "National Affairs",
+      "question": "The Singappen Special Task Force in Tamil Nadu has a sanctioned strength of how many personnel?",
+      "imageUrl": null,
+      "options": ["24", "30", "36", "42"],
+      "answer": "36"
+    },
+    {
+      "id": "ca_2026_06_081",
+      "category": "National Affairs",
+      "question": "The Singappen Special Task Force is led by which IGP?",
+      "imageUrl": null,
+      "options": ["K. Bhavaneeswari", "S. Rajashekhar", "M. Priyanka", "V. Balakrishnan"],
+      "answer": "K. Bhavaneeswari"
+    },
+    {
+      "id": "ca_2026_06_082",
+      "category": "National Affairs",
+      "question": "India's Doppler Weather Radar network had how many stations in 2014?",
+      "imageUrl": null,
+      "options": ["7", "10", "17", "25"],
+      "answer": "17"
+    },
+    {
+      "id": "ca_2026_06_083",
+      "category": "Economy",
+      "question": "Why did Fitch revise India's FY27 GDP forecast downward in June 2026?",
+      "imageUrl": null,
+      "options": ["Global recession fears", "US tariff escalations", "Rising energy prices and Middle East tensions", "Fall in domestic consumption"],
+      "answer": "Rising energy prices and Middle East tensions"
+    },
+    {
+      "id": "ca_2026_06_084",
+      "category": "International Affairs",
+      "question": "Which country's parliamentary speaker Ghalibaf accused the US of violating a ceasefire agreement in June 2026?",
+      "imageUrl": null,
+      "options": ["Syria", "Iraq", "Iran", "Lebanon"],
+      "answer": "Iran"
+    },
+    {
+      "id": "ca_2026_06_085",
+      "category": "Sports",
+      "question": "In which edition of the ICC T20 World Cup did India become the first team to win three titles?",
+      "imageUrl": null,
+      "options": ["2022 edition", "2024 edition", "2026 edition", "2028 edition"],
+      "answer": "2026 edition"
+    },
+    {
+      "id": "ca_2026_06_086",
+      "category": "Sports",
+      "question": "India scored how many runs in the first innings of the 2026 ICC T20 World Cup final?",
+      "imageUrl": null,
+      "options": ["195/4", "221/3", "255/5", "278/6"],
+      "answer": "255/5"
+    },
+    {
+      "id": "ca_2026_06_087",
+      "category": "Sports",
+      "question": "In how many overs did RCB chase down the target in the IPL 2026 final?",
+      "imageUrl": null,
+      "options": ["16 overs", "17 overs", "18 overs", "19 overs"],
+      "answer": "18 overs"
+    },
+    {
+      "id": "ca_2026_06_088",
+      "category": "National Affairs",
+      "question": "How many items per year does the Padma Vibhushan represent in terms of award level?",
+      "imageUrl": null,
+      "options": ["Highest civilian honour", "Second-highest civilian honour", "Third-highest civilian honour", "Fourth-highest civilian honour"],
+      "answer": "Second-highest civilian honour"
+    },
+    {
+      "id": "ca_2026_06_089",
+      "category": "National Affairs",
+      "question": "How many women were among the 131 Padma Award recipients for 2026?",
+      "imageUrl": null,
+      "options": ["13 women", "15 women", "19 women", "22 women"],
+      "answer": "19 women"
+    },
+    {
+      "id": "ca_2026_06_090",
+      "category": "National Affairs",
+      "question": "How many of the 2026 Padma Awards were conferred posthumously?",
+      "imageUrl": null,
+      "options": ["10", "12", "16", "20"],
+      "answer": "16"
+    },
+    {
+      "id": "ca_2026_06_091",
+      "category": "Science & Technology",
+      "question": "The hantavirus exposure incident that led to quarantine in Nebraska, USA was linked to which vessel?",
+      "imageUrl": null,
+      "options": ["MV Antarctica", "MV Hondius", "MV Endeavour", "MV Discovery"],
+      "answer": "MV Hondius"
+    },
+    {
+      "id": "ca_2026_06_092",
+      "category": "Sports",
+      "question": "India's T20I squad for tours of England and Ireland was announced on which date in 2026?",
+      "imageUrl": null,
+      "options": ["May 28, 2026", "June 1, 2026", "June 6, 2026", "June 10, 2026"],
+      "answer": "June 6, 2026"
+    },
+    {
+      "id": "ca_2026_06_093",
+      "category": "Economy",
+      "question": "Which institution provided the estimate that India's Q4 FY26 current account showed a surplus of $7.1 billion?",
+      "imageUrl": null,
+      "options": ["Ministry of Finance", "NITI Aayog", "Reserve Bank of India", "IMF"],
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "id": "ca_2026_06_094",
+      "category": "International Affairs",
+      "question": "Which U.S. Secretary of State reaffirmed the conclusion of 'Operation Epic Fury' before the House Foreign Affairs Committee in June 2026?",
+      "imageUrl": null,
+      "options": ["Antony Blinken", "John Kerry", "Marco Rubio", "Rex Tillerson"],
+      "answer": "Marco Rubio"
+    },
+    {
+      "id": "ca_2026_06_095",
+      "category": "National Affairs",
+      "question": "The PMRC Scheme 2026 covers how many thematic areas?",
+      "imageUrl": null,
+      "options": ["8 areas", "11 areas", "13 areas", "15 areas"],
+      "answer": "13 areas"
+    },
+    {
+      "id": "ca_2026_06_096",
+      "category": "Economy",
+      "question": "India secured EU market access for aquaculture beyond which month in 2026?",
+      "imageUrl": null,
+      "options": ["June 2026", "August 2026", "September 2026", "December 2026"],
+      "answer": "September 2026"
+    },
+    {
+      "id": "ca_2026_06_097",
+      "category": "National Affairs",
+      "question": "The Jharkhand mango export to the UK was supplied by which organization?",
+      "imageUrl": null,
+      "options": ["Jharkhand Horticulture Board", "Beura Farmer Producer Company Ltd.", "NABARD-Jharkhand Cluster", "JGB Agrofresh Pvt. Ltd."],
+      "answer": "Beura Farmer Producer Company Ltd."
+    },
+    {
+      "id": "ca_2026_06_098",
+      "category": "National Affairs",
+      "question": "The Beura Farmer Producer Company Ltd. that exported Jharkhand mangoes to the UK is notable for being:",
+      "imageUrl": null,
+      "options": ["A government cooperative", "An all-women farmer producer company", "A joint venture with UK company", "An APEDA-owned entity"],
+      "answer": "An all-women farmer producer company"
+    },
+    {
+      "id": "ca_2026_06_099",
+      "category": "International Affairs",
+      "question": "Israel and Lebanon reached an agreement in June 2026 to renew a ceasefire contingent on which action?",
+      "imageUrl": null,
+      "options": ["Hamas releasing hostages", "Hezbollah ceasing its attacks", "Israel withdrawing from Gaza", "UN peacekeepers deploying"],
+      "answer": "Hezbollah ceasing its attacks"
+    },
+    {
+      "id": "ca_2026_06_100",
+      "category": "Awards",
+      "question": "Who gave the Padma Vibhushan award for Public Affairs in Kerala from the 2026 list — a noted RSS leader and writer?",
+      "imageUrl": null,
+      "options": ["K. T. Thomas", "P. Narayanan", "Vellappally Natesan", "R. Ganesh"],
+      "answer": "P. Narayanan"
     }
   ]
 }
