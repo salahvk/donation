@@ -1,0 +1,1306 @@
+{
+  "version": 1,
+  "currentAffairsUpdated": "2026-06-10",
+  "questions": [
+    {
+      "id": "kh_1",
+      "category": "Kerala History",
+      "question": "Who founded SNDP Yogam?",
+      "imageUrl": null,
+      "options": [
+        "Ayyankali",
+        "Chattampi Swamikal",
+        "Sree Narayana Guru",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": "kh_2",
+      "category": "Kerala History",
+      "question": "Which dynasty ruled Travancore before Indian independence?",
+      "imageUrl": null,
+      "options": [
+        "Chola",
+        "Chera",
+        "Pandya",
+        "Hoysala"
+      ],
+      "answer": "Chera"
+    },
+    {
+      "id": "kh_3",
+      "category": "Kerala History",
+      "question": "The Vaikom Satyagraha was launched in which year?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vaikom_Temple.jpg/440px-Vaikom_Temple.jpg",
+      "options": [
+        "1920",
+        "1924",
+        "1930",
+        "1936"
+      ],
+      "answer": "1924"
+    },
+    {
+      "id": "kh_4",
+      "category": "Kerala History",
+      "question": "Who was known as the 'Father of Malayalam Journalism'?",
+      "imageUrl": null,
+      "options": [
+        "Kesava Pillai",
+        "Swadeshabhimani Ramakrishna Pillai",
+        "Vaikunda Swami",
+        "Ayyankali"
+      ],
+      "answer": "Swadeshabhimani Ramakrishna Pillai"
+    },
+    {
+      "id": "kh_5",
+      "category": "Kerala History",
+      "question": "The Temple Entry Proclamation in Travancore was issued in?",
+      "imageUrl": null,
+      "options": [
+        "1924",
+        "1936",
+        "1947",
+        "1956"
+      ],
+      "answer": "1936"
+    },
+    {
+      "id": "kh_6",
+      "category": "Kerala History",
+      "question": "Which Portuguese explorer first reached Kerala?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vascodagama.JPG/440px-Vascodagama.JPG",
+      "options": [
+        "Vasco da Gama",
+        "Columbus",
+        "Magellan",
+        "Dias"
+      ],
+      "answer": "Vasco da Gama"
+    },
+    {
+      "id": "kh_7",
+      "category": "Kerala History",
+      "question": "The capital of the ancient Chera kingdom was?",
+      "imageUrl": null,
+      "options": [
+        "Madurai",
+        "Muziris",
+        "Kanchi",
+        "Pataliputra"
+      ],
+      "answer": "Muziris"
+    },
+    {
+      "id": "kh_8",
+      "category": "Kerala History",
+      "question": "Who led the Guruvayur Satyagraha?",
+      "imageUrl": null,
+      "options": [
+        "K. Kelappan",
+        "A.K. Gopalan",
+        "E.M.S. Namboodiripad",
+        "Mannath Padmanabhan"
+      ],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": "kh_9",
+      "category": "Kerala History",
+      "question": "Kerala state was formed on?",
+      "imageUrl": null,
+      "options": [
+        "1 November 1956",
+        "15 August 1947",
+        "26 January 1950",
+        "1 July 1949"
+      ],
+      "answer": "1 November 1956"
+    },
+    {
+      "id": "kh_10",
+      "category": "Kerala History",
+      "question": "The first Malayalam newspaper was?",
+      "imageUrl": null,
+      "options": [
+        "Deepika",
+        "Rajyasamacharam",
+        "Malayala Manorama",
+        "Mathrubhumi"
+      ],
+      "answer": "Rajyasamacharam"
+    },
+    {
+      "id": "kr_1",
+      "category": "Kerala Renaissance",
+      "question": "Who wrote 'Daivathinte Pusthakam'?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_2",
+      "category": "Kerala Renaissance",
+      "question": "The literary movement led by Kumaran Asan, Vallathol and Ulloor is called?",
+      "imageUrl": null,
+      "options": [
+        "Purogamana Sahithya",
+        "Manipravalam",
+        "Kilippattu",
+        "Kathakali"
+      ],
+      "answer": "Purogamana Sahithya"
+    },
+    {
+      "id": "kr_3",
+      "category": "Kerala Renaissance",
+      "question": "Who founded the Nair Service Society (NSS)?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mannath_Padmanabhan.jpg/440px-Mannath_Padmanabhan.jpg",
+      "options": [
+        "Sree Narayana Guru",
+        "Mannath Padmanabhan",
+        "Ayyankali",
+        "Chattampi Swamikal"
+      ],
+      "answer": "Mannath Padmanabhan"
+    },
+    {
+      "id": "kr_4",
+      "category": "Kerala Renaissance",
+      "question": "The famous poem 'Veena Poovu' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Changampuzha",
+        "ONV Kurup"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "kr_5",
+      "category": "Kerala Renaissance",
+      "question": "Who is known as 'Mahakavi' of Malayalam?",
+      "imageUrl": null,
+      "options": [
+        "Ulloor",
+        "Vallathol Narayana Menon",
+        "Kumaran Asan",
+        "E.V. Krishna Pillai"
+      ],
+      "answer": "Vallathol Narayana Menon"
+    },
+    {
+      "id": "kr_6",
+      "category": "Kerala Renaissance",
+      "question": "The journal 'Mithavadi' was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "C. Krishnan",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "C. Krishnan"
+    },
+    {
+      "id": "kr_7",
+      "category": "Kerala Renaissance",
+      "question": "Who established the Sadhu Jana Paripalana Sangham?",
+      "imageUrl": null,
+      "options": [
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Chattampi Swamikal",
+        "V.T. Bhattathiripad"
+      ],
+      "answer": "Ayyankali"
+    },
+    {
+      "id": "kr_8",
+      "category": "Kerala Renaissance",
+      "question": "The play 'Adukkalayil Ninnu Arangathekku' was written by?",
+      "imageUrl": null,
+      "options": [
+        "V.T. Bhattathiripad",
+        "Thoppil Bhasi",
+        "C.J. Thomas",
+        "Kavalam Narayana Panicker"
+      ],
+      "answer": "V.T. Bhattathiripad"
+    },
+    {
+      "id": "kr_9",
+      "category": "Kerala Renaissance",
+      "question": "Who wrote 'Keralolpathi'?",
+      "imageUrl": null,
+      "options": [
+        "Unknown traditional",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar"
+      ],
+      "answer": "Unknown traditional"
+    },
+    {
+      "id": "kr_10",
+      "category": "Kerala Renaissance",
+      "question": "The renaissance leader who installed a mirror in a temple to show inequality was?",
+      "imageUrl": null,
+      "options": [
+        "Chattampi Swamikal",
+        "Sree Narayana Guru",
+        "Ayyankali",
+        "Vakkom Moulavi"
+      ],
+      "answer": "Chattampi Swamikal"
+    },
+    {
+      "id": "ih_1",
+      "category": "Indian History",
+      "question": "Who was the first President of India?",
+      "imageUrl": null,
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad",
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "id": "ih_2",
+      "category": "Indian History",
+      "question": "The Jallianwala Bagh massacre took place in?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jallianwala_Bagh_Amritsar.jpg/440px-Jallianwala_Bagh_Amritsar.jpg",
+      "options": [
+        "1919",
+        "1920",
+        "1921",
+        "1922"
+      ],
+      "answer": "1919"
+    },
+    {
+      "id": "ih_3",
+      "category": "Indian History",
+      "question": "Who is known as the 'Iron Man of India'?",
+      "imageUrl": null,
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Lal Bahadur Shastri"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "id": "ih_4",
+      "category": "Indian History",
+      "question": "The Quit India Movement was launched in?",
+      "imageUrl": null,
+      "options": [
+        "1940",
+        "1942",
+        "1945",
+        "1947"
+      ],
+      "answer": "1942"
+    },
+    {
+      "id": "ih_5",
+      "category": "Indian History",
+      "question": "Who founded the Indian National Congress in 1885?",
+      "imageUrl": null,
+      "options": [
+        "Mahatma Gandhi",
+        "A.O. Hume",
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale"
+      ],
+      "answer": "A.O. Hume"
+    },
+    {
+      "id": "ih_6",
+      "category": "Indian History",
+      "question": "The Battle of Plassey was fought in?",
+      "imageUrl": null,
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1772"
+      ],
+      "answer": "1757"
+    },
+    {
+      "id": "ih_7",
+      "category": "Indian History",
+      "question": "Who wrote the book 'Discovery of India'?",
+      "imageUrl": null,
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "id": "ih_8",
+      "category": "Indian History",
+      "question": "The Dandi March was associated with?",
+      "imageUrl": null,
+      "options": [
+        "Non-Cooperation",
+        "Civil Disobedience",
+        "Quit India",
+        "Swadeshi"
+      ],
+      "answer": "Civil Disobedience"
+    },
+    {
+      "id": "ih_9",
+      "category": "Indian History",
+      "question": "Who was the last Mughal Emperor?",
+      "imageUrl": null,
+      "options": [
+        "Akbar",
+        "Aurangzeb",
+        "Bahadur Shah II",
+        "Shah Jahan"
+      ],
+      "answer": "Bahadur Shah II"
+    },
+    {
+      "id": "ih_10",
+      "category": "Indian History",
+      "question": "The first war of Indian independence is also called?",
+      "imageUrl": null,
+      "options": [
+        "Sepoy Mutiny",
+        "Green Revolution",
+        "Salt Satyagraha",
+        "Khilafat Movement"
+      ],
+      "answer": "Sepoy Mutiny"
+    },
+    {
+      "id": "geo_1",
+      "category": "Geography",
+      "question": "Which is the longest river in Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Bharathapuzha",
+        "Periyar",
+        "Pamba",
+        "Chaliyar"
+      ],
+      "answer": "Periyar"
+    },
+    {
+      "id": "geo_2",
+      "category": "Geography",
+      "question": "The highest peak in Kerala is?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Anamudi_Peak.jpg/440px-Anamudi_Peak.jpg",
+      "options": [
+        "Anamudi",
+        "Meesapulimala",
+        "Agasthyarkoodam",
+        "Chembra"
+      ],
+      "answer": "Anamudi"
+    },
+    {
+      "id": "geo_3",
+      "category": "Geography",
+      "question": "Which district is known as the 'Spice Garden of Kerala'?",
+      "imageUrl": null,
+      "options": [
+        "Idukki",
+        "Wayanad",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answer": "Idukki"
+    },
+    {
+      "id": "geo_4",
+      "category": "Geography",
+      "question": "The backwaters of Kerala are mainly in which district?",
+      "imageUrl": null,
+      "options": [
+        "Alappuzha",
+        "Palakkad",
+        "Kasaragod",
+        "Pathanamthitta"
+      ],
+      "answer": "Alappuzha"
+    },
+    {
+      "id": "geo_5",
+      "category": "Geography",
+      "question": "Which ocean lies to the west of Kerala?",
+      "imageUrl": null,
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": "Indian Ocean"
+    },
+    {
+      "id": "geo_6",
+      "category": "Geography",
+      "question": "The Western Ghats in Kerala are a UNESCO?",
+      "imageUrl": null,
+      "options": [
+        "World Heritage Site",
+        "Biosphere only",
+        "National Park",
+        "Wildlife Sanctuary only"
+      ],
+      "answer": "World Heritage Site"
+    },
+    {
+      "id": "geo_7",
+      "category": "Geography",
+      "question": "Which is the smallest district in Kerala by area?",
+      "imageUrl": null,
+      "options": [
+        "Alappuzha",
+        "Kasaragod",
+        "Pathanamthitta",
+        "Wayanad"
+      ],
+      "answer": "Alappuzha"
+    },
+    {
+      "id": "geo_8",
+      "category": "Geography",
+      "question": "The capital of Kerala is?",
+      "imageUrl": null,
+      "options": [
+        "Kochi",
+        "Thiruvananthapuram",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "id": "geo_9",
+      "category": "Geography",
+      "question": "Vembanad Lake is located in?",
+      "imageUrl": null,
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "id": "geo_10",
+      "category": "Geography",
+      "question": "Which strait separates India from Sri Lanka?",
+      "imageUrl": null,
+      "options": [
+        "Palk Strait",
+        "Bering Strait",
+        "Strait of Hormuz",
+        "Malacca Strait"
+      ],
+      "answer": "Palk Strait"
+    },
+    {
+      "id": "sci_1",
+      "category": "Science",
+      "question": "What is the chemical symbol for gold?",
+      "imageUrl": null,
+      "options": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "answer": "Au"
+    },
+    {
+      "id": "sci_2",
+      "category": "Science",
+      "question": "The powerhouse of the cell is?",
+      "imageUrl": null,
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "sci_3",
+      "category": "Science",
+      "question": "Speed of light in vacuum is approximately?",
+      "imageUrl": null,
+      "options": [
+        "3×10⁸ m/s",
+        "3×10⁶ m/s",
+        "3×10¹⁰ m/s",
+        "3×10⁴ m/s"
+      ],
+      "answer": "3×10⁸ m/s"
+    },
+    {
+      "id": "sci_4",
+      "category": "Science",
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Photosynthesis_en.svg/440px-Photosynthesis_en.svg.png",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "sci_5",
+      "category": "Science",
+      "question": "The boiling point of water at sea level is?",
+      "imageUrl": null,
+      "options": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "120°C"
+      ],
+      "answer": "100°C"
+    },
+    {
+      "id": "sci_6",
+      "category": "Science",
+      "question": "Newton's first law is also called the law of?",
+      "imageUrl": null,
+      "options": [
+        "Inertia",
+        "Acceleration",
+        "Gravitation",
+        "Action-Reaction"
+      ],
+      "answer": "Inertia"
+    },
+    {
+      "id": "sci_7",
+      "category": "Science",
+      "question": "Which planet is known as the Red Planet?",
+      "imageUrl": null,
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": "sci_8",
+      "category": "Science",
+      "question": "The unit of electric current is?",
+      "imageUrl": null,
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "id": "sci_9",
+      "category": "Science",
+      "question": "Human blood contains which iron-containing pigment?",
+      "imageUrl": null,
+      "options": [
+        "Chlorophyll",
+        "Haemoglobin",
+        "Melanin",
+        "Keratin"
+      ],
+      "answer": "Haemoglobin"
+    },
+    {
+      "id": "sci_10",
+      "category": "Science",
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "imageUrl": null,
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "id": "pol_1",
+      "category": "Polity",
+      "question": "The Constitution of India came into force on?",
+      "imageUrl": null,
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "1 January 1950"
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "id": "pol_2",
+      "category": "Polity",
+      "question": "How many fundamental rights are in the Indian Constitution?",
+      "imageUrl": null,
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "pol_3",
+      "category": "Polity",
+      "question": "The Lok Sabha can have a maximum of how many members?",
+      "imageUrl": null,
+      "options": [
+        "545",
+        "552",
+        "560",
+        "500"
+      ],
+      "answer": "552"
+    },
+    {
+      "id": "pol_4",
+      "category": "Polity",
+      "question": "Who is the head of the State Government in India?",
+      "imageUrl": null,
+      "options": [
+        "President",
+        "Governor",
+        "Chief Minister",
+        "Prime Minister"
+      ],
+      "answer": "Chief Minister"
+    },
+    {
+      "id": "pol_5",
+      "category": "Polity",
+      "question": "Article 370 was related to which state/UT?",
+      "imageUrl": null,
+      "options": [
+        "Jammu and Kashmir",
+        "Ladakh",
+        "Punjab",
+        "Assam"
+      ],
+      "answer": "Jammu and Kashmir"
+    },
+    {
+      "id": "pol_6",
+      "category": "Polity",
+      "question": "The Panchayati Raj system was constitutionalized by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "73rd"
+    },
+    {
+      "id": "pol_7",
+      "category": "Polity",
+      "question": "The President of India is elected for a term of?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/440px-Emblem_of_India.svg.png",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "id": "pol_8",
+      "category": "Polity",
+      "question": "Which body conducts elections in India?",
+      "imageUrl": null,
+      "options": [
+        "Supreme Court",
+        "Election Commission",
+        "Parliament",
+        "Cabinet"
+      ],
+      "answer": "Election Commission"
+    },
+    {
+      "id": "pol_9",
+      "category": "Polity",
+      "question": "The Rajya Sabha is also called the?",
+      "imageUrl": null,
+      "options": [
+        "Lower House",
+        "Upper House",
+        "People's House",
+        "State House"
+      ],
+      "answer": "Upper House"
+    },
+    {
+      "id": "pol_10",
+      "category": "Polity",
+      "question": "Fundamental Duties were added by which amendment?",
+      "imageUrl": null,
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "42nd"
+    },
+    {
+      "id": "ca_1",
+      "category": "Current Affairs",
+      "question": "India's current Prime Minister (2026) is?",
+      "imageUrl": null,
+      "options": [
+        "Manmohan Singh",
+        "Narendra Modi",
+        "Rahul Gandhi",
+        "Amit Shah"
+      ],
+      "answer": "Narendra Modi"
+    },
+    {
+      "id": "ca_2",
+      "category": "Current Affairs",
+      "question": "The G20 Summit 2023 was hosted by which country?",
+      "imageUrl": null,
+      "options": [
+        "USA",
+        "India",
+        "China",
+        "UK"
+      ],
+      "answer": "India"
+    },
+    {
+      "id": "ca_3",
+      "category": "Current Affairs",
+      "question": "Chandrayaan-3 landed on the Moon in which year?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Chandrayaan-3_Lander_and_Rover.jpg/440px-Chandrayaan-3_Lander_and_Rover.jpg",
+      "options": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "answer": "2023"
+    },
+    {
+      "id": "ca_4",
+      "category": "Current Affairs",
+      "question": "Kerala's current Chief Minister (as of 2024) is?",
+      "imageUrl": null,
+      "options": [
+        "Oommen Chandy",
+        "Pinarayi Vijayan",
+        "V.S. Achuthanandan",
+        "A.K. Antony"
+      ],
+      "answer": "Pinarayi Vijayan"
+    },
+    {
+      "id": "ca_5",
+      "category": "Current Affairs",
+      "question": "The currency of India is?",
+      "imageUrl": null,
+      "options": [
+        "Rupee",
+        "Dollar",
+        "Euro",
+        "Yen"
+      ],
+      "answer": "Rupee"
+    },
+    {
+      "id": "ca_6",
+      "category": "Current Affairs",
+      "question": "ISRO stands for?",
+      "imageUrl": null,
+      "options": [
+        "Indian Space Research Organisation",
+        "International Space Research Organisation",
+        "Indian Satellite Research Organisation",
+        "Indian Science Research Organisation"
+      ],
+      "answer": "Indian Space Research Organisation"
+    },
+    {
+      "id": "ca_7",
+      "category": "Current Affairs",
+      "question": "The Nobel Peace Prize is awarded in which country?",
+      "imageUrl": null,
+      "options": [
+        "Sweden",
+        "Norway",
+        "USA",
+        "UK"
+      ],
+      "answer": "Norway"
+    },
+    {
+      "id": "ca_8",
+      "category": "Current Affairs",
+      "question": "United Nations headquarters is in?",
+      "imageUrl": null,
+      "options": [
+        "London",
+        "Geneva",
+        "New York",
+        "Paris"
+      ],
+      "answer": "New York"
+    },
+    {
+      "id": "ca_9",
+      "category": "Current Affairs",
+      "question": "The national animal of India is?",
+      "imageUrl": null,
+      "options": [
+        "Lion",
+        "Tiger",
+        "Elephant",
+        "Peacock"
+      ],
+      "answer": "Tiger"
+    },
+    {
+      "id": "ca_10",
+      "category": "Current Affairs",
+      "question": "Digital India initiative was launched in?",
+      "imageUrl": null,
+      "options": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "answer": "2015"
+    },
+    {
+      "id": "ml_1",
+      "category": "Malayalam",
+      "question": "Who wrote 'Randamoozham'?",
+      "imageUrl": null,
+      "options": [
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi",
+        "OV Vijayan"
+      ],
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "id": "ml_2",
+      "category": "Malayalam",
+      "question": "The author of 'Chemmeen' is?",
+      "imageUrl": null,
+      "options": [
+        "Thakazhi Sivasankara Pillai",
+        "Basheer",
+        "Kamala Surayya",
+        "Madhavikutty"
+      ],
+      "answer": "Thakazhi Sivasankara Pillai"
+    },
+    {
+      "id": "ml_3",
+      "category": "Malayalam",
+      "question": "Who is known as 'Beypore Sultan'?",
+      "imageUrl": null,
+      "options": [
+        "Vaikom Muhammad Basheer",
+        "Kunjan Nambiar",
+        "Ezhuthachan",
+        "Kumaran Asan"
+      ],
+      "answer": "Vaikom Muhammad Basheer"
+    },
+    {
+      "id": "ml_4",
+      "category": "Malayalam",
+      "question": "The first novel in Malayalam is?",
+      "imageUrl": null,
+      "options": [
+        "Indulekha",
+        "Chemmeen",
+        "Randamoozham",
+        "Khasakkinte Ithihasam"
+      ],
+      "answer": "Indulekha"
+    },
+    {
+      "id": "ml_5",
+      "category": "Malayalam",
+      "question": "Who wrote 'Khasakkinte Ithihasam'?",
+      "imageUrl": null,
+      "options": [
+        "OV Vijayan",
+        "M.T. Vasudevan Nair",
+        "Basheer",
+        "Thakazhi"
+      ],
+      "answer": "OV Vijayan"
+    },
+    {
+      "id": "ml_6",
+      "category": "Malayalam",
+      "question": "The father of Malayalam language development is considered?",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Thunchaththu_Ezhuthachan.jpg/440px-Thunchaththu_Ezhuthachan.jpg",
+      "options": [
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kunchan Nambiar",
+        "Ulloor"
+      ],
+      "answer": "Ezhuthachan"
+    },
+    {
+      "id": "ml_7",
+      "category": "Malayalam",
+      "question": "'Oru Desathinte Katha' was written by?",
+      "imageUrl": null,
+      "options": [
+        "S.K. Pottekkatt",
+        "Basheer",
+        "Thakazhi",
+        "M.T. Vasudevan Nair"
+      ],
+      "answer": "S.K. Pottekkatt"
+    },
+    {
+      "id": "ml_8",
+      "category": "Malayalam",
+      "question": "The literary form 'Kilippattu' was popularized by?",
+      "imageUrl": null,
+      "options": [
+        "Kunchan Nambiar",
+        "Ezhuthachan",
+        "Cherusseri",
+        "Kumaran Asan"
+      ],
+      "answer": "Kunchan Nambiar"
+    },
+    {
+      "id": "ml_9",
+      "category": "Malayalam",
+      "question": "Who won the first Jnanpith Award in Malayalam?",
+      "imageUrl": null,
+      "options": [
+        "G. Sankara Kurup",
+        "M.T. Vasudevan Nair",
+        "ONV Kurup",
+        "Sugathakumari"
+      ],
+      "answer": "G. Sankara Kurup"
+    },
+    {
+      "id": "ml_10",
+      "category": "Malayalam",
+      "question": "The poem 'Karuna' was written by?",
+      "imageUrl": null,
+      "options": [
+        "Kumaran Asan",
+        "Vallathol",
+        "Ulloor",
+        "Changampuzha"
+      ],
+      "answer": "Kumaran Asan"
+    },
+    {
+      "id": "en_1",
+      "category": "English",
+      "question": "Choose the correct synonym of 'Abundant'.",
+      "imageUrl": null,
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "answer": "Plentiful"
+    },
+    {
+      "id": "en_2",
+      "category": "English",
+      "question": "The antonym of 'Ancient' is?",
+      "imageUrl": null,
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Aged"
+      ],
+      "answer": "Modern"
+    },
+    {
+      "id": "en_3",
+      "category": "English",
+      "question": "Fill in: She ___ to school every day.",
+      "imageUrl": null,
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": "goes"
+    },
+    {
+      "id": "en_4",
+      "category": "English",
+      "question": "Which is a correct sentence?",
+      "imageUrl": null,
+      "options": [
+        "He don't like tea",
+        "He doesn't like tea",
+        "He not like tea",
+        "He doesn't likes tea"
+      ],
+      "answer": "He doesn't like tea"
+    },
+    {
+      "id": "en_5",
+      "category": "English",
+      "question": "The plural of 'child' is?",
+      "imageUrl": null,
+      "options": [
+        "childs",
+        "children",
+        "childes",
+        "childrens"
+      ],
+      "answer": "children"
+    },
+    {
+      "id": "en_6",
+      "category": "English",
+      "question": "A person who writes books is called a?",
+      "imageUrl": null,
+      "options": [
+        "Author",
+        "Editor",
+        "Publisher",
+        "Printer"
+      ],
+      "answer": "Author"
+    },
+    {
+      "id": "en_7",
+      "category": "English",
+      "question": "Choose the correctly spelled word.",
+      "imageUrl": null,
+      "options": [
+        "Accomodation",
+        "Accommodation",
+        "Acommodation",
+        "Accomadation"
+      ],
+      "answer": "Accommodation"
+    },
+    {
+      "id": "en_8",
+      "category": "English",
+      "question": "The opposite of 'Generous' is?",
+      "imageUrl": null,
+      "options": [
+        "Kind",
+        "Stingy",
+        "Noble",
+        "Helpful"
+      ],
+      "answer": "Stingy"
+    },
+    {
+      "id": "en_9",
+      "category": "English",
+      "question": "Which word is a noun?",
+      "imageUrl": null,
+      "options": [
+        "Quickly",
+        "Happiness",
+        "Run",
+        "Beautiful"
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "id": "en_10",
+      "category": "English",
+      "question": "Fill in: I have lived here ___ 2010.",
+      "imageUrl": null,
+      "options": [
+        "since",
+        "for",
+        "from",
+        "by"
+      ],
+      "answer": "since"
+    },
+    {
+      "id": "rs_1",
+      "category": "Reasoning",
+      "question": "Find the next number: 2, 4, 8, 16, ?",
+      "imageUrl": null,
+      "options": [
+        "20",
+        "24",
+        "32",
+        "18"
+      ],
+      "answer": "32"
+    },
+    {
+      "id": "rs_2",
+      "category": "Reasoning",
+      "question": "If CAT is coded as 3120, how is DOG coded?",
+      "imageUrl": null,
+      "options": [
+        "4157",
+        "4156",
+        "4158",
+        "4159"
+      ],
+      "answer": "4157"
+    },
+    {
+      "id": "rs_3",
+      "category": "Reasoning",
+      "question": "A is B's brother. B is C's sister. C is D's father. How is A related to D?",
+      "imageUrl": null,
+      "options": [
+        "Uncle",
+        "Father",
+        "Brother",
+        "Cousin"
+      ],
+      "answer": "Uncle"
+    },
+    {
+      "id": "rs_4",
+      "category": "Reasoning",
+      "question": "Which does not belong: Apple, Mango, Potato, Orange?",
+      "imageUrl": null,
+      "options": [
+        "Apple",
+        "Mango",
+        "Potato",
+        "Orange"
+      ],
+      "answer": "Potato"
+    },
+    {
+      "id": "rs_5",
+      "category": "Reasoning",
+      "question": "Complete the series: AZ, BY, CX, ?",
+      "imageUrl": null,
+      "options": [
+        "DW",
+        "DU",
+        "DV",
+        "DX"
+      ],
+      "answer": "DW"
+    },
+    {
+      "id": "rs_6",
+      "category": "Reasoning",
+      "question": "If 5 workers complete a job in 10 days, 10 workers will take?",
+      "imageUrl": null,
+      "options": [
+        "5 days",
+        "10 days",
+        "20 days",
+        "15 days"
+      ],
+      "answer": "5 days"
+    },
+    {
+      "id": "rs_7",
+      "category": "Reasoning",
+      "question": "Find the odd one: Square, Circle, Triangle, Cube?",
+      "imageUrl": null,
+      "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Cube"
+      ],
+      "answer": "Cube"
+    },
+    {
+      "id": "rs_8",
+      "category": "Reasoning",
+      "question": "Ram is taller than Shyam. Shyam is taller than Mohan. Who is shortest?",
+      "imageUrl": null,
+      "options": [
+        "Ram",
+        "Shyam",
+        "Mohan",
+        "Cannot say"
+      ],
+      "answer": "Mohan"
+    },
+    {
+      "id": "rs_9",
+      "category": "Reasoning",
+      "question": "What comes next: J, F, M, A, M, ?",
+      "imageUrl": null,
+      "options": [
+        "J",
+        "A",
+        "S",
+        "O"
+      ],
+      "answer": "J"
+    },
+    {
+      "id": "rs_10",
+      "category": "Reasoning",
+      "question": "If North is to your left, which direction are you facing?",
+      "imageUrl": null,
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "answer": "West"
+    }
+  ]
+}
